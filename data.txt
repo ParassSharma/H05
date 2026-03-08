@@ -1,0 +1,1581 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11
+4	1124 m^2	0.7881	robotics engineering	hamster	0.0117	834	1.1548	995	Lise	1227	636	0.8554
+0	226 m^2	0.2046	Biotechnology	cat	1.162	930	0.3774	181	Reilly	295	1045	0.898
+4	939 m^2	0.8054	Bioinformatics	bird	0.3354	708	0.681	1074	Inan	814	742	0.6471
+1	1116 m^2	0.9563	Electrical Engineering	reptile	1.0607	867	0.9904	1048	Vani	987	955	1.1655
+6	917 m^2	0.8966	Technology and Information Management	pig	1.139	870	1.0529	1080	Eriq	1174	1179	0.8501
+1	961 m^2	0.8344	Electrical Engineering	reptile	1.1646	1016	0.8386	1021	Vani	994	1335	0.8583
+4	1002 m^2	0.6827	Robotics Engineering	guinea pig	0.0991	n/a	0.5784	943	Fabrice	907	896	0.5619
+3	740 m^2	0.4267	Computer Game Design	ferret	0.9106	1157	0.8576	880	Andrew	1059	1204	0.9432
+4	1030 m^2	0.7487	Robotics Engineering	guinea pig	0.3581	572	0.5127	939	Inan	1220	870	0.6594
+7	1055 m^2	1.0349	Computer Engineering	cat	0.3472	905	0.6273	839	Chris	542	36	1.2212
+7	836 m^2	0.539	Data Science	cat	0.7207	898	1.1054	806	Chris	984	82	1.0069
+2	1116 m^2	0.7026	Games and Playable Media	rat	0.7119	1054	0.4773	143	Michael	879	338	0.1642
+5	1042 m^2	0.9828	Applied Mathematics	FISH	0.5956	205	0.358	819	Fabrice	1143	711	0.7752
+1	1073 m^2	1.3436	Electrical Engineering	reptile	1.093	1035	0.8942	1117	Vani	997	775	0.9931
+1	1133 m^2	1.0859	Electrical Engineering	reptile	1.0008	966	0.8915	987	Fabrice	1408	1092	0.9484
+4	1090 m^2	0.9307	bIOINFORMATICS	guinea pig	0.435	755	0.9033	965	Lise	1064	616	1.0821
+2	1002 m^2	0.9266	Games and Playable Media	chicken	1.0869	838	0.9985	320	Michael	1154	387	0.4988
+6	602 m^2	1.1567	Computational Media	hamster	1.0763	1060	0.884	1122	Eriq	860	1106	0.6573
+7	1101 m^2	0.6733	Data Science	cat	0.8564	1060	1.0991	925	Chris	1288	142	1.0579
+2	1176 m^2	0.63	Games and Playable Media	rat	0.9417	1075	1.1325	298	Inan	1144	549	0.1882
+5	1060 m^2	1.0397	Applied Mathematics	fish	0.7077	345	0.762	666	Fabrice	787	877	0.7524
+8	1230 m^2	0.9348	Computer Science	rabbit	0.8962	1367	n/a	1125	Tony	954	1028	0.9431
+5	713 m^2	1.15	Bioengineering	fish	0.5488	323	0.7969	855	Fabrice	1036	642	0.8665
+3	1095 m^2	0.1865	Human Computer Interaction	ferret	0.8199	894	0.8927	1024	Andrew	909	1077	0.9227
+6	740 m^2	0.9904	Technology and Information Management	pig	0.9171	911	0.968	1083	Eriq	1055	912	1.1801
+0	179 m^2	-0.0554	Natural Language Processing	rabbit	0.9452	1092	0.3325	212	Reilly	356	1241	1.2111
+4	1128 m^2	0.6827	Bioinformatics	bird	0.4916	736	0.8413	897	Lise	956	912	0.887
+0	293 m^2	0.3752	Computer Engineering	rabbit	0.5345	1243	0.2726	175	Reilly	775	821	1.0204
+7	881 m^2	0.6912	Natural Language Processing	cat	0.654	977	0.7406	1105	Chris	1087	-137	1.0451
+4	933 m^2	1.0408	Human Computer Interaction	guinea pig	0.2171	768	1.0308	1073	Inan	972	610	0.66
+7	1108 m^2	0.4991	Data Science	cat	0.4992	874	1.2501	815	Fabrice	1120	-71	0.9211
+3	1320 m^2	0.4809	Computer Game Design	ferret	0.8212	1074	0.9613	811	Andrew	711	1022	0.6825
+7	1107 m^2	0.8826	Data Science	cat	0.5518	1289	1.3183	712	Chris	1086	169	1.197
+7	1071 m^2	0.8723	Data Science	cat	0.5493	935	1.1679	1096	Chris	1429	118	1.2775
+5	794 m^2	1.4592	Computer Science	rat	0.5768	296	1.2223	654	Fabrice	1141	772	0.985
+3	1142 m^2	0.1866	Computer Game Design	ferret	0.7925	911	0.9889	1041	Andrew	970	802	0.8916
+4	1105 m^2	0.8712	Robotics Engineering	guinea pig	0.1848	878	0.7368	1102	Lise	1021	746	0.7626
+6	760 m^2	0.7774	Technology and Information Management	pig	1.0306	975	0.9835	928	Eriq	1162	1107	1.2481
+7	1029 m^2	0.3183	Data Science	cat	0.6489	1033	0.8937	1107	Chris	959	-278	1.1724
+6	771 m^2	0.7169	Technology and Information Management	pig	1.1393	1075	1.12	1072	Eriq	703	776	0.8749
+0	179 m^2	-0.0911	natural language processing	reptile	0.5846	913	0.1577	247	Reilly	954	805	0.8401
+6	484 m^2	0.8542	Technology and Information Management	Cat	1.1176	715	0.8699	853	Eriq	1257	817	1.1732
+5	1258 m^2	1.1844	Applied Mathematics	FISH	0.7387	590	0.7549	677	Fabrice	540	669	0.8142
+8	1146 m^2	1.1977	Computer Science	rabbit	0.8573	876	0.972	1078	Vani	867	676	0.7549
+4	906 m^2	0.8996	Robotics Engineering	bird	0.5604	953	1.0863	891	Lise	1205	844	0.5386
+1	N/A	0.6667	Electrical Engineering	reptile	0.996	989	0.7408	517	Vani	1460	1024	0.8037
+0	91 m^2	-0.0259	Natural Language Processing	rabbit	0.9493	1129	0.5906	553	Reilly	704	973	1.2539
+0	408 m^2	0.0686	Natural Language Processing	rabbit	1.1114	953	0.2061	345	Reilly	144	1086	0.9654
+6	687 m^2	1.071	Computational Media	pig	1.0866	944	0.9318	1113	Eriq	1317	795	1.2295
+5	1045 m^2	0.9767	Applied Mathematics	fish	0.4908	463	0.9379	1012	Fabrice	545	813	1.103
+3	954 m^2	0.4909	Human Computer Interaction	hamster	1.0593	782	0.8684	714	Andrew	941	860	1.0497
+1	906 m^2	0.8741	Electrical Engineering	reptile	0.8031	?	1.0209	815	Vani	1045	801	1.2704
+3	1000 m^2	0.1861	Statistics	hamster	1.021	888	1.2208	964	Andrew	868	743	0.587
+0	68 m^2	0.3936	Natural Language Processing	rabbit	0.7756	1178	0.5626	544	Reilly	406	1045	0.6887
+4	1045 m^2	1.296	Robotics Engineering	bird	0.1779	1029	0.8564	811	Inan	1103	838	0.9148
+8	931 m^2	0.8037	Computer Science	Dog	1.2332	990	1.1529	1188	Eriq	994	860	1.2322
+0	91 m^2	0.1167	Computer Engineering	rabbit	0.611	898	0.192	142	Reilly	499	848	0.8635
+3	1269 m^2	0.2865	Computer Science	ferret	1.0186	1092	0.806	925	Andrew	1226	1308	0.9458
+6	531 m^2	0.6268	Technology and Information Management	rat	1.0666	724	0.4791	1048	Eriq	1309	802	0.9086
+8	936 m^2	0.8608	Computer Science	dog	0.9374	1230	1.1996	988	Tony	1048	736	1.0333
+8	1085 m^2	0.8813	Computer Science	dog	1.0948	1038	1.1007	1116	Tony	861	1056	1.1038
+8	934 m^2	1.1894	Computer Science	dog	0.7994	1022	None	1147	Tony	1456	922	0.9621
+4	814 m^2	1.4127	Applied Mathematics	guinea pig	0.4806	794	0.9802	1029	Inan	993	650	0.8751
+0	328 m^2	0.1243	Natural Language Processing	rabbit	0.8348	773	0.2083	n/a	Reilly	730	936	0.8977
+7	940 m^2	1.0527	Data Science	cat	0.509	621	0.9674	1525	Chris	1162	117	0.9748
+5	1382 m^2	1.009	Bioengineering	fish	1.0627	371	0.9446	761	FABRICE	1545	912	0.9919
+1	888 m^2	1.1916	Electrical Engineering	reptile	0.6879	1021	0.6938	978	Michael	1289	896	0.8957
+8	999 m^2	1.2771	Computer Science	dog	0.811	884	0.6351	962	Tony	1286	1159	1.1011
+4	708 m^2	1.0017	Bioinformatics	bird	0.0923	1070	0.7164	981	Inan	1025	604	0.6435
+5	713 m^2	0.5104	Computer Science	fish	0.6204	422	0.8932	615	Fabrice	1041	659	0.8743
+2	1144 m^2	1.1468	Games and Playable Media	chicken	1.3843	979	1.0196	118	Michael	1253	n/a	0.4689
+0	239 m^2	0.5226	Biotechnology	rabbit	0.4442	958	0.1849	428	Reilly	248	1203	0.963
+1	959 m^2	0.7035	Electrical Engineering	pig	1.0506	875	0.9723	1495	Vani	1111	1027	1.1072
+2	973 m^2	0.7387	Electrical Engineering	rat	0.9311	985	0.8525	-30	Michael	1036	392	0.1098
+6	682 m^2	0.8686	Technology and Information Management	pig	1.0365	920	1.0559	1013	Fabrice	965	1043	1.2578
+3	1333 m^2	0.6454	HUMAN COMPUTER INTERACTION	guinea pig	1.2356	940	1.0259	939	Chris	1057	1057	0.6696
+7	1019 m^2	0.832	Data Science	cat	0.5306	1036	1.1412	1130	Chris	1197	-187	0.8872
+2	1112 m^2	1.0665	Games and Playable Media	rat	1.4488	625	1.4787	94	Michael	1044	638	0.2234
+7	810 m^2	0.9607	Data Science	cat	0.4535	1063	1.0582	990	Chris	1118	233	1.022
+8	959 m^2	0.7912	Computer Science	dog	0.9353	983	1.0853	891	Sam	1142	1190	0.7766
+8	1177 m^2	1.3963	Computer Science	dog	0.9142	1086	1.1388	734	Chris	851	846	0.9265
+2	1222 m^2	0.8818	Games and Playable Media	rat	0.8069	N/A	0.8493	275	Andrew	897	537	0.0403
+3	728 m^2	0.7189	Statistics	hamster	0.7017	1118	1.0538	1183	Andrew	843	971	0.9159
+8	983 m^2	0.8213	Computer Science	dog	1.4272	981	1.1849	1035	Inan	842	827	0.9631
+0	450 m^2	0.0844	Computer Engineering	rabbit	0.5253	1240	0.2855	-226	Reilly	482	884	1.0073
+6	750 m^2	1.2319	Technology and Information Management	pig	1.3138	923	1.0658	954	Eriq	1025	1078	1.2583
+6	820 m^2	0.8603	Games and Playable Media	rabbit	1.0329	1213	1.0893	1207	Lise	503	716	1.1269
+3	1381 m^2	0.5203	Computer Game Design	hamster	0.8938	896	0.6416	864	ANDREW	830	978	0.6825
+6	621 m^2	1.3533	Technology and Information Management	fish	0.899	890	1.4131	945	Eriq	957	943	0.9324
+7	724 m^2	0.5872	Data Science	cat	0.7166	935	1.0968	1306	Chris	958	-45	1.0016
+6	862 m^2	1.2513	Technology and Information Management	pig	0.7261	1043	1.2163	1158	Eriq	769	933	1.1688
+1	1046 m^2	1.0545		REPTILE	0.6699	?	NULL	918	Vani	745	1065	1.1485
+4	998 m^2	0.802	Bioinformatics	bird	0.1607	880	1.0481	956	Lise	994	689	0.9003
+4	1021 m^2	1.1786	Robotics Engineering	bird	0.1379	NULL	0.7707	937	Lise	1146	1086	0.6873
+6	537 m^2	0.8728	Computational Media	cat	0.6946	963	0.7983	1100	Eriq	559	900	0.9235
+2	1051 m^2	0.8802	Games and Playable Media	chicken	0.6507	999	0.6853	7	Michael	836	218	0.527
+8	988 m^2	0.9127	Computer Science	dog	0.9354	1291	1.1804	677	Sam	1435	777	1.0142
+7	901 m^2	0.9974	Data Science	cat	0.6415	1012	0.9241	792	N/A	1503	119	0.8268
+2	915 m^2	1.1157	Games and Playable Media	chicken	1.024	922	1.2651	267	Michael	490	175	0.3454
+3	737 m^2	0.3274	Statistics	hamster	0.7212	1124	0.6099	1017	Andrew	802	897	1.1738
+8	1198 m^2	0.9762	Computer Science		0.9392	1124	1.0687	1060	Tony	810	1085	0.9945
+1	1032 m^2	1.1786	Electrical Engineering	reptile	0.6289	777	0.941	970	Vani	856	1006	1.1453
+5	893 m^2	0.6725	Bioengineering	fish	0.4309	267	1.0277	762	Fabrice	686	720	0.8986
+3	999 m^2	0.6831	Statistics	ferret	0.703	1136	1.0178	790	Andrew	708	1200	0.8437
+2	1042 m^2	1.2004	Games and Playable Media	dog	0.8777	1172	0.9139	313	Michael	1154	277	0.3793
+3	873 m^2	1.006	Human Computer Interaction	ferret	1.1535	960	1.4517	1193	Andrew	1263	822	1.0276
+8	1158 m^2	0.8576	Computer Science	DOG	1.0535	993	0.8363	1060	Sam	1004	1002	1.0979
+0	537 m^2	0.3351	Natural Language Processing	chicken	0.5808	722	0.4737	355	Reilly	454	1130	1.1051
+5	722 m^2	1.3002	Bioengineering	fish	0.5578	228	1.0193	1141	Fabrice	1077	825	1.0252
+4		0.8535	Robotics Engineering	fish	0.513	1135	0.7502	906	Lise	846	833	0.1667
+1	1035 m^2	0.7691	Electrical Engineering	REPTILE	0.8752	753	1.0137	1283	?	1138	1072	0.888
+2	826 m^2	0.9404	Games and Playable Media	rat	0.8691	1313	0.6493	49	Sam	970	301	0.3335
+5	956 m^2	0.944	Applied Mathematics	fish	0.5657	380	0.859	799	Fabrice	1314	625	0.9966
+6	935 m^2	0.7315	Computational Media	pig	1.0752	981	0.9154	948	Eriq	1357	698	1.0978
+4	1112 m^2	1.3097	Bioinformatics	bird	0.1515	1039	0.9564	970	Inan	1138	811	1.1687
+3	733 m^2	0.3199	Computer Game Design	hamster	0.9512	905	0.9178	902	Andrew	1205	1033	1.0086
+4	1172 m^2	1.0423	Robotics Engineering	guinea pig	0.2236	787	0.9404	892	Lise	665	632	1.0064
+5	1014 m^2	0.9469	Applied Mathematics	fish	0.5568	330	1.3381	890	Michael	1113	503	0.9102
+3	660 m^2	0.5904	Technology and Information Management	ferret	1.0052	964	0.9958	977	Andrew	820	1052	1.1362
+5	1083 m^2	1.3358	Applied Mathematics	fish	0.7512	371	0.7648	766	fABRICE	785	1003	0.4066
+4	1054 m^2	1.166	Robotics Engineering	guinea pig	0.352	796	0.6898	1075	Inan	1196	866	0.9142
+3	988 m^2	0.8564	Electrical Engineering	hamster	0.7876	1322	1.1565	852	Andrew	1556	1097	0.9427
+8	1044 m^2	1.2533	Computer Science	dog	0.8415	927	1.068	750	Fabrice	1075	975	0.9318
+5	776 m^2	1.0156	Bioengineering	fish	0.4145	265	1.0764	835	Michael	1318	835	0.8394
+4	1188 m^2	0.8553	Robotics Engineering	guinea pig	0.4362	882	0.9349	797	Lise	1432	908	0.7866
+8	1192 m^2	0.8963	Computer Science	dog	0.7839	939	1.069	1155	Sam	1133	984	0.7637
+6	606 m^2	0.6115	Technology and Information Management	Pig	0.808	1088	1.1576	677	Eriq	825	1171	0.8774
+7	729 m^2	0.9842	Data Science	cat	0.5296	1172	0.9267	936	Chris	1196	133	1.0658
+7	903 m^2	0.9353	Data Science	cat	0.3704	1020	0.7465	856	Chris	700	84	1.089
+0	194 m^2	0.063	Biotechnology	rabbit	0.6915	892	0.3758	449	Reilly	390	923	0.8868
+3	1290 m^2	0.0355	Applied Mathematics	hamster	0.8087	855	1.3326	802	Andrew	1048	848	1.0457
+8	962 m^2	0.9488	Computer Science	dog	1.1451	1011	1.0177	1077	Sam	1117	943	1.0359
+7	1234 m^2	0.6884	Data Science	cat	0.2574	862	1.4065	836	Chris	1243	54	1.1367
+5	989 m^2	0.826	Bioengineering	fish	1.0186	386	0.8807	627	Fabrice	984	923	1.0525
+8	895 m^2	1.026	Computer Science	dog	0.9661	978	1.2466	1093	Sam	1228	1174	1.0198
+4	1176 m^2	0.8284	Robotics Engineering	guinea pig	0.0397	682	1.0037	1044	Inan	1246	505	0.9003
+4	689 m^2	1.166	Robotics Engineering	guinea pig	0.2923	568	0.7353	959	Lise	899	?	0.72
+6	748 m^2	1.2202	Technology and Information Management	pig	1.1394	1141	0.9821	905	Lise	547	864	1.1825
+8	1247 m^2	1.0158	Computer Science	dog	1.2935	886	0.9379	1045	Sam	1121	990	1.0537
+6	619 m^2	1.1387	Computational Media	pig	1.2304	886	0.8992	862	Eriq	864	851	0.9242
+3	1250 m^2	0.2506	Human Computer Interaction	hamster	1.2044	997	0.812	1264	Andrew	888	1105	1.0343
+3	875 m^2	0.7301	Human Computer Interaction	dog	0.9803	1322	0.8922	759	Andrew	1306	896	1.041
+0	351 m^2	0.2405	Robotics Engineering	rabbit	0.752	964	0.4761	518	Reilly	682	1012	0.7532
+6	594 m^2	1.3926	Technology and Information Management	pig	1.0313	848	1.1137	1025	Eriq	812	795	0.8212
+7	1058 m^2	0.7333	Data Science	cat	?	983	0.9535	974	chris	1104	112	1.1411
+4	871 m^2	1.3032	Robotics Engineering	rabbit	0.549	799	0.9695	1066	Lise	388	961	0.7419
+4	1029 m^2	1.4127	Bioinformatics	fish	0.1282	838	1.321	1405	Reilly	798	796	1.0342
+5	838 m^2	1.0931	NULL	fish	0.8541	393	0.949	678	Fabrice	1125	978	1.155
+7	922 m^2	0.6728	Data Science	cat	0.3434	723	0.861	798	Chris	819	33	0.8687
+2	1013 m^2	0.6922	NULL	chicken	0.7506	902	0.6342	167	Michael	718	311	0.4217
+3	895 m^2	0.5822	Computer Game Design	ferret	1.0576	984	0.726	1146	Fabrice	1204	958	1.2526
+0	414 m^2	-0.2621	Computer Engineering	rabbit	0.6087	1152	0.4337	121	Reilly	626	905	0.9416
+4	808 m^2	0.7085	Robotics Engineering	bird	0.6388	778	1.0603	1479	Eriq	1246	783	0.7095
+6	662 m^2	0.9119	Computational Media	pig	1.063	1107	0.9726	1107	Eriq	646	1112	0.9322
+2	1203 m^2	0.7218	Games and Playable Media	rat	0.9211	1001	0.8214	351	Michael	1123	243	0.4103
+3	851 m^2	0.6843	Statistics	cat	0.9861	975	1.1183	1141	Andrew	896	1109	1.0136
+1	1046 m^2	1.2122	Electrical Engineering	rabbit	0.8417	988	0.8776	750	Vani	1358	936	1.0544
+4	991 m^2	0.7792	Bioinformatics	guinea pig	0.5043	1001	0.6531	1047	Inan	1028	993	0.8336
+1	1208 m^2	0.855	Bioinformatics	reptile	0.9298	967	1.0772	1127	Reilly	646	959	0.9996
+4	793 m^2	1.1382	Bioinformatics	bird	0.369	1031	1.3304	882	Lise	1311	623	1.0715
+0	441 m^2	0.1207	Natural Language Processing	rabbit	0.7016	1020	0.1776	556	Tony	530	1123	1.3462
+8	1228 m^2	0.9921	Computer Science	dog	1.5464	1177	0.9534	1367	Sam	985	741	1.0148
+5	884 m^2	0.7911	Applied Mathematics	Rat	0.7306	217	0.9273	683	Fabrice	1191	940	0.9877
+2	567 m^2	0.7318	Games and Playable Media	chicken	0.9331	1017	1.1248	591	Michael	1214	397	0.2792
+3	729 m^2	0.5279	Computer Game Design	hamster	0.8894	941	0.9289	1020	andrew	1153	1040	1.0448
+0	136 m^2	0.5876	Natural Language Processing	rabbit	0.8453	1102	0.2926	589	Reilly	377	1084	0.7533
+8	1290 m^2	n/a	Computer Science	Dog	0.6525	779	1.1534	1443	Tony	862	1058	0.9831
+0	50 m^2	0.1867	Computer Engineering	rabbit	0.9699	952	0.2098	435	Reilly	358	781	0.9273
+4	875 m^2	0.9349	Computer Science	bird	0.0216	616	0.697	916	Inan	1090	556	0.6059
+8	1198 m^2	0.7231	Computer Science	dog	1.2902	1126	0.9785	686	Sam	1258	1031	1.0862
+5	1108 m^2	0.9567	Bioengineering	fish	0.4788	245	0.6672	779	Eriq	954	1017	0.7592
+2	1274 m^2	1.0718	games and playable media	chicken	0.8672	1077	1.0501	517	michael	912	420	0.0652
+2	1069 m^2	0.8968	GAMES AND PLAYABLE MEDIA	rat	0.8777	1090	0.8373	345	Michael	978	86	0.2149
+4	963 m^2	0.9919	Robotics Engineering	bird	0.2241	846	0.8179	851	Lise	961	837	0.9141
+6	542 m^2	1.183	Technology and Information Management	pig	0.9582	1127	1.4492	1069	Inan	911	1321	1.2447
+0	465 m^2	0.2748	Computer Engineering	rabbit	0.7362	1165	0.2788	664	Reilly	867	1064	1.1705
+5	738 m^2	0.8443	Applied Mathematics	fish	0.4701	507	0.9325	499	Fabrice	989	574	1.1689
+6	417 m^2	1.0281	Computational Media	pig	0.8685	1312	0.8182	1171	Eriq	1007	1358	1.08
+6	818 m^2	0.7729	Technology and Information Management	pig	0.9605	1249	0.8642	1278	Chris	968	905	1.2729
+3	1025 m^2	0.6764	Computer Game Design	ferret	1.1412	890	0.871	1009	Andrew	930	953	0.9561
+4	1080 m^2	1.097	Computer Engineering	bird	0.2515	537	0.6829	899	Inan	916	834	0.58
+8	737 m^2	0.829	Applied Mathematics	dog	1.1063	957	0.7763	907	Sam	793	831	0.7897
+4	1180 m^2	0.6014	Robotics Engineering	guinea pig	0.5668	760	0.744	936	Eriq	1053	895	0.9267
+3	1152 m^2	1.0353	Statistics	hamster	0.7993	1333	0.7434	1156	Chris	1194	936	0.9051
+4	1102 m^2	0.6902	Robotics Engineering	guinea pig	0.147	1111	0.5137	1124	Inan	1328	1133	0.5221
+2	1048 m^2	0.5495	Games and Playable Media	chicken	1.0927	1036	1.2807	397	Michael	1012	390	0.2839
+1	1215 m^2	1.1042	Electrical Engineering	REPTILE	1.0509	1017	1.2162	959	Vani	865	934	0.9656
+6	None	0.8996	Computational Media	pig	0.9907	1093	1.0384	890	Eriq	1086	804	0.6527
+3	893 m^2	0.5484	Statistics	pig	0.5053	906	1.0142	1106	Andrew	1005	1046	1.2397
+2	689 m^2	0.7999	Games and Playable Media	chicken	0.9838	940	0.9911	344	Michael	1178	355	0.5566
+7	964 m^2	1.1849	data science	cat	0.5121	1177	0.9872	1065	Chris	997	62	1.0085
+2	858 m^2	0.9853	Games and Playable Media	rat	0.7627	847	0.9695	81	Michael	1155	375	0.439
+6	841 m^2	0.7941	Technology and Information Management	pig	0.9414	1151	0.821	971	Eriq	872	966	0.8095
+3	864 m^2	0.0922	Human Computer Interaction	hamster	0.8644	830	0.661	916	Andrew	1122	978	0.8075
+5	1154 m^2	1.2539	Applied Mathematics	fish	0.6007	271	1.1943	505	Fabrice	906	1202	1.1531
+0	167 m^2	-0.2642	Computer Engineering	rabbit	0.181	1070	0.4029	215	REILLY	451	938	1.0467
+6	736 m^2	1.1414	COMPUTATIONAL MEDIA	pig	1.3676	1220	0.6234	1264	Eriq	1121	1043	0.6816
+4	976 m^2	1.0096	Robotics Engineering	guinea pig	0.1975	709	0.9504	918	Lise	1251	826	0.7154
+1	960 m^2	0.9198	Electrical Engineering	reptile	0.8841	792	0.8257	1165	vani	892	1068	1.0184
+2	1017 m^2	1.18	Games and Playable Media	rabbit	0.8782	1082	0.7796	345	Michael	971	83	0.4407
+4	894 m^2	1.1162	Bioinformatics	bird	0.2483	782	0.8351	1030	Inan	865	627	0.9306
+1	1346 m^2	0.8034	Electrical Engineering	REPTILE	1.081	784	0.9928	1019	Michael	745	1156	0.9728
+7	807 m^2	0.6221	Data Science	cat	0.3883	859	0.6844	821	Chris	910	NULL	1.0202
+0	110 m^2	0.4508	Natural Language Processing	rabbit	0.9001	646	0.65	175	Fabrice	416	1021	0.9106
+1	1200 m^2	0.9319	Electrical Engineering	reptile	1.0813	862	0.5778	1006	Chris	n/a	1180	1.0325
+2	1482 m^2	0.9555	Games and Playable Media	CHICKEN	1.1967	1208	1.0225	53	Fabrice	1027	43	0.3962
+0	307 m^2	0.1244	Computer Engineering	rabbit	0.8485	883	0.6866	576	Reilly	703	937	0.9847
+8	1143 m^2	0.9267	Computer Science	dog	1.1323	1222	0.6905	926	Fabrice	1615	923	0.8981
+4	957 m^2	1.2671	Robotics Engineering	bird	0.4764	921	0.7397	1066	Sam	1147	936	1.2258
+3	1195 m^2	0.3057	Statistics	reptile	0.9464	1106	0.9761	1023	Andrew	956	730	0.7926
+5	1159 m^2	0.9791	Bioengineering	fish	0.8391	279	1.2582	983	Fabrice	677	517	0.9022
+8	1119 m^2	0.8931	Computer Science	reptile	1.1671	1365	0.7606	970	Sam	1270	782	1.2178
+8	1225 m^2	1.0011	Computer Science	dog	0.6829	881	0.8356	850	Eriq	1120	898	0.8243
+0	6 m^2	-0.427	Biotechnology	rabbit	0.8861	979	0.61	449	Reilly	452	1086	0.7584
+5	1058 m^2	1.1707	Bioengineering	hamster	0.8688	451	1.0027	712	Fabrice	1053	856	0.9478
+0		0.0124	Computer Engineering	rabbit	0.9236	1035	0.4575	32	Reilly	344	1196	0.9686
+4	1171 m^2	1.1087	Bioinformatics	bird	0.3202	907	0.8579	1293	Andrew	1522	708	0.9347
+5	898 m^2	1.4398	Applied Mathematics	fish	0.7363	521	0.8563	533	Fabrice	1006	606	0.9269
+5	1004 m^2	0.9666	Bioengineering	fish	0.4387	617	1.5196	990	Fabrice	1056	626	0.8091
+6	664 m^2	0.9024	Technology and Information Management	reptile	1.234	795	1.233	993	Eriq	652	993	1.223
+7	1040 m^2	0.8078	dATA sCIENCE	cat	0.4358	923	1.1495	1032	Andrew	778	-66	1.2482
+7	1024 m^2	1.2361	Data Science	chicken	0.5918	835	0.8886	1005	Chris	888	205	1.0435
+5	949 m^2	0.8069	Applied Mathematics	fish	0.8301	517	0.8387	577	Fabrice	1380	780	0.6223
+6	475 m^2	1.0015	Technology and Information Management	ferret	1.1315	937	1.0372	1061	Eriq	1223	815	0.4194
+3	1221 m^2	0.7294	Statistics	rabbit	1.1821	977	1.2471	1070	Andrew	1155	724	0.6157
+1	1122 m^2	1.0274	Electrical Engineering	reptile	1.1316	858	0.8506	1138	?	775	1150	1.0594
+5	1290 m^2	1.0409	Games And Playable Media	fish	0.5186	343	1.1242	879	Fabrice	854	676	0.8651
+7	810 m^2	0.9068	Data Science	cat	0.6361	996	0.8558	850	Chris	912	-46	1.1258
+0	454 m^2	-0.1171	Computer Engineering	rabbit	0.725	1200	0.5711	572	Reilly	250	758	0.9384
+4	792 m^2	1.0401	Bioinformatics	guinea pig	0.4335	758	0.816	1067	Inan	1205	746	0.828
+7	829 m^2	0.8349	Data Science	cat	0.889	1080	1.0389	691	Chris	1301	161	0.8988
+2	902 m^2	1.1845	Games and Playable Media	rat	1.1052	1073	1.0214	200	Michael	1013	487	0.6611
+4	761 m^2	0.9814	ROBOTICS ENGINEERING	rabbit	0.2405	646	0.7916	1217	Inan	1026	517	0.781
+6	758 m^2	0.8361	Technology and Information Management	pig	0.9784	970	0.8121	1220	Eriq	937	775	0.9329
+6	713 m^2	1.1129	Technology and Information Management	pig	0.914	1311	1.2269	708	Eriq	889	705	0.7908
+3	804 m^2	0.3289	Computer Game Design	ferret	0.8585	940	0.9419	904	Lise	642	959	1.075
+6	878 m^2	1.1868	Technology and Information Management	pig	0.8034	949	0.7693	1064	Eriq	695	1112	1.1535
+7	870 m^2	0.5618	Data Science	cat	0.8301	1268	1.0258	1003	Chris	812	-1	0.9158
+7	988 m^2	0.938	Data Science	cat	0.3524	1051	1.2862	1114	Chris	982	-113	0.7336
+8	1181 m^2	0.7706	Electrical Engineering	dog	1.074	1036	1.0276	1377	Tony	1141	1016	1.0434
+0	197 m^2	0.0152	Natural Language Processing	rabbit	0.5448	1236	0.2373	453	Reilly	857	1198	0.7392
+7	753 m^2	0.4271	Data Science	dog	0.4953	1288	1.0698	997	Chris	978	-232	1.0474
+6	937 m^2	1.1817	Computational Media	pig	0.9143	947	1.2281	743	Eriq	755	916	0.9691
+0	175 m^2	0.7764	Natural Language Processing	rabbit	0.5211	904	0.5959	458	Reilly	438	986	1.0924
+8	1234 m^2	0.8146	Human Computer Interaction	dog	1.1315	1058	1.2593	794	Sam	1062	799	0.7893
+5	1024 m^2	0.6193	Bioengineering	fish	0.7275	343	1.1802	526	Fabrice	1037	707	1.1352
+3	1083 m^2	0.0059	Human Computer Interaction	hamster	1.012	753	1.3458	922	Andrew	1010	889	1.1813
+7	844 m^2	0.6699	Data Science	cat	0.4729	892	0.6861	1037	Chris	1110	216	0.9562
+8	1242 m^2	0.7508	Computer Science	dog	0.9587	667	1.1012	765	Tony	1088	1004	1.1481
+1	884 m^2	0.7974	Electrical Engineering	reptile	1.0022	1257	0.9069	960	Vani	1355	1178	0.8175
+6	916 m^2	1.2213	Technology and Information Management	pig	0.7361	1160	1.0525	1007		968	1036	0.9651
+2	974 m^2	0.9759	Games and Playable Media	Rabbit	0.92	958	0.7923	333	MICHAEL	1139	327	0.6027
+3	870 m^2	0.3882	Statistics	hamster	0.714	806	0.9617	1038	Andrew	778	840	1.0864
+0	-183 m^2	0.1892	Natural Language Processing	rabbit	0.6343	957	0.4279	597	Reilly	395	921	1.129
+2	1128 m^2	0.8372	Games and Playable Media	dog	0.9739	935	0.9412	151	Eriq	1090	566	0.3458
+7	1129 m^2	0.6204	Data Science	cat	0.6371	1118	0.8964	839	Chris	884	-161	0.9549
+6	550 m^2	0.7473	Technology and Information Management	bird	0.9484	693	1.2848	656	Eriq	1085	1210	0.8632
+7	687 m^2	0.9829	Data Science	cat	0.7367	953	1.0102	770	Chris	945	-238	0.9855
+8	998 m^2	1.1535	Computer Science	dog	0.8157	1101	1.0178	1010	Sam	1337	1177	0.8836
+2	1269 m^2	1.1128	Games and Playable Media	chicken	1.038	879	0.9749	458	Michael	739	744	0.3221
+1	1432 m^2	0.9218	Games and Playable Media	reptile	1.1203	950	1.0804	941	Vani	848	766	0.8448
+4	1079 m^2	?	Robotics Engineering	guinea pig	0.1981	679	0.8795	885	Eriq	1373	670	0.6639
+3	1333 m^2	0.6459	Computer Game Design	ferret	0.6569	896	1.18	1425	Andrew	758	1126	0.9357
+3	1201 m^2	0.5878	Human Computer Interaction	hamster	0.7168	1225	0.9447	1114	Andrew	759	835	0.8017
+1	1105 m^2	0.9675	Electrical Engineering	reptile	0.9196	947	0.6716	1017	Vani	1133	828	1.147
+0	88 m^2	0.3191	Computer Engineering	rabbit	0.5319	1088	0.504	562	Reilly	872	770	0.9412
+5	819 m^2	0.8618	Bioengineering	fish	0.7749	557	0.7473	703	Fabrice	1043	1039	1.0578
+3	934 m^2	0.4466	Computer Game Design	hamster	0.9108	1036	0.9013	1024	Andrew	716	1002	1.1707
+1	1099 m^2	1.3238	Electrical Engineering	reptile	1.2506	759	1.4415	1129	Vani	947	782	0.9558
+1	1036 m^2	0.6195	Electrical Engineering	reptile	0.9991	869	0.924	1153	Vani	884	957	1.0814
+4	1025 m^2	0.9069	Bioinformatics	bird	0.0007	?	0.3449	904	Inan	697	790	0.8045
+2	975 m^2	0.7608	Games and Playable Media	chicken	1.0716	995	0.9652	529	Michael	1079	467	0.2405
+8	1094 m^2	1.0614	Computer Science	dog	0.7133	886	1.0976	1198	Sam	1223	876	0.778
+7	1275 m^2	0.899	Data Science	ferret	0.681	958	0.7395	996	Chris	794	7	0.7971
+0	127 m^2	0.4519	BIOTECHNOLOGY	rabbit	0.7931	942	0.4217	630	Michael	172	1109	0.9233
+8	956 m^2	0.9283	Computer Science	dog	0.9341	768	0.9874	793	Tony	602	1071	1.0601
+2	991 m^2	0.7566	Games and Playable Media	chicken	0.9681	908	0.822	225	Michael	425	426	0.3166
+3	727 m^2	0.4944	Human Computer Interaction	hamster	1.0784	1070	0.7679	1355	Andrew	793	1264	1.1629
+3	1387 m^2	0.5874	Statistics	ferret	0.741	1021	1.0885	776	Andrew	616	1117	0.8661
+7	1137 m^2	1.2246	Data Science	cat	0.5877	896	0.8278	1101	Chris	1110	-15	0.7846
+4	1261 m^2	1.0054	Bioinformatics	guinea pig	0.1062	698	1.2258	1086	Inan	1103	917	0.9015
+0	137 m^2	0.0317	Natural Language Processing	rabbit	0.5519	907	0.1745	596	Reilly	416	871	0.8251
+0	186 m^2	0.0558	Biotechnology	rabbit	0.7322	845	0.489	232	Reilly	162	831	1.0453
+0	457 m^2	0.0348	Natural Language Processing	rabbit	0.7576	973	0.4457	683	Reilly	518	911	1.3737
+7	1277 m^2	0.6318	Data Science	reptile	0.5337	874	1.053	1004	Eriq	1295	98	0.9401
+1	1081 m^2	1.0054	Electrical Engineering	reptile	0.9241	981	0.8129	979	Vani	1070	1161	0.9568
+7	1184 m^2	0.8761	Data Science	fish	0.9009	842	0.7576	1098	ERIQ	993	39	1.0234
+2	716 m^2	0.808	Games and Playable Media	rat	1.0411	953	1.0006	139	Vani	827	419	0.1658
+1	941 m^2	1.1388	Electrical Engineering	reptile	1.275	1058	1.2696	974	Vani	908	1093	0.9296
+3	946 m^2	0.4811	Human Computer Interaction	hamster	0.9457	780	0.887	1005	Andrew	555	1131	1.0924
+2	1192 m^2	0.9088	Games and Playable Media	rat	0.8032	755	0.9344	423	Michael	918	356	0.2052
+3	881 m^2	0.5619	Human Computer Interaction	hamster	1.0219	729	0.942	1140	Andrew	793	909	0.9789
+5	992 m^2	1.0962	Bioengineering	fish	0.5476	667	0.9734	525	Fabrice	1040	None	0.9789
+5	1049 m^2	0.6225	Applied Mathematics	fish	0.6443	385	0.7434	458	Fabrice	936	988	1.0141
+0	303 m^2	0.238	Computer Engineering	rabbit	0.7638	1162	0.5809	494	Reilly	355	1096	1.088
+3	1188 m^2	0.6825	Statistics	hamster	1.1676	1068	1.0555	1149	Andrew	767	764	0.8212
+3	1059 m^2	0.9557	Statistics	ferret	0.821	1176	0.9658	994	Andrew	893	779	0.739
+0	13 m^2	0.3249	Natural Language Processing	cat	0.8157	1262	0.2132	686	Reilly	-400	883	1.0281
+1	1160 m^2	0.6213	Electrical Engineering	REPTILE	0.8458	884	1.1199	991	Vani	1012	731	1.1075
+4	742 m^2	0.7533	Robotics Engineering	ferret	0.3205	656	0.8501	1406	Inan	718	1151	0.9993
+4	1095 m^2	0.5405	Robotics Engineering	guinea pig	0.1706	658	0.865	1200	Inan	988	517	0.8913
+8	1131 m^2	1.0935	Computer Science	dog	0.885	873	0.955	844	Tony	1039	816	0.8449
+3	1108 m^2	0.3791	Human Computer Interaction	hamster	1.0721	1083	1.2806	751	Andrew	1247	1041	0.7673
+7	1298 m^2	0.6654	Data Science	cat	0.785	1176	0.8334	929	Chris	1019	346	1.2007
+8	1071 m^2	0.8212	Computer Science	dog	0.93	1071	1.0679	688	Tony	982	1048	1.1039
+1	1023 m^2	0.8543	Electrical Engineering	reptile	1.0592	815	1.0442	976	Vani	975	904	1.2387
+7	833 m^2	1.0707	Data Science	cat	0.8269	887	0.9354	747	Chris	454	-14	0.8872
+5	1196 m^2	1.131	Bioengineering	fish	0.3645	359	0.9164	848	Fabrice	920	1122	0.8059
+6	884 m^2	1.3008	Technology and Information Management	n/a	0.89	941	1.1303	1003	Eriq	843	995	1.0071
+2	943 m^2	0.7595	Games and Playable Media	rat	1.2054	1141	1.0125	435	Michael	995	401	0.1817
+8	868 m^2	1.0866	Computer Science	dog	0.8296	913	0.9311	909	Sam	1117	1184	0.8079
+8	875 m^2	0.7511	Computer Science	dog	0.741	736	1.0064	618	Tony	890	910	1.0985
+7	652 m^2	0.8934	Data Science	cat	0.5792	1138	1.0033	1122	Chris	907	159	1.0838
+3	1134 m^2	1.0601	Human Computer Interaction	ferret	0.7833	1114	0.9778	1112	Andrew	741	1001	0.8741
+7	874 m^2	0.8316	Data Science	cat	0.2389	944	1.2722	1057	Chris	454	191	1.0802
+4	1212 m^2	1.385	Bioinformatics	bird	0.1601	830	0.9833	891	Inan	1070	773	1.1985
+3	1082 m^2	0.2936	Computer Game Design	hamster	0.8665	1008	0.6398	1048	Andrew	955	860	0.8997
+3	929 m^2	0.919	Natural Language Processing	hamster	0.8904	1099	0.8281	1031	Andrew	729	794	0.9789
+6	955 m^2	1.2258	Computer Science	PIG	1.2468	1066	0.9082	978	Eriq	809	1007	1.1219
+0	278 m^2	-0.0757	Natural Language Processing	rabbit	0.4525	1231	0.3417	524	Reilly	437	928	0.9108
+8	1347 m^2	1.0297	Computer Science	rabbit	0.9593	1250	1.2447	949	Tony	993	964	0.9588
+2	959 m^2	1.3163	Games and Playable Media	hamster	1.0219	1118	1.0043	323	Michael	877	354	0.187
+4	1027 m^2	1.1366	Bioinformatics	guinea pig	0.0893	736	0.6589	1238	Lise	977	492	0.9152
+4	1102 m^2	1.174	Robotics Engineering	guinea pig	0.2678	702	0.7662	673	Lise	744	735	1.071
+2	900 m^2	0.7437	Games and Playable Media	chicken	1.0771	857	0.8087	211	Michael	1036	275	0.3747
+3	907 m^2	0.7545	Human Computer Interaction	ferret	0.9609	1352	0.7146	1115	Andrew	983	1148	0.7736
+5	914 m^2	0.7143	Applied Mathematics	fish	0.4342	333	1.0735	707	Fabrice	634	869	0.9218
+1	1273 m^2	0.8259	Statistics	reptile	0.8858	1028	0.8715	842	Vani	1446	1165	1.1007
+1	1232 m^2	0.7456	Electrical Engineering	reptile	1.2119	1176	0.921	976	Vani	755	1114	1.064
+0	159 m^2	-0.0354	Biotechnology	pig	0.7756	1084	0.5208	295	Reilly	579	1032	0.7798
+4	1338 m^2	1.2146	Robotics Engineering	bird	0.4588	615	1.1819	1054	Lise	934	771	0.7798
+8	911 m^2	0.74	Computer Science	dog	1.1029	1193	1.1782	865	Tony	1187	1092	1.0848
+0	172 m^2	-0.1553	Biotechnology	cat	0.7642	1129	0.6112	166	Reilly	329	N/A	1.1886
+6	485 m^2	0.887	Technology and Information Management	pig	0.9376	1135	0.8852	744	Eriq	970	956	1.0259
+6	784 m^2	0.9369	Computational Media	pig	1.0847	1116	0.9893	1225	Tony	858	752	1.0099
+1	939 m^2	0.6915	NULL	reptile	0.8326	984	1.1047	1091	Vani	880	1026	0.8564
+3	1151 m^2	0.0034	Computer Game Design	hamster	1.3144	1277	1.0944	1209	Andrew	827	1145	1.1705
+3	1339 m^2	0.4761	Statistics	ferret	1.0912	947	0.7746	1089	Andrew	1064	917	0.8689
+1	877 m^2	0.9346	Electrical Engineering	reptile	0.9231	1115	1.0548	1063	Vani	1181	1028	0.9938
+2	979 m^2	0.9592	Computer Science	CAT	0.9531	1227	1.1405	130	Michael	946	625	0.3443
+2	963 m^2	0.9108	Games and Playable Media	chicken	0.9807	1110	1.004	328	Michael	848	453	0.2579
+6	837 m^2	0.9193	Technology and Information Management	pig	0.8841	911	0.6859	1076	Eriq	757	936	1.3063
+6	515 m^2	1.1039	Computer Science	pig	0.8028	833	1.0286	1012	Eriq	1042	1031	0.9421
+3	990 m^2	0.5139	Statistics	rabbit	1.344	1054	0.9503	955	Andrew	725	1205	0.6897
+0	56 m^2	0.3375	Computer Engineering	reptile	0.8321	1021	1.0564	266	Reilly	518	1036	1.0879
+1	1127 m^2	0.9607	Electrical Engineering	reptile	1.0096	896	0.6585	1158	Vani	1104	1018	1.0973
+3	1329 m^2	0.4418	N/A	pig	0.9768	1021	1.2046	1383	Andrew	824	944	1.1647
+6	443 m^2	1.0352	Computational Media	pig	1.0798	989	0.7676	1270	Eriq	807	871	1.0473
+7	999 m^2	0.8233	Computer Science	cat	0.5323	1037	0.5636	1069	Chris	924	38	0.873
+4	783 m^2	1.6894	Robotics Engineering	bird	-0.0298	1098	0.8443	773	Lise	1059	841	0.5452
+4	947 m^2	1.2083	Robotics Engineering	guinea pig	0.2259	576	0.9476	876	Lise	1035	836	0.8406
+4	938 m^2	1.0075	Bioinformatics	guinea pig	0.4686	904	0.7935	906	Inan	1071	817	0.9871
+2	938 m^2	0.8574	Games and Playable Media	rat	0.7869	873	0.7289	242		1133	357	0.416
+5	891 m^2	0.9574	Bioengineering	fish	0.5859	1	1.1398	735	Andrew	947	817	1.055
+1	1022 m^2	1.0611	Electrical Engineering	reptile	0.8811	858	1.02	1257	Vani	1106	1179	0.8633
+3	1181 m^2	0.7203	Computer Game Design	ferret	1.0328	888	0.9615	750	Andrew	844	1146	1.0483
+7	906 m^2	0.8315	Computer Science	cat	0.6587	1054	1.0345	834	Chris	797	-73	1.0427
+7	n/a	0.7193	Data Science	cat	0.5649	1191	1.1039	803	Chris	597	95	1.2388
+1	1094 m^2	0.8773	Electrical Engineering	reptile	1.0038	989	0.8368	826	Vani	1231	1003	1.1465
+2	922 m^2	1.407	Natural Language Processing	chicken	1.1667	1094	1.0442	85	Michael	782	477	0.0017
+3	872 m^2	0.4579	Computer Game Design	ferret	0.6789	801	1.2559	1174	Andrew	1025	969	1.3186
+6	719 m^2	0.777	Computational Media	pig	1.1894	1285	0.9793	1113	Eriq	605	790	1.0319
+1	1178 m^2	0.9075	Electrical Engineering	reptile	0.8332	965	1.3332	1030	Vani	1248	983	0.88
+0	364 m^2	-0.0699	Natural Language Processing	rabbit	0.7784	1164	0.2285	603	reilly	382	1091	1.0034
+4	1046 m^2	1.1759	Bioinformatics	bird	0.4892	474	0.8668	1021	Inan	884	646	0.7087
+2	1205 m^2	0.8608	Games and Playable Media	chicken	1.0564	792	1.1505	192	Michael	930	721	0.2808
+6	788 m^2	1.0964	Computational Media	pig	1.1436	NULL	1.0521	1059	Eriq	643	834	1.0848
+2	797 m^2	0.8819	Games and Playable Media	rat	1.1047	988	0.8347	177	Chris	919	326	0.3223
+2	981 m^2	0.8651	Games and Playable Media	rat	1.0817	942	0.8454	174	Vani	880	496	0.4463
+1	1232 m^2	0.8369	Applied Mathematics	reptile	1.0576	1056	0.871	787	Vani	978	1295	0.9412
+2	1259 m^2	0.9966	Games and Playable Media	rat	1.0015	1128	0.9991	207	Eriq	1165	165	0.3456
+0	248 m^2	0.1075	Computer Engineering	fish	0.7477	1023	0.3041	435	Reilly	311	856	1.0023
+8	989 m^2	0.8396	Computer Science	cat	0.7892	969	0.9694	1082	Andrew	1128	921	1.0716
+0	573 m^2	0.0464	Biotechnology	rabbit	0.7041	907	0.3071	595	Reilly	530	1162	1.0691
+7	966 m^2	0.9291	Data Science		0.5623	989	1.2457	997	chris	1494	237	0.9186
+4	992 m^2	0.9754	Bioinformatics	bird	0.522	670	0.3886	845	Inan	1505	757	0.9898
+0	276 m^2	-0.1763	Computer Engineering	rabbit	0.6872	938	0.5905	333	reilly	399	1132	1.0429
+1	801 m^2	0.9455	Electrical Engineering	fish	1.0263	774	0.9649	1176	Michael	1042	871	1.0547
+2	1016 m^2	0.8815	Games and Playable Media	chicken	1.4588	1034	0.926	94	Michael	1076	50	0.3966
+5	1200 m^2	0.9319	Games and Playable Media	fish	0.5015	133	1.1374	711	Fabrice	1157	864	0.8821
+3	991 m^2	0.5318	Human Computer Interaction	pig	0.6532	973	1.223	1108	Andrew	1125	982	1.2843
+4	1162 m^2	1.0142	Bioinformatics	bird	0.2697	893	0.7785	1195	Inan	846	789	0.9779
+6	697 m^2	0.9533	Computational Media	pig	1.0192	874	0.9767	1233	Eriq	1147	984	0.8226
+0	156 m^2	-0.3143	Natural Language Processing	rabbit	0.7794	940	0.4035	546	Sam	554	960	1.2896
+8	964 m^2	1.1961	Computer Science	dog	0.8616	1170	0.8916	961	Sam	1006	1352	1.0404
+6	631 m^2	0.9314	Technology and Information Management	pig	1.1169	803	0.6782	1050	Eriq	1355	938	0.84
+1	1067 m^2	0.8478	Electrical Engineering	reptile	0.7649	1264	0.9455	1040	Vani	888	None	1.1018
+1	1059 m^2	1.0772	Electrical Engineering	reptile	1.047	798	1.2447	823	Vani	704	813	0.8194
+7	1003 m^2	1.2086	Data Science	cat	0.7961	975	0.7855	860	Chris	1189	281	0.7638
+5	936 m^2	1.023	Applied Mathematics	fish	0.3151	188	1.0701	715	Fabrice	580	785	1.1881
+0	356 m^2	0.2647	Natural Language Processing	rabbit	?	1154	0.5641	572	Reilly	323	1028	0.8304
+4	738 m^2	1.2272	Robotics Engineering	guinea pig	0.2784	856	1.1194	1046	Lise	1163	988	0.7086
+4	1012 m^2	1.4915	Robotics Engineering	fish	0.3056	662	1.2142	1061	Lise	848	925	0.4972
+4	999 m^2	1.1689	Robotics Engineering	bird	0.3564	594	0.7448	1217	Inan	981	542	0.8849
+6	389 m^2	1.055	Biotechnology	pig	0.951	945	1.1241	1194	Eriq	797	824	0.876
+2	981 m^2	0.7729	Bioengineering	RAT	0.9554	915	0.7364	402	Michael	None	416	0.4124
+4	1001 m^2	1.1704	Robotics Engineering	guinea pig	0.3867	475	0.941	803	Lise	1167	755	1.1025
+5	957 m^2	1.0204	Applied Mathematics	fish	0.67	206	0.8854	892	Fabrice	1087	1054	0.9965
+1	1092 m^2	1.2812	Electrical Engineering	hamster	1.2844	977	1.0207	1118	Vani	1286	1144	1.113
+0	341 m^2	0.4498	Computer Engineering	rabbit	0.8068	1218	0.35	328	Reilly	724	1240	1.0269
+0	-16 m^2	-0.1044	Computer Engineering	rabbit	0.5755	978	0.365	278	Reilly	361	1133	0.9333
+4	1037 m^2	1.0116	Robotics Engineering	guinea pig	0.2741	812	0.8584	1075	Fabrice	1163	521	0.9136
+0	247 m^2	0.3799	Biotechnology	rabbit	0.7753	1079	0.6931	n/a	Reilly	119	944	1.127
+2	1304 m^2	0.603	Games and Playable Media	pig	1.0001	1221	1.005	9	michael	1242	557	0.3392
+8	1258 m^2	1.1761	Computer Science	dog	0.9853	1106	1.5228	1074	Sam	937	1048	1.0901
+7	923 m^2	0.9111	Data Science	cat	0.7115	1094	1.2598	897	Chris	1097	-43	0.8478
+6	962 m^2	0.5258	Technology and Information Management	pig	0.8915	737	1.053	1274	Eriq	946	1001	1.0876
+3	670 m^2	0.5388	Human Computer Interaction	hamster	0.7683	875	1.058	881	Andrew	1095	773	0.803
+5	965 m^2	1.2158	Bioengineering	fish	0.9021	431	0.6355	928	Tony	1201	900	1.1435
+5	1024 m^2	0.8771	Bioengineering	fish	0.4631	581	0.9641	744	Fabrice	968	921	0.9416
+3	999 m^2	0.3122	Statistics	ferret	0.7888	1192	0.9103	935	Andrew	719	978	0.8341
+5	1053 m^2	0.6217	Robotics Engineering	fish	0.5158	478	0.6289	619	Fabrice	1308	726	0.9577
+3	876 m^2	0.8313	Human Computer Interaction	ferret	0.8349	779	0.888	881	Andrew	1144	931	0.7678
+7	1014 m^2	1.4669	Data Science	cat	0.5634	1186	1.1574	1307	Vani	1139	-4	0.7742
+7	958 m^2	0.5711	Statistics	rabbit	NULL	1194	1.1222	None	Chris	1222	229	0.7546
+2	850 m^2	0.9626	Games and Playable Media	rat	0.5838	996	1.0355	92	Vani	685	711	0.4607
+5	1000 m^2	1.2781	Applied Mathematics	fish	0.6264	493	0.8317	846	Fabrice	941	1002	1.1994
+7	961 m^2	1.1559	Data Science	cat	0.8498	879	0.9002	873	Chris	1061	122	1.1363
+2	886 m^2	1.4203	Games and Playable Media	rat	0.8841	1241	0.9951	307	Tony	952	342	0.3743
+5	852 m^2	0.8959	Bioengineering	fish	0.5969	281	0.7608	855	Fabrice	957	814	0.6913
+2	1017 m^2	1.3089	Games and Playable Media	chicken	0.8159	1090	0.9403	262	Michael	1082	464	0.6428
+8	989 m^2	0.5402	Computer Science	guinea pig	1.131	918	0.9164	1082	Sam	835	1042	0.7127
+7	1078 m^2	0.7167	Data Science	cat	0.5762	1057	1.2935	552	Chris	1287	154	1.0752
+3	947 m^2	0.3788	Human Computer Interaction	ferret	1.0461	1221	0.5759	1022	Andrew	942	725	0.7073
+2	853 m^2	0.4642	Games and Playable Media	rat	0.9596	952	1.075	468	Michael	1039	432	0.2065
+2	1056 m^2	1.5132	Games and Playable Media	chicken	1.0063	693	0.7215	158	Michael	1238	511	0.1079
+3	1038 m^2	0.4793	Human Computer Interaction	hamster	1.1636	1158	0.9715	925	Andrew	644	1065	0.9734
+1	1159 m^2	0.5458	Electrical Engineering	reptile	0.77	840	0.8026	773	Vani	1059	835	0.8525
+8	1085 m^2	0.7316	Computer Science	dog	0.9532	869	1.0295	1163	Tony	1158	1025	1.1596
+4	1376 m^2	1.2714	Bioinformatics	bird	0.2564	886	0.8313	972	Inan	1025	664	0.7148
+8	1376 m^2	0.6652	Computer Science	dog	0.8747	1301	0.8504	1000	Tony	967	1006	0.8886
+1	1069 m^2	1.0346	Electrical Engineering	reptile	1.2158	799	0.9557	1020	Vani	1166	921	1.0784
+7	1004 m^2	1.128	Data Science	CAT	0.5044	935	0.6788	885	Chris	813	46	0.9647
+7	998 m^2	1.1062	dATA sCIENCE	cat	0.5455	805	1.1386	1059	Andrew	768	122	0.9421
+7	n/a	0.9124	Data Science	cat	0.4188	1148	0.8678	829	Chris	917	-15	1.0085
+3	868 m^2	0.4104	Statistics	ferret	0.6949	926	1.347	959	Andrew	872	791	0.9007
+8	753 m^2	1.0422	Computer Science	dog	0.8725	543	0.748	1065	Andrew	1316	964	1.008
+1	924 m^2	1.0842	eLECTRICAL eNGINEERING	guinea pig	0.9352	1057	0.8221	1048	Vani	1316	1075	0.8411
+4	866 m^2	0.8009	Robotics Engineering	bird	0.1714	833	0.6102	1042	Inan	1154	739	0.5973
+5	984 m^2	1.1827	COMPUTATIONAL MEDIA	fish	0.4288	337	0.7468	678	Fabrice	1190	729	1.0125
+2	961 m^2	1.0416	Games and Playable Media	chicken	0.9129	906	1.1985	-3	Michael	759	-40	0.5208
+3	1321 m^2	0.5942	Statistics	ferret	0.6534	1043	0.792	798	Fabrice	1042	482	1.0519
+5	914 m^2	1.0015	Bioengineering	fish	0.3894	274	1.0644	842	Fabrice	1293	665	0.8877
+4	786 m^2	1.1287	Electrical Engineering	bird	0.1666	814	0.7665	1000	Lise	775	946	0.5753
+1	892 m^2	0.9466	Electrical Engineering	reptile	0.8517	990	0.9187	996	Vani	907	1024	0.7385
+6	763 m^2	1.0733	Technology and Information Management	pig	1.0259	926	0.6166	1018	Eriq	868	1076	1.0344
+6	586 m^2	0.8527	Computational Media	pig	0.9341	975	0.7622	790	Andrew	791	734	0.7678
+2	1054 m^2	0.4878	Games and Playable Media	?	0.9462	813	0.962	311	Michael	1028	592	0.3665
+0	192 m^2	0.2466	Computer Engineering	rabbit	0.7068	754	0.1913	269	Reilly	266	1142	0.7865
+6	875 m^2	0.969	Technology and Information Management	pig	1.2225	1184	0.7651	1208	MICHAEL	975	1195	0.6693
+0	253 m^2	0.0796	Biotechnology	rabbit	0.5966	1095	0.5329	348	Reilly	790	985	1.0402
+1	1250 m^2	0.6168	Electrical Engineering	reptile	1.0273	914	1.119	743	Vani	605	894	1.2119
+6	645 m^2	0.9438	Computational Media	dog	0.9872	1076	1.4301	932	Eriq	819	1061	1.5364
+1	1143 m^2	1.0412	Electrical Engineering	reptile	0.9861	1041	1.0554	860	Vani	1182	1074	0.7213
+4	1028 m^2	0.7939	Robotics Engineering	chicken	0.5656	529	0.9568	1203	Inan	811	653	0.7726
+3	906 m^2	0.664	Computer Game Design	ferret	1.0956	960	1.1917	1095	Andrew	821	1200	0.8247
+2	1147 m^2	0.6361	Games and Playable Media	rat	0.7752	884	1.0427	152	Michael	919	537	0.4702
+3	1004 m^2	0.6659	Computer Game Design	ferret	0.8795	1360	1.0635	1144	Andrew	793	1284	1.0306
+0	54 m^2	0.3454	n/a	rabbit	1.0836	1164	0.3746	439	Reilly	464	1376	0.9222
+1	866 m^2	1.196	Electrical Engineering	reptile	1.0151	775	0.6345	999	Vani	1223	893	1.1536
+6	621 m^2	0.9735	Technology and Information Management	pig	0.7602	810	0.8987	1259	Eriq	1205	1010	0.7921
+6	734 m^2	1.0023	Technology and Information Management	pig	1.2747	731	1.0421	1087	Andrew	985	636	1.2088
+6	635 m^2	0.9446	Technology and Information Management	pig	1.2731	1083	1.1228	1267	Eriq	766	901	0.8483
+1	1079 m^2	0.8522	Electrical Engineering	None	1.129	683	1.4003	1245	Vani	917	1067	1.1585
+5	981 m^2	0.6955	Applied Mathematics	fish	0.4545	317	0.7889	956	Fabrice	1206	699	0.9824
+1	1050 m^2	1.1658	Electrical Engineering	reptile	1.2027	1025	0.8695	1128	Sam	1325	816	1.3103
+5	550 m^2	1.2387	Bioengineering	fish	0.7207	419	1.2512	777	Fabrice	1017	733	0.8749
+0	n/a	0.006	Biotechnology	rabbit	0.6755	1085	0.3678	663	Reilly	350	1091	1.0024
+6	789 m^2	0.5759	Computational Media	pig	0.8195	1098	0.895	995	Eriq	1026	737	0.9641
+6	643 m^2	0.8385	Data Science	pig	0.9666	928	1.0298	1065	Eriq	768	952	0.9664
+3	1099 m^2	0.5277	Computer Game Design	hamster	0.995	1159	1.0598	707	Andrew	646	1099	NULL
+1	1057 m^2	1.1401	Electrical Engineering	REPTILE	1.1203	1163	0.817	1028	Vani	983	1057	0.941
+4	1024 m^2	1.0738	Bioinformatics	bird	0.2235	758	0.566	1272	Inan	1392	955	1.0547
+0	77 m^2	0.2415	Biotechnology	rabbit	0.5533	977	0.7403	189	Reilly	194	1093	0.7313
+7	1086 m^2	1.2509	Data Science	cat	0.2731	1142	1.1276	1005	Chris	1136	-3	1.1043
+2	958 m^2	0.9795	Games and Playable Media	Chicken	1.0253	909	1.2681	429	Reilly	1049	603	0.3486
+0	266 m^2	-0.1696	Bioinformatics	pig	1.0061	1139	0.4933	339	Reilly	128	1212	1.1958
+7	946 m^2	1.0674	Data Science	CAT	0.6665	1021	0.7693	1190	Chris	1101	61	0.7584
+7	1270 m^2	0.6428	Data Science	CAT	0.7532	1328	0.8123	809	Chris	997	231	0.7976
+7	1262 m^2	1.0955	Data Science	cat	0.6586	1191	1.3299	1099	Chris	1581	270	0.9176
+6	655 m^2	1.1907	Computer Game Design	pig	0.6364	955	1.125	1279	eriq	588	925	0.9562
+2	923 m^2	0.9513	Games and Playable Media	rat	0.931	914	0.9789	217	Michael	673	324	0.1875
+2	919 m^2	0.7214	Games and Playable Media	rat	0.79	1224	0.9264	380	Michael	1037	365	0.4828
+3	1283 m^2	0.2779	Computer Game Design	ferret	0.8051	997	N/A	892	Andrew	1052	615	1.0518
+7	1036 m^2	0.9204	Data Science	cat	0.5399	774	1.2552	1134	Chris	1376	47	1.0328
+7	940 m^2	0.9157	Data Science	cat	0.919	1066	1.364	1059	Chris	1087	-35	0.8642
+2	1270 m^2	0.6691	Games and Playable Media	chicken	0.6548	1035	1.1433	102	michael	951	486	0.3239
+3	823 m^2	0.6414	Computer Game Design	ferret	1.0175	973	0.9382	1056	Andrew	1002	929	0.8156
+4	1024 m^2	1.2997	Bioinformatics	bird	0.0752	819	1.0045	?	Inan	986	454	0.8143
+1	888 m^2	1.0236	Electrical Engineering	reptile	1.0799	1153	N/A	1100	Vani	740	741	1.0027
+0	337 m^2	-0.1443	Natural Language Processing	rabbit	0.8474	1269	0.3372	386	Reilly	400	1004	1.0532
+4	1037 m^2	1.0022	Bioinformatics	guinea pig	0.4066	768	1.1217	932	Inan	NULL	715	0.9012
+4	1184 m^2	1.1116	Bioinformatics	guinea pig	0.329	983	0.9034	1013	Lise	1063	587	0.7494
+2	1103 m^2	1.0792	Games and Playable Media	rat	1.1333	1116	0.8693	133	Michael	1074	331	0.5317
+7	NULL	0.6778	Data Science	cat	0.3983	865	0.9188	868	Chris	1360	268	0.764
+2	1165 m^2	0.9477	eLECTRICAL eNGINEERING	rat	1.0643	906	1.6656	251	Michael	1228	347	0.6258
+3	1244 m^2	0.2535	Human Computer Interaction	ferret	0.7608	866	0.8448	922	andrew	971	844	1.1634
+1	887 m^2	1.1986	Electrical Engineering	reptile	0.8491	866	1.213	807	Vani	794	1170	1.1626
+6	537 m^2	1.0207	Technology and Information Management	pig	1.0491	1323	1.0957	729	Eriq	809	1047	1.0927
+3	1478 m^2	0.4579	Human Computer Interaction	hamster	0.6346	1067	1.2739	1041	Andrew	858	861	1.0947
+4	696 m^2	1.0744	Robotics Engineering	bird	0.2583	569	0.8077	792	Lise	879	745	0.9277
+4	933 m^2	0.9434	bIOINFORMATICS	guinea pig	0.2952	925	0.8052	1107	Lise	884	746	0.8705
+2	798 m^2	1.1969	Games and Playable Media	chicken	1.2443	951	0.9164	322	Michael	1034	204	0.4609
+7	1120 m^2	1.1708	Data Science	cat	0.5397	964	1.0726	1044	Chris	855	118	1.0628
+2	1141 m^2	1.0337	Games and Playable Media	chicken	0.7846	1178	0.9686	118	Michael	540	270	0.2185
+1	1001 m^2	0.7764	Electrical Engineering	reptile	0.8986	838	0.7699	1539	Vani	878	982	1.1602
+8	845 m^2	1.1023	Computer Science	dog	1.0822	1136	0.7854	866	Sam	1120	1080	0.4772
+1	1142 m^2	0.6538	N/A	reptile	0.811	780	1.1013	819	Vani	502	1155	0.7446
+0	134 m^2	0.3039	Biotechnology	rabbit	0.7838	864	0.5108	490	Reilly	259	1109	0.7868
+4	1022 m^2	1.2474	Bioinformatics	guinea pig	0.101	817	0.5709	980	Inan	1189	863	0.8839
+0	388 m^2	0.4536	Computer Engineering	rabbit	0.7543	1092	0.4536	173	Eriq	1113	991	0.9625
+5	1138 m^2	0.9583	Applied Mathematics	fish	0.7392	486	0.3392	733	andrew	763	791	0.8213
+0	215 m^2	-0.0035	Computer Engineering	rabbit	0.6746	1037	0.114	434	Reilly	711	886	1.1723
+3	994 m^2	0.3417	Statistics	hamster	0.8126	1053	1.1143	820	Michael	924	900	0.5972
+0	403 m^2	0.4202	Computer Engineering	rabbit	0.7162	765	0.5476	475	Reilly	670	904	0.9536
+8	1187 m^2	0.5884	Computer Science	reptile	1.0135	951	0.9868	1169	Tony	1374	817	1.0123
+6	678 m^2	1.0094	Technology and Information Management	pig	0.9373	948	0.936	954	Eriq	1104	628	1.2783
+5	1308 m^2	1.1108	Bioengineering	fish	0.329	508	1.0841	442	Fabrice	1180	1044	1.1018
+1	843 m^2	1.2556	Electrical Engineering	reptile	1.113	1023	1.0116	1055	Vani	935	1042	0.8622
+3	503 m^2	0.4031	Computer Game Design	hamster	0.6276	964	0.8887	1193	Andrew	721	1063	1.0702
+1	1066 m^2	0.8455	Electrical Engineering	reptile	0.9903	761	0.8143	1084	vANI	791	1090	1.147
+2	1038 m^2	0.8573	Games and Playable Media	bird	0.9841	953	1.1294	381	Michael	1123	305	0.2591
+3	1097 m^2	0.6307	Computer Game Design	hamster	0.9646	911	1.2325	1200	Andrew	607	866	
+7	939 m^2	0.7773	Data Science	REPTILE	0.6132	933	1.3376	998	Chris	1176	-257	0.8167
+3	991 m^2	0.9008	Statistics	hamster	0.8938	1368	1.0307	1096	Andrew	884	877	0.9881
+5	1009 m^2	1.2779	Bioengineering	fish	0.5146	316	0.9139	1005	Fabrice	880	667	0.8696
+1	875 m^2	1.3631	Electrical Engineering	reptile	1.147	1284	1.078	1114	Vani	1148	827	0.9021
+3	860 m^2	0.684	Statistics	hamster	0.6549	999	1.1199	1102	Andrew	987	987	0.8394
+7	938 m^2	0.6044	Data Science	ferret	0.9818	1107	0.7064	1297	CHRIS	754	-142	0.8925
+2	981 m^2	0.8804	gAMES AND pLAYABLE mEDIA	chicken	0.8462	898	1.2066	231	Michael	1165	513	0.508
+2	985 m^2	1.0703	Games and Playable Media	chicken	0.874	1061	0.8476	225	Reilly	496	227	0.0691
+1	1456 m^2	1.0963	Electrical Engineering	reptile	1.0699	1114	0.8103	1227	Vani	799	1176	0.9072
+4	832 m^2	1.1894	Bioinformatics	bird	0.2152	697	0.9717	1378	Inan	1015	591	0.5946
+4	520 m^2	0.9712	Robotics Engineering	guinea pig	0.2471	910	0.5387	988	Lise	1104	605	0.5499
+8	1416 m^2	0.6227	cOMPUTER sCIENCE	dog	0.8216	1210	0.7314	958	Tony	721	1099	0.9976
+6	587 m^2	0.8831	Technology and Information Management	pig	0.9019	1097	0.8671	1227	Eriq	1023	763	1.085
+8	937 m^2	0.9887	Computer Science	dog	1.0211	1138	0.9776	1169	Sam	614	969	1.0112
+1	898 m^2	0.7864	Electrical Engineering	rabbit	0.6928	953	1.1709	1022	Inan	1274	1043	0.9683
+8	1142 m^2	0.8058	Computer Science	dog	1.2473	1093	0.8952	654	Tony	693	794	1.236
+2	1116 m^2	0.7904	Games and Playable Media	rat	0.7668	1084	0.8116	218	Michael	874	700	0.0577
+8	1110 m^2	0.6711	Computer Science	dog	0.9577	876	0.8594	1024	Sam	1210	1011	1.2818
+0	31 m^2	0.1089	Computer Engineering	RABBIT	0.8991	765	0.3199	268	Reilly	308	886	1.088
+5	1028 m^2	0.8753	aPPLIED mATHEMATICS	rabbit	0.4234	493	0.8744	687	Fabrice	1216	595	1.0722
+2	955 m^2	1.083	Statistics	pig	0.9955	872	0.8445	-55	Michael	903	138	0.5751
+1	921 m^2	1.2395	Electrical Engineering	reptile	0.9	1124	0.6832	784	Inan	866	887	0.8783
+5	958 m^2	0.771	Bioengineering	fish	0.3446	247	1.1129	842	Fabrice	785	987	0.9462
+8	796 m^2	1.1062	Computer Science	ferret	1.3712	896	0.7613	1259	Sam	955	947	1.1142
+8	1134 m^2	None	Computer Science	dog	1.0395	1136	1.2825	794	Sam	1279	906	1.184
+2	1195 m^2	1.0025	Games and Playable Media	rat	0.656	934	0.8156	108	Michael	613	133	0.5084
+5	1108 m^2	1.0025	Applied Mathematics	fish	0.6318	533	0.7957	749	Chris	584	774	0.9099
+7	928 m^2	0.8687	Data Science	cat	0.4568	856	1.2168	804	Chris	975	165	0.9789
+4	1001 m^2	1.2544	robotics engineering	bird	0.4247	869	0.9392	971	Lise	730	730	0.7409
+1	1144 m^2	0.9943	Electrical Engineering	reptile	1.1438	859	0.6874	1040	Vani	745	988	0.5838
+2	946 m^2	1.2465	Games and Playable Media	rat	0.9714	834	0.6633	389	Michael	871	636	0.6435
+3	1000 m^2	0.7559	Human Computer Interaction	ferret	0.8374	1229	1.0623	1094	Andrew	706	852	1.048
+3	995 m^2	0.5607	Human Computer Interaction	hamster	0.8185	895	0.9851	789	Andrew	821	972	1.3394
+3	1089 m^2	0.4915	Computer Game Design	hamster	0.5149	822	0.9301	936	Andrew	1190	511	1.0424
+2	1426 m^2	0.9052	Games and Playable Media		0.9248	882	1.0915	126	Michael	838	312	0.233
+4	1119 m^2	1.2805	bioinformatics	bird	0.2463	982	1.2277	897	Inan	1169	750	0.9005
+1	1014 m^2	1.208	ELECTRICAL ENGINEERING	reptile	1.0527	1034	1.0641	982	Vani	1106	922	1.0921
+0	-62 m^2	0.2581	Natural Language Processing	rabbit	0.568	711	0.255	392	Reilly	204	807	1.2484
+6	516 m^2	1.3665	Technology and Information Management	pig	1.2518	952	0.8849	763	Eriq	915	1110	0.9266
+7	900 m^2	1.0487	Data Science	cat	0.5642	1004	0.7656	815	Chris	NULL	-13	0.9139
+7	937 m^2	0.7668	Data Science	cat	0.256	1195	0.7999	859	Chris	1159	1	0.8958
+0	208 m^2	0.2882	Natural Language Processing	rabbit	0.6536	840	0.7088	661	Reilly		900	1.27
+2	903 m^2	0.997	Games and Playable Media	rat	1.1301	934		294	Michael	720	286	0.5015
+1	903 m^2	0.9191	Electrical Engineering	reptile	0.9566	808	0.7629	923	Vani	1150	933	0.7194
+4	563 m^2	0.9235	Bioinformatics	bird	0.0116	771	1.2151	1043	Inan	1177	689	0.6814
+7	980 m^2	0.4145	Data Science	cat	0.8	941	0.9208	NULL	Chris	833	-245	0.796
+6	927 m^2	1.1603	Computational Media	pig	1.2165	1014	1.0511	1055	Eriq	463	1165	0.6723
+3	1161 m^2	0.8908	Human Computer Interaction	HAMSTER	0.7356	1044	0.9946	854	Andrew	936	1145	0.948
+2	1079 m^2	0.9745	Games and Playable Media	chicken	1.283	841	0.7638	262	Michael	606	411	0.3094
+2	897 m^2	0.6882	Games and Playable Media	rat	1.29	1154	0.9572	104	Michael	896	506	0.2416
+3	957 m^2	0.3734	Human Computer Interaction	hamster	0.769	1159	0.8104	766	Andrew	988	1113	0.9685
+6	990 m^2	1.0048	Computational Media	fish	0.8859	1020	0.8674	1256	Eriq	1194	851	0.8149
+1	1115 m^2	1.191	Electrical Engineering	Ferret	1.2042	878	0.9891	977	Vani	1523	1073	0.8769
+4	973 m^2	0.9103	Bioinformatics	bird	0.1026	731	0.7304	1172	Lise	1252	876	0.8953
+1	1102 m^2	1.1847	Electrical Engineering	reptile	n/a	1101	0.9871	995	Vani	685	710	0.9843
+0	222 m^2	-0.0601	Computer Engineering	reptile	0.8197	1128	0.6181	744	Eriq	412	1142	1.1411
+6	1063 m^2	1.1715	Computational Media	pig	0.6709	689	1.1174	1286	Eriq	869	860	0.8298
+7	1165 m^2	0.8691	Data Science	cat	0.4128	888	1.19	1247	Chris	789	136	1.0157
+7	919 m^2	1.0391	Data Science	cat	0.6962	1098	1.0689	1106	Chris	952	130	1.1124
+3	1180 m^2	0.48	Computer Game Design	ferret	0.9049	?	NULL	647	Andrew	954	732	0.9334
+4	946 m^2	1.0138	Bioinformatics	guinea pig	0.3768	866	1.0673	1273	Lise	1040	803	0.6501
+7	988 m^2	0.8684	Data Science	cat	0.661	987	0.9993	782	Chris	923	-151	0.7924
+0	216 m^2	0.2426	Computer Engineering	rabbit	0.7756	922	0.3722	478	Reilly	592	946	1.298
+8	1202 m^2	1.0993	Computer Science	dog	1.1782	959	0.9559	1054	Tony	796	1060	1.2954
+3	951 m^2	0.5184	Statistics	hamster	0.9106	955	0.9117	1073	Andrew	1312	885	1.1475
+3	1142 m^2	0.5925	Technology and Information Management	bird	1.0941	1116	1.1288	1235	Andrew	734	820	0.9028
+0	-5 m^2	-0.395	Computer Engineering	rabbit	0.6881	1084	0.0825	269	Reilly	527	868	0.953
+8	1094 m^2	0.2624	Computer Science	fish	1.255	1014	0.8244	975	Sam	795	826	1.0263
+3	1321 m^2	0.6911	Statistics	hamster	1.1016	1043	1.2627	1135	Andrew	904	659	1.3171
+7	973 m^2	0.8117	data science	ferret	0.3891	859	1.0255	903	Chris	948	106	0.9094
+2	1066 m^2	0.7567	Games and Playable Media	rat	1.0104	694	0.8759	130	Michael	998	462	0.4009
+1	889 m^2	1.0089	Statistics	reptile	1.1015	1162	0.5702	880	Vani	716	1171	1.0409
+0	445 m^2	0.4968	Biotechnology	rabbit	0.4171	743	0.5516	245	Reilly	150	1182	0.7656
+5	851 m^2	0.6625	Applied Mathematics	fish	0.6798	-16	1.0504	601	Fabrice	1244	900	0.7476
+3	1053 m^2	0.5371	Human Computer Interaction	hamster	1.3413	1268	0.7452	1234	Andrew	1059	914	1.102
+1	1176 m^2	1.0322	Electrical Engineering	reptile	1.1209	1052	1.0573	1135	Vani	998	1180	0.7541
+8	935 m^2	1.1809	Computer Science	dog	1.1174	1031	0.8219	1525	Tony	961	783	0.7905
+6	959 m^2	1.13	Computational Media	pig	0.786	802	1.0719	1056	Eriq	720	754	1.2016
+6	763 m^2	1.1079	Computational Media	pig	1.2057	1018	0.8683	916	Eriq	678	822	1.1553
+6	686 m^2	0.7734	Computational Media	pig	0.9882	871	1.3311	915	Eriq	796	925	1.0376
+1	952 m^2	1.1989	Electrical Engineering	reptile	1.1128	809	1.1688	1101	Vani	1123	1125	1.1132
+8	1236 m^2	0.7052	Computer Science	dog	1.0042	1367	1.0372	997	Sam	1127	986	0.818
+2	784 m^2	1.0845	Games and Playable Media	chicken	0.9959	984	1.0967	166	Michael	1249	245	0.44
+0	239 m^2	-0.0456	Biotechnology	RABBIT	0.4681	888	0.0566	391	Reilly	388	1276	0.9378
+3	1078 m^2	0.1638	Computer Game Design	guinea pig	1.0092	1325	0.7993	935	Andrew	623	1266	1.2253
+0	355 m^2	0.0504	Computer Engineering	rabbit	0.4858	1094	0.418	419	Reilly	639	1019	0.9982
+8	1093 m^2	0.9038	Computer Science	dog	0.8932	884	0.7435	1052	Fabrice	621	997	0.9995
+3	1159 m^2	0.7332	Human Computer Interaction	hamster	0.8134	1025	1.3267	1171	Andrew	352	1011	1.2348
+8	908 m^2	0.8973	Computer Science	dog	1.0371	1232	1.0543	890	Michael	986	1113	0.9371
+3	1473 m^2	0.4162	Computer Game Design	Hamster	0.8831	1369	1.0187	1227	Andrew	1122	1170	0.9936
+1	1200 m^2	0.8071	Electrical Engineering	rabbit	1.219	774	0.9588	1118	Eriq	1059	1109	0.8659
+2	916 m^2	1.2831	Games and Playable Media	rat	0.9383	1210	1.172	286	Michael	881	283	0.8092
+1	1156 m^2	0.7434	Electrical Engineering	reptile	1.1664	919	1.0943	1028	Vani	1452	1158	1.0559
+2	944 m^2	0.3844	Games and Playable Media	chicken	1.1134	1219	0.8389	680	Michael	603	490	0.3642
+3	1246 m^2	0.4176	Computer Game Design	hamster	0.6873	830	1.0761	949	Andrew	1143	909	0.941
+5	914 m^2	1.1588	Computer Science	fish	0.4497	n/a	1.3802	903	Fabrice	1073	660	0.9658
+2	915 m^2	1.0355	Games and Playable Media	chicken	0.9875	1141	0.9877	301	Michael	1071	551	0.367
+8	1012 m^2	1.069	Computer Science	dog	1.191	939	0.8877	1116	Reilly	789	889	0.9111
+6	710 m^2	1.0347	Technology and Information Management	pig	1.2832	932	0.9432	1408	Eriq	857	1167	1.0669
+0	292 m^2	-0.0956	Biotechnology	rat	0.5462	877	0.1606	500	Reilly	63	854	0.6878
+8	1119 m^2	1.0357	Computer Science	dog	0.966	1204	1.0582	888	Tony	808	931	1.0053
+4	1100 m^2	1.0393	Bioinformatics	guinea pig	0.1205	1022	0.962	1245	Lise	542	1217	0.8363
+1	1219 m^2	1.0686	Bioengineering	reptile	1.0162	912	1.0492	840	Vani	892	1123	1.0255
+7	1094 m^2	0.717	Data Science	cat	0.6561	1117	0.8949	1177	Chris	1543	-82	1.2941
+8	1269 m^2	1.1636	Computer Science	dog	1.1712	1160	1.225	1126	Tony	990	1038	1.3351
+2	1286 m^2	1.1304	Games and Playable Media	rat	0.9611	907	0.7472	268	Michael	1192	593	0.2935
+3	925 m^2	0.6608	Human Computer Interaction	ferret	0.7588	n/a	0.7903	1174	Andrew	958	1027	?
+1	938 m^2	1.53	Electrical Engineering	reptile	0.8396	888	0.8832	943	Vani	858	933	0.7132
+5	1130 m^2	1.2772	Bioengineering	fish	0.8114	335	0.5791	727	Inan	865	886	0.8308
+2	1215 m^2	0.7723	Games and Playable Media	chicken	1.1107	856	1.0337	142	Michael	831	750	0.5605
+3	1096 m^2	0.7984	Computer Game Design	hamster	0.9315	1092	0.9892	1010	Andrew	861	1089	0.9606
+2	1170 m^2	1.1493	Games and Playable Media	rat	0.6715	1093	0.5486	54	Michael	1175	490	0.2075
+7	821 m^2	1.1164	Data Science	cat	0.5354	610	0.9685	1017	chris	1088	69	0.8211
+4	1207 m^2	0.5976	Robotics Engineering	guinea pig	0.347	700	0.7455	870	Inan	1473	791	0.9017
+6	801 m^2	0.8535	Computational Media	pig	1.1422	936	0.992	1080	Eriq	842	1003	0.8265
+0	178 m^2	0.2091	Natural Language Processing	rabbit	0.7861	1124	0.3268	967	Reilly	208	966	1.1032
+6	849 m^2	0.4804	Technology and Information Management	pig	0.9718	1117	0.9868	1300	Eriq	900	699	0.9701
+5	952 m^2	0.7598	Applied Mathematics	fish	0.7274	415	1.2869	883	Fabrice	1226	681	1.1953
+8	1059 m^2	0.732	Computer Science	dog	1.051	1324	1.0445	1088	Sam	1402	900	0.8717
+7		1.2521	Data Science	cat	0.6499	873	0.9516	1114	Chris	873	252	0.9304
+6	277 m^2	1.0317	Technology and Information Management	pig	1.0249	958	1.1073	970	Eriq	832	799	1.042
+2	1029 m^2	0.8836	Games and Playable Media	chicken	1.1397	1202	1.2268	235	Tony	1135	437	0.2889
+1	1318 m^2	0.7918	Electrical Engineering	reptile	0.8911	693	0.8775	1323	Vani	944	1097	0.7673
+2	1226 m^2	0.9505	Games and Playable Media	chicken	0.9114	958	0.8778	168	Michael	1143	335	0.4053
+4	839 m^2	0.9816	Robotics Engineering	bird	0.3032	598	0.8745	1119	Inan	1312	689	0.7264
+0	116 m^2	-0.3775	Biotechnology	rabbit	0.5879	1092	0.4389	247	Inan	331	920	0.8524
+7	1137 m^2	1.1232	Bioinformatics	cat	0.414	895		1019	Chris	801	-254	1.0979
+4	924 m^2	0.9191	Bioinformatics	bird	0.5079	1015	1.1183	923	Inan	1102	693	0.9989
+7	953 m^2	0.8173	Data Science	cat	0.5913	834	0.9426	779	Chris	1075	-27	1.1441
+0	407 m^2	0.2582	Computer Engineering	rabbit	0.5177	1260	0.3186	391	Reilly	413	1290	0.9147
+5	604 m^2	0.7739	Data Science	Fish	0.5396	364	1.248	473	Fabrice	1038	744	1.0263
+0	530 m^2	-0.275	Biotechnology	rabbit	0.7805	1009	0.1852	388	Eriq	358	1128	0.8793
+5	1196 m^2	0.5967	Bioengineering	fish	0.4299	306	1.2294	899	Fabrice	894	701	1.1134
+7	878 m^2	0.8889	Data Science	cat	0.3283	992	1.2896	883	Lise	1230	195	0.8361
+4	1156 m^2	0.8187	Robotics Engineering	bird	0.4049	874	0.8708	852	Inan	622	593	0.7069
+4	1061 m^2	1.1492	Robotics Engineering	guinea pig	0.2287	856	1.2747	917	Inan	1214	596	0.9172
+2	935 m^2	1.1763	Games and Playable Media	chicken	1.0165	906	0.7879	288	Michael	564	554	0.6124
+5	885 m^2	1.1029	Bioengineering	fish	0.576	533	0.6152	822	Fabrice	1064	812	0.9482
+7	920 m^2	0.6593	Data Science	cat	0.4832	1134	1.0126	1180	Chris	1193	101	0.8023
+0	286 m^2	0.288	Computer Engineering	rabbit	0.97	859	0.3596	761	Reilly	587	1011	1.1077
+1	986 m^2	0.6807	Electrical Engineering	reptile	1.0057	728	0.6399	1253	Chris	1198	849	0.8044
+3	796 m^2	0.2369	Human Computer Interaction	ferret	0.7259	1010	1.0396	1197	Andrew	1274	1138	1.0589
+2	907 m^2	0.3582	Games and Playable Media	rat	1.2065	1164	1.109	321	Michael	568	231	0.0402
+0	375 m^2	0.5028	Biotechnology	chicken	0.6216	996	0.549	392	Chris	134	1092	1.06
+1	892 m^2	1.1986	Electrical Engineering	reptile	1.0342	754	0.9304	1133	Michael	1048	1070	1.3409
+4	883 m^2	0.9841	Bioinformatics	rabbit	0.1877	947	0.7899	829	Inan	1270	567	0.8725
+7	1089 m^2	0.8316	Data Science	cat	0.3321	885	0.953	819	Chris	1021	245	0.8136
+6	846 m^2	1.2117	Technology and Information Management	pig	1.1801	799	0.5049	964	Eriq	706	869	1.0184
+4	1014 m^2	1.1952	Robotics Engineering	bird	0.1618	877	0.8991	1108	Lise	1179	854	0.7904
+8	1017 m^2	0.7213	Computer Science	rabbit	1.0632	1021	0.824	876	Fabrice	1320	898	1.42
+8	1399 m^2	1.4351	Computer Science	dog	1.1229	1032	1.1211	1012	Tony	1010	1140	1.1132
+1	871 m^2	1.1145	Electrical Engineering	reptile	1.1176	932	0.7973	1394	Vani	846	1399	0.9924
+0	202 m^2	-0.4417	Computer Science	rabbit	0.9236	691	0.8769	402	Reilly	-144	856	0.7401
+5	959 m^2	0.8766	Statistics	fish	0.3522	480	0.7403	670	Fabrice	827	889	0.9749
+3	1119 m^2	0.7191	Computer Game Design	ferret	0.7828	744	0.7841	996	Andrew	679	937	0.9509
+2	1201 m^2	1.1457	Games and Playable Media	chicken	0.977	991	1.0813	151	Michael	1440	469	0.4246
+3	935 m^2	0.2326	Computer Game Design	ferret	0.8885	772	0.866	932	Andrew	885	1287	0.7871
+2	1378 m^2	0.4304	Games and Playable Media	chicken	0.8294	1259	0.9082	-59	Michael	1208	404	0.203
+3	1046 m^2	0.6938	Human Computer Interaction	ferret	0.8114	1301	1.0194	813	Andrew	527	1074	0.9692
+0	48 m^2	0.165	Computer Engineering	guinea pig	0.8691	881	0.461	522	Reilly	274	779	1.0645
+7	842 m^2	0.701	Data Science	cat	0.659	1348	1.2241	995	Chris	542	-29	1.0184
+1	953 m^2	1.2383	Electrical Engineering	reptile	1.3722	949	0.9074	747	Tony	1153	1307	0.8214
+7	745 m^2	0.8211	Data Science	cat	0.5547	1114	0.9115	941	Michael	792	307	1.1447
+6	749 m^2	0.8433	Computational Media	pig	0.999	693	0.9797	773	Sam	1028	866	0.7592
+1	None	1.1702	Electrical Engineering	reptile	0.8589	796	0.6033	1214	Vani	999	1181	0.9817
+1	981 m^2	0.8089	Computational Media	reptile	0.9488	910	0.9535	841	Vani	1150	959	1.2171
+6	785 m^2	0.8786	Technology and Information Management	pig	0.6247	1001	1.2962	783	Eriq	957	790	0.8142
+2	1178 m^2	0.9416	Games and Playable Media	rat	0.9155	1109	0.9305	149	Inan	1106	595	0.073
+3	911 m^2	0.5933	Statistics	rabbit	0.9989	955	0.63	942	Vani	1226	1138	0.9083
+0	58 m^2	0.2481	Computer Engineering	rabbit	0.7828	1139	0.3458	376	Reilly	23	1156	0.9872
+1	1021 m^2	1.4166	Electrical Engineering	REPTILE	0.8959	1124	1.2877	1018	Andrew	692	956	0.8403
+0	180 m^2	0.4095	Natural Language Processing	rabbit	0.7692	1161	0.4386	285	Reilly	668	907	1.2546
+7	1183 m^2	0.7839	Data Science	cat	0.8616	789	1.1256	898	Chris	1090	90	0.8715
+7	1077 m^2	0.7827	Data Science	cat	0.6413	924	1.2646	846	Chris	833	-188	0.7295
+8	1013 m^2	0.9235	Computer Science	dog	1.0709	1077	1.0225	1252	Tony	923	1166	1.0703
+0	-130 m^2	0.126	Biotechnology	dog	0.7066	951	0.2522	None	Reilly	157	757	0.9491
+2	1319 m^2	0.4079	Games and Playable Media	chicken	0.8591	870	0.9561	164	Sam	888	406	0.0305
+3	1184 m^2	0.6986	Computer Game Design	hamster	0.7687	1377	0.8582	717	Andrew	1099	675	1.2761
+5	836 m^2	1.1844	Bioengineering	fish	0.5849	205	1.0202	586	Fabrice	859	829	0.9078
+0	114 m^2	0.1503	Natural Language Processing	rabbit	0.8773	718	0.1158	558	Reilly	326	815	0.8187
+0	-86 m^2	0.581	Natural Language Processing	rabbit	0.7429	1010	0.4512	428	Reilly	588	933	1.1289
+7	1369 m^2	0.4984	Data Science	cat	0.6762	960	1.1212	771	Chris	1365	-10	1.0272
+8	907 m^2	1.4494	Computer Science	dog	0.6193	1225	1.0127	1051	Sam	1025	787	0.9001
+8	830 m^2	1.4077	Computer Science	rat	0.9445	1202	1.188	1043	Sam	1270	1444	1.122
+2	1208 m^2	0.8056	Games and Playable Media	RAT	0.6056	870	0.8931	340	Michael	886	598	0.1918
+2	787 m^2	1.3125	Games and Playable Media	rat	0.6551	951	0.9091	642	Tony	757	313	0.5498
+2	919 m^2	0.8844	Games and Playable Media	rat	1.0122	1008	0.9995	1	Andrew	900	498	0.4987
+0	432 m^2	-0.0225	Natural Language Processing	rabbit	0.9802	1046	0.3581	465	Reilly	491	991	0.9095
+8	1365 m^2	0.8148	Computer Science	dog	1.0033	1133	1.4195	957	Tony	695	960	0.8192
+1	998 m^2	0.8844	Electrical Engineering	reptile	1.1025	1034	1.0709	1276	Eriq	652	1186	1.0359
+1	1021 m^2	0.8907	Electrical Engineering	reptile	0.8822	772	0.7723	946	Vani	1116	1232	1.03
+5	814 m^2	0.7987	Applied Mathematics	fish	0.7189	498	1.0795	807	Chris	989	920	1.0216
+4	1253 m^2	0.7986	Bioinformatics	cat	0.3581	850	0.7674	969	Lise	1044	903	1.1445
+0	430 m^2	0.2593	Biotechnology	rabbit	0.4401	998	0.7486	250	Reilly	373	1087	0.8235
+7	811 m^2	0.7459	Data Science	cat	0.451	690	1.1896	971	Chris	1245	185	1.2586
+3	941 m^2	0.2044	Human Computer Interaction	hamster	1.0656	1067	1.0994	865	Andrew	974	909	1.1283
+7	875 m^2	1.18	Data Science	cat	0.4094	1064	0.9952	1139	Chris	682	77	0.9527
+0		0.1032	Natural Language Processing	rabbit	0.4829	1175	0.1254	695	Reilly	-45	578	0.9584
+4	973 m^2	0.8836	robotics engineering	bird	-0.1137	712	1.0686	988	Inan	1357	880	0.8275
+3	1301 m^2	0.3653	Computer Game Design	hamster	0.8954	1116	0.9774	989	Tony	760	1071	NULL
+2	865 m^2	0.8377	Games and Playable Media	rat	0.7608	1363	1.0501	160	Michael	551	189	0.2115
+8	933 m^2	1.3593	Computer Science	dog	1.1424	1069	0.8318	1397	Sam	1030	1044	0.8452
+4	1160 m^2	1.5383	Robotics Engineering	bird	0.1748	1062	0.829	867	Inan	1021	664	0.4779
+0	333 m^2	-0.058	Biotechnology	rabbit	0.6244	834	0.0286	626	Andrew	309	928	1.1259
+5	708 m^2	1.0786	Applied Mathematics	fish	0.8192	365	0.7826	847	Fabrice	1039	949	1.0099
+7	1100 m^2	0.8488	Data Science	cat	0.9065	876	0.9533	1029	Chris	1201	-200	1.0505
+3	881 m^2	0.7269	Statistics	ferret	0.7285	1046	0.8155	944	Andrew	732	974	0.9243
+2	803 m^2	1.0161	Games and Playable Media	rat	0.8316	931	1.1674	-53	Michael	915	257	0.7802
+2	952 m^2	1.1143	Games and Playable Media	pig	0.9787	1010	n/a	203	Michael	511	332	0.162
+2	1165 m^2	0.7648	Games and Playable Media	chicken	0.9388	1188	0.999	63	Michael	969	336	0.4228
+5	850 m^2	None	Applied Mathematics	fish	0.4563	-29	1.0186	589	Fabrice	972	841	0.9679
+7	890 m^2	0.6447	Data Science	cat	0.7502	873	0.9844	870	Chris	752	NULL	1.2753
+6	756 m^2	1.0324	computational media	ferret	0.8993	1171	0.8221	1093	Eriq	626	795	0.8565
+6	964 m^2	1.1338	Technology and Information Management	pig	0.9798	784	1.1119	1151	Eriq	750	1047	0.8983
+7	1089 m^2	0.8577	Data Science	cat	0.7126	?	0.6388	830	Michael	1070	207	0.7434
+3	1267 m^2	0.2321	Statistics	hamster	0.8675	992	1.2767	1247	Andrew	793	1089	1.2061
+3	1178 m^2	0.604	Statistics	hamster	0.9534	1041	0.9311	1019	Andrew	896	726	0.7248
+7	1007 m^2	0.6956	Data Science	CAT	0.7439	910	0.7036	1210	Reilly	1192	379	0.9687
+6	624 m^2	0.9621	Computational Media	cat	0.9691	1206	0.7456	1032	Eriq	728	1154	0.8526
+7	1092 m^2	1.0126	Data Science	cat	0.5159	1158	1.0469	1021	Reilly	1026	-228	0.991
+2	864 m^2	0.921	Games and Playable Media	RAT	0.9351	1220	0.9195	53	Michael	1006	256	0.474
+8	812 m^2	0.7497	Computational Media	reptile	1.1737	1109	1.4387	1031	Tony	1122	776	0.8993
+3	951 m^2	0.8258	cOMPUTER eNGINEERING	DOG	0.7039	999	0.7955	1346	Andrew	797	1094	0.8334
+8	900 m^2	1.1671	COMPUTER SCIENCE	dog	1.3211	1037	0.7946	1166	Sam	1512	775	N/A
+3	1129 m^2	0.7585	Human Computer Interaction	ferret	0.7687	1431	1.1111	919	Andrew	853	661	0.8601
+0	180 m^2	-0.0851	Computer Engineering	rabbit	0.4457	1096	0.757	451	Reilly	813	1321	0.8718
+3	908 m^2	0.9271	Human Computer Interaction	dog	0.8992	1100	0.9475	1089	Andrew	809	845	0.945
+1	1163 m^2	0.6762	Robotics Engineering	reptile	1.1386	757	1.0409	1122	Vani	751	1158	1.3765
+8	639 m^2	0.52	Computer Science	dog	0.9672	1124	1.0294	1115	Tony	1148	999	1.273
+1	1158 m^2	0.7035	Electrical Engineering	reptile	1.2529	1055	0.6364	781	Vani	996	671	0.981
+1	1136 m^2	0.8923	Electrical Engineering	reptile	0.8809	982	1.2891	1024	Vani	1239	1197	1.132
+0	341 m^2	-0.0129	Computer Engineering	rabbit	0.5212	1027	0.2593	79	Reilly	360	1363	0.9721
+5	1035 m^2	1.0748	Bioengineering	fish	0.5449	346	0.9866	663	Fabrice	879	863	0.8845
+4	1088 m^2	0.7411	Robotics Engineering	bird	0.4451	750	0.7535	1006	Inan	802	802	0.2735
+1	1386 m^2	0.9701	Electrical Engineering	reptile	0.9035	747	1.0733	980	Vani	884	906	0.8276
+7	1034 m^2	0.6422	Data Science	cat	0.8177	1142	1.1808	1121	Chris	1306	-44	1.1286
+4	1065 m^2	1.1943	Robotics Engineering	bird	0.1486	785	0.9844	938	Eriq	982	535	0.7666
+8	1029 m^2	1.0723	Data Science	dog	1.3794	1277	0.7965	1055	Tony	NULL	874	0.779
+0	15 m^2	0.3928	Computational Media	rabbit	0.791	1134	0.5225	402	Vani	454	765	1.1188
+7	1101 m^2	1.1854	Data Science	cat	0.5382	1057	0.7389	862	Michael	897	-109	0.8554
+6	655 m^2	1.3116	Technology and Information Management	pig	0.9272	789	0.9705	976	Eriq	1165	979	0.8642
+1	1204 m^2	0.7251	Electrical Engineering	ferret	0.9187	1004	1.1311	918	Vani	950	1092	1.0812
+0	289 m^2	0.1604	Natural Language Processing	rabbit	0.7187	1209	0.5219	567	Inan	181	661	1.1767
+6	535 m^2	1.2069	Computational Media	fish	1.189	1154	1.301	1075	Eriq	814	828	0.838
+1	771 m^2	0.8601	Electrical Engineering	reptile	1.1112	993	1.012	776	Vani	1248	928	0.8045
+5	988 m^2	1.0985	Bioengineering	fish	0.1938	533	0.6712	905	Fabrice	731	799	0.9031
+3	1100 m^2	0.3481	Computer Game Design	hamster	0.8523	767	1.0377	1037	ANDREW	989	664	1.2957
+3	1012 m^2	0.5295	Computer Game Design	ferret	1.1067	1145	0.9995	711	Andrew	790	1092	0.922
+6	632 m^2	0.9724	Computational Media	pig	1.2909	1217	0.7538	1059	Eriq	879	1018	1.1595
+1	1171 m^2	0.9416	Electrical Engineering	rat	0.913	865	NULL	1154	Andrew	978	533	0.6706
+3	?	0.1937	Human Computer Interaction	hamster	0.7859	893	1.0306	1259	Andrew	1260	946	1.0323
+6	626 m^2	1.0403	Computational Media	pig	1.1494	683	0.7915	974	Eriq	299	736	1.0454
+2	1065 m^2	0.9997	Games and Playable Media	rabbit	1.1061	1031	0.9969	355	Michael	1078	357	0.39
+6	1093 m^2	1.1952	Computational Media	cat	1.0153	1091	0.9855	815	Eriq	798	958	0.8294
+3	1098 m^2	0.9679	Statistics	ferret	0.6702	826	0.7524	938	Fabrice	1211	896	0.7825
+2	1379 m^2	1.0228	Games and Playable Media	rat	0.9097	901	0.7107	-19	Michael	1052	505	0.6155
+2	1224 m^2	0.6996	Games and Playable Media	rat	0.8279	922	0.9619	57	Michael	1052	373	0.513
+7	929 m^2	0.7443	Data Science	guinea pig	0.9271	1140	0.897	1079	Chris	899	181	1.213
+6	537 m^2	1.1709	Computational Media	pig	0.6353	955	0.7956	1012	Eriq	438	718	0.9506
+2	922 m^2	0.9009	Games and Playable Media	chicken	0.9584	1005	1.0359	300	Michael	972	564	0.5202
+8	1010 m^2	1.019	Computer Science	dog	1.119	1366	0.9255	913	Fabrice	857	976	1.0822
+4	n/a	0.8447	Robotics Engineering	bird	0.1517	708	0.7602	925	Vani	1071	912	0.963
+8	1129 m^2	1.2899	Computer Science	dog	1.0329	995	1.1452	886	Tony	976	1197	0.8657
+2	1193 m^2	1.0564	?	rat	0.988	856	1.1759	215	Michael	619	665	0.2402
+4	844 m^2	1.2208	Robotics Engineering	bird	0.3106	900	0.7385	985	Lise	964	842	0.69
+6	717 m^2	0.7283	N/A	pig	1.1391	1079	0.9146	1163	Eriq	1007	795	1.0738
+0	96 m^2	0.2795	Biotechnology	rabbit	0.5985	1110	0.3508	372	Reilly	438	1149	1.0767
+5	860 m^2	1.2979	Applied Mathematics	fish	0.6672	539	1.007	443	Fabrice	1352	1149	0.9896
+7	1148 m^2	1.09	dATA sCIENCE	cat	0.4164	970	0.91	1037	Chris	554	26	0.9757
+5	1261 m^2	0.7494	Bioengineering	fish	0.8077	299	0.928	1071	Fabrice	487	489	0.8827
+1	1194 m^2	0.7618	eLECTRICAL eNGINEERING	reptile	0.9142	994	1.1104	1373	Vani	1230	773	0.8369
+8	1026 m^2	0.7033	Computer Science	dog	1.0955	1111	1.0159	698	Sam	720	1172	1.2106
+8	1165 m^2	0.8614	Computer Science	dog	1.0514	1122	0.9579	883	Tony	1133	1010	0.9321
+2	934 m^2	0.7191	Games and Playable Media	rat	1.1883	1006	0.9594	365	Michael	1297	98	0.269
+6	501 m^2	1.3313	Computational Media	pig	1.107	998	1.0913	1159	Fabrice	788	1060	0.8158
+6	458 m^2	0.9738	Computational Media	pig	0.8094	657	0.8136	1233	Eriq	741	743	0.8669
+5	974 m^2	1.0711	Applied Mathematics	FISH	1.0805	268	1.1088	757	Fabrice	1017	766	0.8739
+1	1279 m^2	0.9525	Electrical Engineering	reptile	1.0992	756	0.9757	1293	Vani	1125	916	1.0245
+8	724 m^2	1.3926	Computer Science	dog	1.065	1032	1.0217	986	Tony	790	n/a	1.0902
+0	-105 m^2	0.1439	Computer Engineering	rabbit	0.8167	1061	0.5363	433	Reilly	600	1257	1.0459
+1	805 m^2	0.9932	Electrical Engineering	reptile	0.9452	1157	1.1383	938	Vani	494	1117	0.6289
+5	1102 m^2	0.6479	Applied Mathematics	guinea pig	0.6339	410	1.1082	699	Fabrice	960	901	1.2176
+1	1247 m^2	1.2301	Electrical Engineering	HAMSTER	0.7278	742	NULL	711	Vani	844	935	1.0003
+1	1097 m^2	1.3147	Electrical Engineering	reptile	1.1486	898	0.9915	1087	Vani	1061	1137	0.9044
+1	844 m^2	1.1226	Electrical Engineering	reptile	1.1238	1107	0.8787	915	Tony	1100	983	1.057
+6	754 m^2	0.8911	Computational Media	pig	0.7798	868	0.7552	1353	Eriq	759	909	0.9785
+1	1083 m^2	0.9431	Electrical Engineering	reptile	1.0655	959	0.6307	884	Vani	837	1044	1.0499
+8	885 m^2	0.8517	Computer Science	dog	0.7663	994	0.7125	1105	Tony	1308	970	0.9887
+6	695 m^2	0.8062	Computational Media	pig	0.8699	1114	1.1751	987	Vani	870	740	1.3463
+2	1045 m^2	0.8863	Games and Playable Media	rat	0.9699	896	0.7769	371	Eriq	905	536	0.4741
+7	1296 m^2	0.9782	Data Science	pig	0.6692	1069	0.888	950	Chris	1447	-39	1.2184
+7	1076 m^2	0.7977	Data Science	cat	0.6243	953	1.0245	744	Chris	1260	184	0.9857
+2	1005 m^2	1.2483	Games and Playable Media	rat	1.1054	1136	1.2422	284	Michael	1225	378	0.3552
+4	1330 m^2	0.5083	Bioinformatics	bird	0.3423	718	0.813	1050	Lise	952	726	0.9329
+4	1221 m^2	0.4754	Bioinformatics	rat	0.4995	821	1.0582	804	Lise	970	964	0.5564
+6	478 m^2	0.9549	Computer Engineering	pig	0.9637	892	1.131	946	Eriq	623	974	1.0145
+0	394 m^2	0.0071	Biotechnology	rabbit	0.6102	1090	0.4873	361	Reilly	-304	957	0.9814
+5	715 m^2	1.111	Bioengineering	fish	0.6538	572	1.0157	651	Fabrice	894	896	0.7488
+6	732 m^2	1.2454	Computational Media	pig	1.2222	875	1.2066	1207	Eriq	924	1004	0.7997
+1	987 m^2	0.9624	Electrical Engineering	reptile	0.8294	971	0.9472	858	Vani	518	725	1.0058
+5	881 m^2	0.8103	aPPLIED mATHEMATICS	fish	0.6666	353	1.0211	527	Fabrice	868	1132	0.9826
+8	962 m^2	0.6651	cOMPUTER sCIENCE	dog	1.3013	1118	1.2204	1117	Chris	770	957	1.2463
+7	959 m^2	0.9488	Data Science	cat	0.5664	878	0.7628	1038	Chris	930	206	0.8652
+8	1141 m^2	1.1643	Computer Science	dog	1.2295	980	1.4164	924	Sam	1024	996	1.034
+5	1105 m^2	1.117	aPPLIED mATHEMATICS	fish	0.7237	509		558	Fabrice	1318	807	0.8866
+4	1079 m^2	0.8294	Robotics Engineering	dog	0.3792	817	0.8952	1052	Inan	1052	802	0.9295
+0	348 m^2	-0.1599	Natural Language Processing	rabbit	1.0974	972	0.453	516	Reilly	516	852	0.72
+3	1324 m^2	0.2475	Human Computer Interaction	guinea pig	1.0013	991	0.9855	802	None	1159	876	1.0954
+3	1049 m^2	0.6002	Statistics	hamster	1.1652	969	0.9744	1295	Andrew	507	797	0.5279
+5	1085 m^2	0.145	Applied Mathematics	fish	0.5988	521	1.3605	851	Fabrice	1261	1062	0.989
+5	754 m^2	1.2345	Applied Mathematics	fish	0.6292	407	0.8812	584	Fabrice	1117	N/A	1.331
+4	849 m^2	0.9647	Bioinformatics	bird	0.4477	749	0.6324	1278	Inan	1003	659	0.8391
+4	956 m^2	1.1794	Bioinformatics	bird	0.6116	641	1.0834	1088	Lise	942	571	0.7899
+2	1435 m^2	0.7105	Games and Playable Media	chicken	0.8436	1036	0.7445	-270	Michael	884	222	0.2678
+7	974 m^2	0.8674	Data Science	cat	0.5662	850	1.2686	1027	Eriq	920	78	0.9521
+5	?	0.8292	Applied Mathematics	Fish	0.3876	448	0.8343	561	Fabrice	1513	982	1.2266
+2	1453 m^2	0.8059	Games and Playable Media	guinea pig	0.9663	1114	1.0288	160	Michael	1038	274	0.3082
+5	1251 m^2	0.7771	Bioengineering	fish	0.7227	554	0.85	636	Fabrice	1264	930	0.915
+2	1218 m^2	0.9312	Games and Playable Media	rabbit	0.8988	831	0.9291	343	Chris	1069	313	0.3177
+2	1079 m^2	1.0416	Games And Playable Media	chicken	0.9709	989	0.8228	219	Michael	749	425	0.0951
+8	1138 m^2	1.0104	Computer Science	dog	0.9954	936	1.0111	760	Tony	548	1024	0.7213
+6	744 m^2	?	Computational Media	pig	0.9169	1080	1.1991	889	Eriq	1210	909	1.1055
+8	881 m^2	0.9363	Computer Science	dog	0.9062	999	0.711	1108	Sam	1167	1289	1.0044
+5	1347 m^2	0.7598	Bioengineering	fish	0.2788	520	0.7561	457	Fabrice	818	675	0.9645
+6	919 m^2	0.9116	Computational Media	pig	1.1651	962	1.3611	833	Eriq	1015	1133	1.0404
+6	793 m^2	0.9158	Technology and Information Management	ferret	0.9811	1058	1.221	991	Lise	940	975	1.3615
+6	470 m^2	1.2968	Computational Media	pig	0.7734	668	1.4049	996	Eriq	736	1032	1.1932
+0	174 m^2	-0.0247	Computer Engineering	rabbit	0.3908	1209	0.4688	268	Michael	535	894	1.2297
+8	913 m^2	0.9374	Computer Science	dog	0.9773	798	0.8916	911	Tony	1006	956	0.8433
+5	1043 m^2	0.7337	Computer Science	bird	0.4732	295	0.9066	773	Andrew	1132	650	0.8406
+8	960 m^2	0.6521	Computer Science	dog	0.9652	926	0.8608	1016	sAM	1055	1067	0.9915
+1	967 m^2	0.8716	Data Science	rabbit	0.8331	901	0.9249	989	Vani	1183	967	1.0605
+2	979 m^2	0.9608	Games and Playable Media	pig	0.6863	873	1.0768	23	Michael	730	416	0.3542
+8	1124 m^2	0.6693	Computer Science	dog	1.0356	917	1.2487	918	Tony	960	848	1.131
+3	815 m^2	0.2781	Statistics	ferret	1.053	960	1.0289	989	Andrew	568	1007	1.1121
+3	965 m^2	0.279	Computer Game Design	ferret	0.5706	1316	0.9198	1012	Andrew	988	1123	1.1839
+5	877 m^2	0.6369	Bioengineering	reptile	0.4635	423	1.0912	995	n/a	1370	727	1.0919
+5	853 m^2	1.1258	Applied Mathematics	fish	0.5392	371	0.8127	822	Fabrice	780	1037	1.1032
+6	415 m^2	1.0618	Computational Media	pig	1.0068	None	0.9743	1167	Eriq	773	922	0.8314
+0	296 m^2	-0.2624	Computer Engineering	rabbit	0.6921	777	0.4496	489	Reilly	339	1053	0.8477
+4	1206 m^2	1.065	Bioinformatics	bird	0.1622	1049	1.2014	895	Inan	981	791	0.8144
+8	1110 m^2	0.9593	Computer Science	dog	0.8682	1118	0.9714	1131	Tony	1124	1094	0.9713
+1	951 m^2	1.0395	Electrical Engineering	REPTILE	0.9175	896	1.1187	888	Vani	769	1074	1.3024
+8	959 m^2	0.996	Computer Science	dog	1.4666	934	0.998	1080	Tony	1350	805	1.1046
+0	-77 m^2	-0.059	Biotechnology	rabbit	0.8073	1004	0.518	71	Reilly	1004	899	1.3319
+2	1128 m^2	1.0285	Games and Playable Media	fish	1.1556	752	1.2656	109		724	363	0.2028
+4	788 m^2	1.0126	Bioinformatics	guinea pig	0.3299	704	1.125	1060	Inan	1061	788	0.9728
+2	1017 m^2	1.0739	Games and Playable Media	rat	0.8396	882	1.3231	287	Reilly	747	359	0.5286
+2	1376 m^2	1.1721	Games and Playable Media	pig	1.0751	995	0.9249	170	MICHAEL	1020	607	0.3778
+1	1313 m^2	0.6712	Electrical Engineering	reptile	0.5159	773	1.2654	1178	Vani	759	982	1.2291
+2	1046 m^2	1.0585	Applied Mathematics	rat	1.0286	1177	0.9968	297	Lise	1045	520	0.4991
+3	1026 m^2	0.5792	Statistics	?	0.8733	976	0.9507	717	Andrew	858	1206	1.0687
+4	1152 m^2	1.1769	Bioinformatics	bird	0.162	922	1.2675	1047	Inan	990	743	0.7904
+5	1116 m^2	0.9227	Bioengineering	fish	0.7383	?	1.1058	?	fABRICE	1193	802	1.0743
+3	1088 m^2	0.3534	Human Computer Interaction	dog	0.5521	932	0.6747	1205	Andrew	1141	898	1.136
+1	1460 m^2	0.7445	Electrical Engineering	reptile	1.1991	1028	0.7379	787	Vani	715	893	0.7074
+4	1016 m^2	0.8466	Robotics Engineering	guinea pig	0.3598	934	0.4663	1088	INAN	986	677	0.7781
+6	765 m^2	1.0059	Computational Media	pig	1.0233	1066	0.9256	840	Eriq	906	1019	0.9445
+4	1198 m^2	1.0896	bIOINFORMATICS	guinea pig	0.2028	795	0.9156	895	Inan	1029	764	0.7234
+7	763 m^2	0.7783	Data Science	cat	0.4798	887	0.8808	889	Chris	624	375	1.3032
+6	589 m^2	1.0279	Technology and Information Management	pig	1.2913	714	1.2614	868	Eriq	752	1054	1.0034
+0	218 m^2	-0.144	Natural Language Processing	chicken	0.574	1286	0.4107	227	Reilly	360	1072	0.808
+0	313 m^2	0.0883	Computer Engineering	rabbit	0.4802	1070	0.262	433	Reilly	530	1018	1.038
+6	616 m^2	1.0235	Technology and Information Management	pig	0.9911	760	0.7311	1038	Eriq	1082	912	0.8418
+6	896 m^2	1.5471	Technology and Information Management	hamster	1.2057	1329	0.9569	1144	Eriq	1057	1041	0.7619
+7	965 m^2	0.6159	Data Science	cat	0.7364	1220	1.5242	774	Chris	915	146	1.0681
+4	1044 m^2	0.9004	Robotics Engineering	guinea pig	0.3469	797	0.3408	818	Lise	716	450	0.7066
+6	884 m^2	1.1275	Computational Media	pig	1.1674	1102	0.9944	805	Eriq	1312	768	0.9617
+0	252 m^2	-0.1073	Natural Language Processing	rabbit	0.6083	1048	0.6328	731	Reilly	260	838	0.901
+3	1033 m^2	0.4013	Statistics	hamster	0.8766	1150	0.586	820	Tony	1074	1024	0.7539
+0	250 m^2	-0.1996	Natural Language Processing	fish	0.9246	902	0.3009	472	Reilly	180	1079	1.0523
+0	153 m^2	0.0292	Computer Science	rabbit	0.6339	1011	0.3128	363	Reilly	531	948	0.8582
+2	1032 m^2	0.5559	Games and Playable Media	rat	0.7054	975	0.8772	203	Michael	1212	214	0.3531
+6	579 m^2	0.9931	Computational Media	pig	1.1081	1046	0.9582	993	ERIQ	850	942	0.6684
+0	438 m^2	0.2956	Natural Language Processing	rabbit	0.8142	1134	0.1085	449	Reilly	456	1027	0.8842
+3	842 m^2	0.6396	Statistics	ferret	0.9337	1135	0.9154	1039	Andrew	1293	881	0.9643
+8	817 m^2	0.7896	Computer Science	dog	0.9271	1100	1.073	1105	Tony	1130	1237	1.066
+2	958 m^2	1.1295	Games and Playable Media	rat	0.9595	1099	0.752	136	Michael	1105	354	0.3397
+4	666 m^2	1.0628	Bioinformatics	guinea pig	0.2084	804	1.0682	1062	Lise	1054	990	0.5214
+8	1483 m^2	1.1351	Computer Science	dog	1.1052	1256	1.0175	1259	Tony	1048	971	0.7491
+7	848 m^2	0.771	Data Science	fish	0.2679	1071	1.0979	794	Chris	739	421	0.6652
+8	1182 m^2	1.0669	Computer Science	dog	1.0074	1330	1.5095	868	Tony	941	813	1.0142
+5	530 m^2	?	Applied Mathematics	fish	0.7633	239	1.0571	845	Fabrice	1833	626	0.9645
+7	867 m^2	0.6033	Data Science	cat	0.4654	740	0.9506	841	Chris	938	187	0.8483
+5	1152 m^2	0.9809	Applied Mathematics	FISH	0.6498	450	1.3497	426	Fabrice	887	677	1.0661
+1	1324 m^2	1.2678	Electrical Engineering	reptile	1.3131	811	1.0755	1161	Vani	1224	1079	1.1526
+8	933 m^2	0.6523	Computer Science	dog	1.0566	1186	1.278	1040	Sam	1093	882	0.6029
+3	1120 m^2	0.4757	Statistics	hamster	0.975	970	0.9876	1057	Andrew	788	949	0.8516
+6	1025 m^2	0.7805	Computational Media	N/A	0.8497	944	0.941	869	Eriq	662	843	
+4	744 m^2	0.6865	Electrical Engineering	guinea pig	0.2958	826	0.7306	977	Inan	992	923	0.9102
+1	1146 m^2	0.7655	Electrical Engineering	reptile	0.9987	817	0.9484	1254	Vani	1371	1055	1.2297
+7	1180 m^2	0.5999	Data Science	pig	0.4547	973	0.9241	1026	Chris	1085	-146	0.9162
+4	873 m^2	1.3008	Robotics Engineering	bird	0.1502	901	0.7233	1041	Inan	809	725	0.8206
+5	986 m^2	1.4077	Applied Mathematics	fish	0.5838	513	0.9595	679	Fabrice	959	692	0.7016
+6	602 m^2	1.0504	Technology and Information Management	pig	0.6947	1002	1.0314	1236	Inan	560	872	0.977
+2	1199 m^2	1.0236	Games and Playable Media	rat	0.7322	922	0.8537	339	Michael	1007	566	0.1782
+2	781 m^2	0.7959	Games and Playable Media	chicken	0.7757	1033	0.8689	57	Inan	570	135	0.5233
+4	560 m^2	0.9516	Robotics Engineering	pig	0.3166	864	0.528	1072	Inan	1465	990	0.8642
+5	688 m^2	1.1579	Computer Science	fish	0.6292	226	1.146	875	Fabrice	575	614	0.939
+7	1015 m^2	0.7336	Data Science	cat	0.5786	999	0.6591	959	Chris	1437	239	0.8669
+4	928 m^2	0.9964	Robotics Engineering	guinea pig	0.643	842	1.2811	1046	Inan	1026	878	1.0722
+5	670 m^2	0.7122	Bioengineering	fish	0.6683	544	1.1344	1018	Fabrice	1224	735	1.1822
+5	1150 m^2	1.0477	Applied Mathematics	fish	0.6337	7	1.2097	873	Fabrice	754	1116	0.8343
+3	1063 m^2	0.3302	Human Computer Interaction	hamster	0.6462	885	1.2244	1255	Andrew	684	1148	0.9598
+2	776 m^2	0.9848	Games and Playable Media	rat	0.7161	1274	0.9776	235	Michael	850	206	0.5491
+5	813 m^2	1.1314	Bioengineering	fish	0.9229	178	0.9351	706	Fabrice	1010	833	0.711
+0	77 m^2	-0.2791	Natural Language Processing	rabbit	0.7277	655	0.2447	179	Tony	304	806	1.0544
+2	1084 m^2	0.7826	Games and Playable Media	chicken	1.0257	1025	0.5927	106	Eriq	590	274	0.1438
+2	1172 m^2	0.8207	Applied Mathematics	rat	0.8643	919	1.0037	251	mICHAEL	929	769	None
+0	-58 m^2	0.4056	Biotechnology	rabbit	0.656	865	0.7282	438	Reilly	467	799	1.0209
+0	485 m^2	0.0987	cOMPUTER eNGINEERING	ferret	0.7119	1036	0.06	707	Reilly	260	872	0.8165
+1	922 m^2	0.9449	Statistics	reptile	1.1174	976	1.239	954	Vani	978	943	0.8346
+1	1031 m^2	1.0507	Electrical Engineering	Cat	0.7543	876	0.9957	959	Tony	1312	n/a	1.0961
+2	981 m^2	0.9749	Games and Playable Media	Cat	1.0937	1149	0.9366	190	Michael	1000	270	0.2989
+3	987 m^2	0.8007	Computer Game Design	Hamster	1.0463	1143	1.0072	1029	Andrew	950	1052	0.8315
+4	884 m^2	0.6068	Bioinformatics	bird	0.2964	706	0.9427	1168	Lise	1381	888	0.7927
+8	933 m^2	1.2865	Computer Science	dog	1.1465	1031	0.887	899	Tony	1145	974	0.9087
+8	982 m^2	1.1145	Computer Science	dog	1.0493	977	1.0676	1065	Sam	1184	1050	0.7408
+1	801 m^2	0.7406	eLECTRICAL eNGINEERING	ferret	1.2767	836	0.9444	1172	Vani	657	1118	0.8099
+4	650 m^2	0.813	rOBOTICS eNGINEERING	guinea pig	0.326	909	0.9418	800	Andrew	1196	764	0.798
+5	901 m^2	1.1645	Bioengineering	fish	0.6108	305	0.9002	760	Sam	879	907	0.8592
+0	231 m^2	0.3832	Natural Language Processing	rabbit	0.6948	913	0.3247	352	Reilly	718	731	0.8211
+0	110 m^2	0.3207	Natural Language Processing	rabbit	1.0783	1109	0.305	622	Reilly	-49	856	1.0396
+5	1088 m^2	0.6911	Applied Mathematics	fish	0.6344	59	1.2025	549	Fabrice	888	517	0.9269
+0	394 m^2	-0.1344	Biotechnology	rabbit	0.5447	1086	0.3983	265	Reilly	425	1118	1.0387
+6	815 m^2	0.9751	Computational Media	pig	1.1034	821	1.1498	1176	Eriq	667	822	0.6378
+6	765 m^2	0.9938	Computational Media	rabbit	0.9114	852	1.0343	1042	Eriq	482	907	1.0251
+2	1118 m^2	0.5233	Games and Playable Media	rat	0.8501	1066	1.0862	205	Michael	795	426	0.4584
+8	910 m^2	1.0604	Computer Science	pig	0.7484	1158	1.277	n/a	Tony	954	1256	0.6831
+8	1118 m^2	1.0141	Computer Science	dog	0.5666	773	1.1506	1009	Sam	946	980	1.0057
+4	827 m^2	1.0691	Robotics Engineering	bird	0.2512	723	0.7902	1190	Inan	934	669	1.3327
+7	909 m^2	0.8634	Data Science	Cat	0.5676	822	1.0694	712	Chris	950	124	0.8453
+5	1199 m^2	1.1971	Bioengineering	fish	0.4994	251	0.8474	773	Fabrice	841	818	0.9627
+0	167 m^2	-0.0715	Computer Engineering	rabbit	0.462	892	0.3615	551	Fabrice	147	1214	0.9703
+0	-93 m^2	0.1035	Biotechnology	rabbit	0.8365	1006	0.3411	370	Reilly	474	981	0.5935
+3	1365 m^2	0.2234	Human Computer Interaction	ferret	0.6406	968	0.7748	950	Andrew	1014	1018	1.0643
+8	850 m^2	1.0095	Computer Science	dog	0.8906	1159	0.9223	899	Sam	854	1152	1.0199
+7	861 m^2	0.5998	Data Science	cat	0.7305	874	1.0021	1227	Chris	1048	-3	1.1718
+7	965 m^2	0.5948	data science	cat	0.4887	1215	1.0482	902	Chris	870	64	1.2249
+5	1226 m^2	1.4181	Bioengineering	fish	0.2946	303	0.9236	724	Fabrice	922	767	0.7395
+0	450 m^2	0.2856	Biotechnology	rabbit	NULL	856	0.497	332	Reilly	469	892	0.8669
+7	1156 m^2	0.8356	Data Science	cat	0.7513	964	0.7772	1057	Chris	869	-382	0.955
+4	1150 m^2	1.0412	Robotics Engineering	guinea pig	0.2294	669	0.5569	889	Lise	1347	811	0.9913
+0	278 m^2	0.1948	Computer Engineering	rabbit	0.7592	1117	0.5741	388	Reilly	336	960	0.918
+6	653 m^2	0.933	Technology and Information Management	pig	0.922	872	1.3505	1011	Eriq	713	1058	1.2987
+2	953 m^2	0.7276	Games and Playable Media	rat	None	1051	1.0021	450	Michael	1333	600	0.1496
+1	1155 m^2	1.0602	Electrical Engineering	reptile	1.0589	1019	0.8867	1049	Vani	774	1170	0.9089
+2	946 m^2	0.7949	Games and Playable Media	rat	0.8812	641	0.9479	390	Michael	1139	245	0.113
+5	1161 m^2	0.7725	Applied Mathematics	fish	0.4021	269	1.1488	772	Fabrice	805	946	1.2171
+4	1174 m^2	0.9685	Bioinformatics	guinea pig	0.4336	1012	0.8433	959	Lise	823	997	0.6312
+6	256 m^2	0.8682	COMPUTATIONAL MEDIA	pig	1.0107	1039	0.9178	1222	Reilly	807	516	1.1272
+3	1397 m^2	0.5559	Human Computer Interaction	hamster	0.9581	936	0.9595	1016	Andrew	932	913	1.0656
+6	439 m^2	0.9693	Computational Media	Pig	0.8625	827	1.3252	972	Eriq	1065	915	1.0133
+2	900 m^2	1.0003	Games and Playable Media	chicken	1.0018	756	0.8236	118	Michael	1081	328	0.4598
+7	973 m^2	0.5142	Data Science	cat	0.4013	1088	0.9853	1201	Chris	1078	52	1.0092
+1	1056 m^2	0.6894	Electrical Engineering	reptile	0.78	761	0.8244	1158	Eriq	1082	832	0.9575
+8	887 m^2	1.0727	Computer Science	dog	0.8305	978	1.0426	1192	Tony	1077	1069	1.0007
+1	829 m^2	1.0031	Biotechnology	reptile	1.0702	1048	1.3421	1171	Vani	1005	738	0.9523
+1	936 m^2	1.1463	Electrical Engineering	reptile	1.1314	667	0.9222	1006	Vani	1000	932	0.842
+2	1126 m^2	0.9397	Games and Playable Media	rat	0.8431	1058	0.8639	312	Michael	1024	463	0.3805
+1	736 m^2	1.4458	Electrical Engineering	REPTILE	1.0001	1290	0.6506	1102	Vani	978	969	1.0619
+4	1050 m^2	0.9434	Robotics Engineering	guinea pig	0.0434	751	0.6703	1473	Inan	888	838	0.8752
+7	1054 m^2	0.6648	Data Science	cat	0.4938	1155	1.0109	1085	Chris	648	324	1.2532
+2	1211 m^2	0.6637	Games and Playable Media	chicken	1.2411	1015	1.0195	-122	MICHAEL	510	326	0.3992
+2	1354 m^2	1.0682	Games and Playable Media	rat	0.8551	694	1.0095	282	Andrew	1163	434	0.5938
+6	880 m^2	0.9319	Computational Media	pig	0.9767	1224	1.0802	1158	Eriq	892	494	1.284
+5	792 m^2	0.5823	Applied Mathematics	fish	0.4833	354	0.8296	264	Fabrice	929	1096	0.9333
+1	933 m^2	1.0028	Electrical Engineering	reptile	0.789	960	1.0066	773	Vani	1082	1104	0.9408
+8	1263 m^2	0.6314	Computer Science	dog	0.979	1001	0.9895	1098	Sam	930	1029	1.1841
+2	1059 m^2	1.152	gAMES AND pLAYABLE mEDIA	chicken	1.0856	1064	0.8265	55	Michael	822	307	0.3023
+2	1023 m^2	0.9162	Games and Playable Media	chicken	0.9739	1214	0.9572	109	Tony	658	643	0.5067
+2	953 m^2	0.6531	Games and Playable Media	rat	1.2951	824	0.9837	129	Michael	1006	391	0.405
+1	734 m^2	0.8343	Electrical Engineering	rabbit	1.0323	1044	0.8513	1134	Vani	925	1176	1.1112
+4	1100 m^2	0.7872	Robotics Engineering	bird	0.0692	556	NULL	796	Lise	1496	876	0.9005
+8	1001 m^2	0.8402	Computer Science	dog	0.8223	811	0.9094	1017	Tony	807	1555	0.5939
+6	587 m^2	0.8386	Technology and Information Management	PIG	1.1303	966	1.0034	1071	Eriq	1009	1165	0.9451
+2	770 m^2	0.88	Games and Playable Media	chicken	1.3861	930	0.9029	?	Michael	1119	447	0.2358
+0	261 m^2	0.089	Computer Engineering	rabbit	0.8807	1043	0.4287	544	Reilly	248	None	1.0629
+8	1036 m^2	1.0179	Computer Science	hamster	1.1423	908	0.9543	1010	Sam	1400	877	1.0706
+3	889 m^2	0.3077	Computer Game Design	ferret	0.8651	1166	0.8386	1034	Andrew	1179	901	0.9574
+5	923 m^2	1.1364	Applied Mathematics	fish	0.4879	427	0.9067	1077	Fabrice	1315	675	0.9554
+4	737 m^2	0.5716	Bioinformatics	reptile	?	918	1.093	1152	Inan	910	669	1.0616
+6	640 m^2	None	Computational Media	pig	0.6391	937	0.6094	903	ERIQ	966	1101	1.004
+1	n/a	1.0774	Electrical Engineering	reptile	0.9876	947	1.1575	913	Vani	1181	1629	1.159
+8	1188 m^2	1.2492	Computer Science	dog	1.2062	1263	1.1644	815	Tony	1251	1158	1.0735
+8	1112 m^2	1.0091	Computer Science	dog	0.9767	922	1.1929	1457	Inan	676	882	0.7636
+3	1328 m^2	0.1324	Bioinformatics	ferret	1.1058	1222	1.1096	785	Andrew	783	809	0.9616
+1	799 m^2	0.9971	Electrical Engineering	reptile	1.0159	634	1.12	1043	Vani	1060	997	0.6999
+5	792 m^2	1.2242	Applied Mathematics	fish	0.4238	522	1.6118	1163	fabrice	659	577	0.9074
+8	965 m^2	0.8728	Computer Science	dog	0.9834	1132	0.5431	1161	Tony	1275	1213	1.1679
+5	917 m^2	1.2266	Bioengineering	fish	0.8166	629	0.9604	555	Fabrice	1027	885	0.827
+3	1289 m^2	0.1707	Computer Game Design	ferret	1.0053	879	0.6478	1335	Andrew	898	1019	0.9132
+3	966 m^2	0.6221	Computer Game Design	hamster	0.7015	1514	1.1765	1153	Andrew	728	1204	1.0332
+7	1071 m^2	0.7802	Data Science	cat	0.5288	924	1.0687	955	Chris	690	59	1.0532
+6	578 m^2	1.5837	Computational Media	pig	1.0689	770	1.2534	950	Eriq	640	1049	1.1096
+5	1070 m^2	0.9535	Bioengineering	fish	n/a	489	0.9411	482	Fabrice	1302	919	0.8867
+1	1104 m^2	1.2555	Electrical Engineering	reptile	1.1992	820	1.1074	1042	Eriq	768	816	0.752
+2	1088 m^2	1.1873	Games and Playable Media	rat	1.0005	1128	1.0943	105	Vani	1029	294	0.2911
+7	990 m^2	0.8859	Data Science	cat	0.658	1010	0.6568	917	Chris	1357	-66	1.1013
+8	1236 m^2	0.7815	Computer Science	dog	0.9363	865	1.0611	1220	INAN	863	948	0.9188
+7	973 m^2	0.945	Data Science	cat	0.472	824	0.6404	921	Chris	929	-129	1.0445
+4	1080 m^2	1.036	Robotics Engineering	bird	0.1285	810	0.8507	815	Lise	681	1134	1.0607
+0	243 m^2	-0.1213	Biotechnology	rabbit	0.5349	1352	0.2398	237	Reilly	182	1088	1.0347
+8	811 m^2	1.2765	Computer Science	DOG	1.0258	866	1.0828	856	Tony	1109	961	0.9452
+0	311 m^2	0.0546	Natural Language Processing	rabbit	0.6399	998	-0.0094	545	Reilly	97	1316	0.8968
+5	1407 m^2	1.2511	Bioengineering	fish	0.7442	248	1.2204	697	Fabrice	853	819	0.9904
+8	968 m^2	1.2789	Computer Science	dog	1.1171	854	0.9688	846	Tony	1178	1079	0.9853
+7	1047 m^2	0.954	Data Science	cat	0.6853	721	0.9073	1103	Reilly	863	5	0.9953
+3	956 m^2	0.6267	Human Computer Interaction	ferret	0.403	1024	0.6672	972	Andrew	856	903	0.9818
+5	1001 m^2	0.9593	Applied Mathematics	fish	0.5077	33	1.3109	653	Fabrice	1100	713	0.8864
+8	989 m^2	0.4561	Computer Science	pig	0.9873	886	1.1662	1171	Tony	608	1095	1.0891
+6	392 m^2	0.8966	Computational Media	pig	1.066	925	1.0663	1088	Eriq	1097	840	1.3193
+8	947 m^2	0.8353	Computer Science	dog	None	961	0.7798	1021	Tony	1003	1160	0.9801
+7	1109 m^2	0.7156	NULL	cat	0.6953	1058	1.1118	776	Chris	1324	-77	0.9585
+4	1174 m^2	0.9857	Bioinformatics	bird	0.0994	980	0.7863	1145	Vani	1140	874	0.5765
+0	324 m^2	0.1725	Biotechnology	RABBIT	0.828	556	0.463	369	Michael	488	1034	1.03
+5	785 m^2	0.8574	Bioengineering	fish	0.5383	337	0.998	772	Fabrice	867	1010	0.7021
+8	843 m^2	0.577	NULL	dog	0.773	992	0.965	1375	Sam	902	953	0.9364
+4	1021 m^2	0.9965	Computer Science	bird	0.5852	1112	0.7925	797	Inan	1199	789	0.748
+0	n/a	-0.3151	Natural Language Processing	fish	0.6706	1037	0.1408	331	Reilly	432	1083	0.8454
+0	448 m^2	0.027	Biotechnology	rabbit	0.5424	1001	0.4276	641	Reilly	621	1050	0.864
+5	923 m^2	1.1191	Bioengineering	rat	0.5049	445	0.9981	739	NULL	964	934	0.739
+4	841 m^2	1.1594	Robotics Engineering	bird	0.2412	900	1.1952	861	Lise	1119	965	0.8959
+7	876 m^2	0.8117	Data Science	cat	0.4249	1075	0.8275	1030	Chris	1156	369	1.1575
+4	1005 m^2	0.9457	Robotics Engineering	guinea pig	-0.0291	945	0.9825	1172	Lise	1071	729	None
+5	822 m^2	1.0838	Applied Mathematics	fish	0.2348	330	0.5861	819	Fabrice	1072	946	0.7584
+2	1145 m^2	0.7149	Games and Playable Media	chicken	1.0712	819	0.747	329	Michael	902	288	0.3956
+0	307 m^2	0.1464	Biotechnology	fish	0.8425	801	0.5331	391	Chris	196	703	0.905
+7	852 m^2	0.9715	Data Science	cat	0.5457	930	1.3232	1222	Chris	968	97	0.9132
+3	690 m^2	-0.0688	Statistics	hamster	1.0236	953	1.1242	874	Andrew	1037	566	1.0239
+4	994 m^2	1.0624	Bioinformatics	bird	0.2508	631	0.786	1018	Lise	992	554	1.1224
+0	264 m^2	-0.0057	Natural Language Processing	rabbit	0.8884	1039	0.4391	355	Reilly	817	836	1.0751
+0	29 m^2	-0.1519	Natural Language Processing	rabbit	0.8352	1108	0.5734	511	Reilly	446	1019	0.8227
+4	882 m^2	0.3263	Robotics Engineering	bird	0.0833	794	0.7776	823	Michael	1144	723	0.9938
+3	994 m^2	0.2581	Human Computer Interaction	hamster	0.8681	1094	1.1988	846	Andrew	878	1051	0.7987
+5	867 m^2	1.4352	Applied Mathematics	fish	0.5445	383	1.1643	783	Fabrice	1156	984	0.9147
+1	1031 m^2	0.6067	Electrical Engineering	reptile	0.8912	689	0.7149	503	Vani	1055	1412	0.7541
+3	961 m^2	0.3573	Statistics	hamster	1.3436	1170	1.203	1023	Andrew	1170	1124	0.7375
+5	1125 m^2	0.7496	Applied Mathematics	fish	0.5579	560	0.8596	525	Fabrice	923	956	0.8608
+8	867 m^2	0.5999	Computer Science	dog	0.9653	1225	1.0343	1045	Sam	836	1013	0.8473
+3	728 m^2	0.4167	Computer Game Design	hamster	0.7326	903	1.0035	914		876	1176	1.1581
+0	40 m^2	0.2101	Biotechnology	rabbit	0.6283	1032	0.5488	421	Reilly	159	1006	0.9536
+1	1086 m^2	1.0259	Electrical Engineering	reptile	0.8388	880	1.1575	893	Vani	1532	939	1.1154
+5	991 m^2	0.7985	Applied Mathematics	fish	0.8171	135	1.0257	490	Fabrice	717	683	0.7963
+8	1113 m^2	1.0533	Computer Science	dog	0.8393	801	1.0301	1289	Tony	921	1158	1.0896
+4	1148 m^2	1.3006	Bioinformatics	dog	0.2634	809	0.7755	901	Inan	977	764	0.5041
+6	621 m^2	0.9559	Computational Media	pig	1.1478	770	1.0476	928	Eriq	1115	965	1.1665
+0	148 m^2	-0.1367	Computer Engineering	rabbit	0.8815	1044	0.1451	866	Reilly	343	998	0.9233
+0	293 m^2	0.4316	Computer Engineering	rabbit	0.7123	1001	0.5651	428	Reilly	382	857	1.1713
+1	1057 m^2	0.747	Electrical Engineering	reptile	0.8548	801	1.2598	1392	Vani	1361	1059	1.011
+1	1012 m^2	1.1168	Electrical Engineering	reptile	0.7652	740	1.119	917	Vani	1044	1034	0.8309
+3	987 m^2	0.4602	Human Computer Interaction	hamster	0.8924	1050	1.037	876	Sam	949	1007	1.0418
+4	1093 m^2	1.1357	Robotics Engineering	guinea pig	0.2821	834	0.9695	1451	Vani	772	853	0.6478
+5	728 m^2	0.9874	Bioengineering	fish	0.5798	199	0.7835	945	Fabrice	1011	1009	1.3087
+6	842 m^2	0.7855	Robotics Engineering	pig	0.7863	776	0.8321	971	Eriq	675	776	0.9447
+5	1028 m^2	0.8023	Applied Mathematics	fish	0.1831	276	0.8822	656	Fabrice	920	688	1.126
+6	774 m^2	0.658	Technology and Information Management	pig	0.8344	963	0.7995	1100	Eriq	1112	937	1.0683
+8	1313 m^2	0.8512	Computer Science	dog	1.1717	926	0.988	938	Sam	1195	988	1.1955
+1	1362 m^2	0.9789	Electrical Engineering	reptile	1.3061	800	0.9913	981	Vani	1290	762	0.8924
+8	1142 m^2	0.9501	Computer Science	dog	0.7096	1105	1.0265	1234	Sam	1158	811	1.1846
+4	1086 m^2	1.1885	Bioinformatics	guinea pig	0.2363	773	1.2874	1165	Lise	992	692	0.9669
+2	1079 m^2	1.0784	Games and Playable Media	chicken	0.9372	1065	0.9929	357	Michael	952	190	0.5847
+5	801 m^2	0.9978	Bioengineering	fish	0.656	543	1.3634	518	Fabrice	850	998	1.1461
+2	983 m^2	0.9725	Games and Playable Media	chicken	1.1584	876	1.1197	127	Michael	1273	503	0.3042
+3	1327 m^2	0.2895	NULL	reptile	0.7397	1092	1.25	916	Andrew	1010	1008	1.1185
+3	1137 m^2	0.5262	Computer Game Design	hamster	0.9084	?	0.8509	1043	Andrew	917	1000	0.7172
+6	534 m^2	0.8558	Computational Media	pig	1.1459	995	1.3028	405	Eriq	914	831	1.3366
+7	789 m^2	0.9733	Data Science	Cat	0.5997	1006	0.7916	1356	Chris	1383	-4	0.9741
+8	786 m^2	1.1049	Computer Science	dog	0.954	913	0.962	1083	Sam	775	1045	0.8627
+3	1134 m^2	0.8809	Computer Game Design	hamster	0.5967	1162	0.8407	1310	Andrew	759	984	0.9361
+4	1162 m^2	1.0592	Robotics Engineering	bird	0.283	962	0.9107	1272	Lise	818	642	1.0
+3	1016 m^2	0.648	Statistics	hamster	1.0871	1133	0.8767	1166	Andrew	859	886	?
+3	1385 m^2	0.3671	Computer Game Design	ferret	0.7136	873	1.1932	1040	Andrew	759	900	1.0087
+8	1198 m^2	0.539	Computer Science	DOG	1.1635	981	1.1648	926	Vani	1009	1046	0.8885
+1	780 m^2	0.9164	Electrical Engineering	reptile	1.0819	990	1.3458	852	Vani	1097	1033	1.0696
+8	836 m^2	0.7063	Computer Science	dog	1.1394	1049	0.6896	832	Sam	1098	896	0.8327
+3	665 m^2	0.6438	Statistics	ferret	0.6749	941	1.0113	1106	Andrew	1351	1219	0.9414
+1	854 m^2	1.3569	Electrical Engineering	REPTILE	1.0257	788	1.11	911	Vani	1203	898	1.1801
+6	926 m^2	1.098	Technology And Information Management	pig	0.7705	846	1.0192	1085	Eriq	810	1166	1.0014
+7	941 m^2	1.0071	Data Science	cat	0.6207	1037	0.7486	1009	Lise	863	131	1.0587
+4	1220 m^2	1.1273	Robotics Engineering	bird	0.1207	956	N/A	1000	Inan	756	696	0.7034
+7	1109 m^2	0.6508	Data Science	cat	0.4361	947	1.2186	999	Chris	616	-80	1.0639
+8	1012 m^2	0.8955	Computer Science	dog	0.9304	1233	1.1233	1008	Sam	1301	1048	1.017
+0	409 m^2	0.1352	Biotechnology	rabbit	0.4839	986	0.5254	465	Reilly	872	1256	1.2191
+4	984 m^2	1.3293	Bioinformatics	guinea pig	0.2679	792	1.2269	923	Lise	888	565	0.9469
+6	842 m^2	0.8129	Technology and Information Management	pig	1.0223	895	0.983	1049	Eriq	936	807	1.1835
+7	1051 m^2	1.1642	DATA SCIENCE	cat	0.6446	1102	1.1534	1149	Chris	813	-71	1.0649
+1	1025 m^2	0.901	Electrical Engineering	reptile	0.7621	839	0.7528	1149	Vani	1224	962	0.9964
+0	-3 m^2	0.3334	Biotechnology	rabbit	0.7207	1098	0.2429	580	Reilly	383	1207	1.0478
+8	1269 m^2	0.6447	Computer Science	REPTILE	0.9935	934	0.7385	1164	Tony	1239	599	1.1478
+8	921 m^2	0.9366	Computer Science	dog	1.043	1007	1.1185	1109	Sam	1039	871	1.0487
+6	730 m^2	0.5847	Computer Science	pig	1.0179	1121	0.701	961	Chris	1052	982	1.048
+0	-6 m^2	0.2079	Computer Engineering	rabbit	0.7584	1067	0.2582	579	Reilly	885	1258	0.9754
+6	862 m^2	0.9233	Technology and Information Management	pig	0.9441	934	0.8333	1176	Eriq	950	1010	0.933
+1	1339 m^2	0.9042	Bioengineering	reptile	1.1467	917	1.0902	1091	Vani	1298	961	0.9773
+4	1169 m^2	1.2792	Bioinformatics	rabbit	0.3206	723	0.6706	1031	Lise	818	847	0.9327
+8	1232 m^2	0.6219	Computer Science	dog	1.2356	1089	0.6806	1175	Sam	1216	1250	1.0667
+6	611 m^2	0.5301	Computational Media	pig	0.8767	908	0.7426	1034	Eriq	994	906	0.8408
+1	1018 m^2	1.039	Electrical Engineering	reptile	0.9204	888	1.1474	885	Vani	904	1076	0.9664
+7	1235 m^2	0.481	Data Science	cat	0.8989	1092	0.8212	992	Chris	1052	31	0.9652
+1	1051 m^2	1.0848	Electrical Engineering	reptile	0.8344	865	1.1468	1033	Tony	887	759	0.9704
+5	1336 m^2	0.9017	Bioengineering	FISH	0.8372	428	1.2709	720	Fabrice	976	707	1.0345
+2	1244 m^2	0.9811	Games and Playable Media	rat	1.1388	945	0.9128	77	Michael	1309	482	0.2241
+7	1050 m^2	0.8126	Data Science	cat	0.3161	1056	0.9725	1136	Chris	823	144	1.1137
+5	883 m^2	0.9259	Applied Mathematics	fish	0.3684	341	1.0751	817	fABRICE	974	583	1.0131
+7	1065 m^2	0.8994	Data Science	CAT	0.7132	949	1.0674	1047	Chris	953	47	1.2046
+5	641 m^2	1.128	Applied Mathematics	fish	0.4756	498	0.793	695	Fabrice	1295	970	1.1044
+6	600 m^2	0.8739	Computational Media	pig	1.0417	750	1.1813	1199	Eriq	372	984	1.1097
+3	1164 m^2	0.6778	Electrical Engineering	ferret	0.6337	924	0.2681	1045	Andrew	1206	628	0.9373
+5	801 m^2	1.017	Applied Mathematics	fish	0.6839	509	0.5823	715	Fabrice	1181	685	0.8544
+0	-45 m^2	-0.1028	Natural Language Processing	rabbit	0.525	654	0.3475	563	Sam	447	919	0.9426
+1	1129 m^2	0.9794	Electrical Engineering	reptile	1.0995	1008	1.0645	922	Vani	1050	1044	1.1004
+2	844 m^2	1.1627	Games and Playable Media	chicken	1.0714	898	1.0999	227	Michael	1050	537	0.4652
+4	1077 m^2	0.8649	BIOINFORMATICS	bird	0.3542	984	0.7039	834	Inan	1086	967	0.8042
+7	730 m^2	0.7199	Data Science	cat	0.7377	1101	0.7577	1020	cHRIS	1475	-98	0.9152
+7	1130 m^2	0.689	data science	cat	0.4132	938	0.8883	1250	Chris	699	-6	1.0978
+2	1413 m^2	1.2395	Games and Playable Media	rat	0.883	1105	0.9837	162	Michael	831	501	0.4287
+8	1101 m^2	0.6081	Computer Science	dog	1.0734	1002	0.6551	1008	Sam	1014	864	1.3833
+4	1198 m^2	1.3304	Robotics Engineering	guinea pig	0.3643	772	0.7396	1017	Inan	872	981	0.8213
+6	892 m^2	0.8546	Technology and Information Management	pig	0.981	1027	0.7241	1002	Eriq	1081	1343	0.8863
+8	1222 m^2	1.2052	Computer Science	dog	0.9538	1111	N/A	1194	Sam	971	944	1.0526
+1	1115 m^2	1.0011	Games and Playable Media	reptile	1.0471	887	0.8859	991	Vani	1122	1458	1.0214
+7	1202 m^2	1.153	Data Science	CAT	0.425	902	0.5543	919	Reilly	1505	-88	0.895
+3	977 m^2	0.408	Statistics	ferret	0.6392	847	0.6066	994	Andrew	758	910	0.5787
+0	440 m^2	-0.2115	Natural Language Processing	rabbit	0.7696	772	0.0387	540	Reilly	708	928	1.2817
+6	534 m^2	0.997	Computational Media	pig	1.1189	1215	1.1112	1027	Eriq	747	974	1.028
+2	989 m^2	0.5267	Games and Playable Media	rat	1.1363	840	0.7458	211	Michael	941	253	0.371
+6	508 m^2	1.0383	Computational Media	pig	0.8673	1155	0.9885	849	ERIQ	647	1005	0.9159
+8	1027 m^2	0.8465	Computer Science	dog	0.778	879	0.9705	1093	Tony	1122	847	1.1834
+7	1055 m^2	0.9067	Data Science	cat	0.8681	1231	0.98	1100	Chris	849	124	0.8785
+0	85 m^2	0.2342	Biotechnology	fish	0.7533	1325	0.2523	637	Reilly	526	978	0.9892
+5	894 m^2	1.1178	Applied Mathematics	rabbit	0.3702	608	0.7625	1126	Fabrice	959	1002	1.0985
+5	1077 m^2	1.3187	Applied Mathematics	fish	0.6452	334	0.8517	595	cHRIS	913	934	0.7568
+6	805 m^2	1.0806	Technology and Information Management	pig	0.8936	999	0.948	1013	Eriq	789	905	0.8247
+7	1254 m^2	0.9558	Data Science	ferret	0.6772	1017	1.0087	1298	Chris	951	-100	1.0225
+0	326 m^2	0.0341	Computer Engineering	rabbit	0.8708	1154	0.3216	839	Reilly	224	1155	0.9254
+7	1052 m^2	1.117	data science	cat	0.4814	908	1.2564	1020	Chris	871	187	0.6935
+3	1025 m^2	0.6805	Human Computer Interaction	HAMSTER	0.7407	976	1.0131	1011	Andrew	934	822	1.0736
+7	1066 m^2	0.9672	dATA sCIENCE	cat	0.5691	851	0.9626	859	Chris	608	41	0.9682
+1	1252 m^2	1.0008	Electrical Engineering	reptile	0.9314	894	1.1128	1291	Andrew	1225	1092	1.0878
+8	1025 m^2	0.9654	Computer Science	dog	0.9845	1014	0.9773	960	Tony	726	1096	1.0512
+1	1204 m^2	1.1502	Electrical Engineering	reptile	0.7886	825	0.8613	1088	Vani	743	878	0.9621
+3	1117 m^2	0.5025	Statistics	hamster	1.0078	984	0.8891	830	Andrew	1004	1105	1.0896
+3	1293 m^2	0.0826	Computer Game Design	hamster	1.0272	1068	1.0997	1064	Reilly	799	925	0.9703
+5	1038 m^2	1.0894	Bioengineering	fish	0.7612	437	0.5941	820	Fabrice	1024	712	0.894
+1	1222 m^2	1.0517	Electrical Engineering	reptile	1.1121	822	0.6731	740	Vani	664	1099	0.9536
+5	1167 m^2	1.0019	Bioengineering	fish	0.6727	474	1.1157	795	Fabrice	1004	1037	0.9053
+0	211 m^2	0.2122	Natural Language Processing	rabbit	0.6782	1105	0.036	400	Reilly	208	1215	0.9408
+1	1132 m^2	1.063	Electrical Engineering	reptile	1.1314	850	0.9697	567	Vani	1172	1141	1.196
+1	800 m^2	1.1099	Electrical Engineering	reptile	0.8064	982	1.0165	1130	Vani	1068	1135	0.9747
+7	1030 m^2	0.8493	Data Science	cat	0.4797	973	1.1392	868	Eriq	1047	81	0.7082
+0	-128 m^2	0.1475	Biotechnology	rabbit	0.475	982	0.1156	452	Reilly	669	1116	0.9257
+7	1280 m^2	0.935	Data Science	cat	0.6975	806	1.0726	1202	Chris	1463	355	1.1959
+7	971 m^2	0.6705	Data Science	cat	0.428	1198	0.9763	935	Chris	1060	156	0.952
+0	-271 m^2	0.5252	Natural Language Processing	rabbit	0.5551	996	0.4328	396	Reilly	122	934	1.0755
+8	822 m^2	0.9137	Computer Science	Dog	0.7987	1213	1.2288	1014	Tony	887	N/A	0.8062
+5	890 m^2	1.2888	Applied Mathematics	fish	0.5884	472	1.3827	1043	Fabrice	1211	801	1.0425
+8	879 m^2	1.0691	Computer Science	dog	1.0414	1197	1.039	903	Chris	816	895	1.2884
+5	1163 m^2	0.817	Bioengineering	fish	0.483	230	1.0569	757	Fabrice	990	544	1.0665
+5	1043 m^2	0.6426	Applied Mathematics	pig	0.5734	183	0.5828	748	Fabrice	1289	973	1.1062
+5	927 m^2	1.1149	Applied Mathematics	fish	0.634	305	0.9264	663	Fabrice	639	1031	0.797
+8	1320 m^2	0.9888	Computer Science	dog	1.0043	687	0.8751	1139	Tony	906	1176	0.8253
+3	858 m^2	0.8863	Statistics	hamster	0.8548	922	1.2234	817	Andrew	1156	755	0.8904
+3	993 m^2	0.7979	Human Computer Interaction	hamster	0.7547	1105	1.0965	1036	Andrew	1194	881	0.981
+1	1047 m^2	1.0221	Electrical Engineering	reptile	?	1060	1.197	1043	Vani		950	0.8607
+0	516 m^2	-0.1403	Computer Engineering	PIG	0.5109	1170	0.4786	443	Reilly	683	1035	0.8641
+1	1358 m^2	1.3611	Electrical Engineering	reptile	0.9693	772	1.1314	1030	Vani	1058	841	0.8508
+4	1161 m^2	1.2333	Bioinformatics	guinea pig	0.2455	631	0.7096	1094	Chris	519	739	0.8918
+8	1147 m^2	0.8013	cOMPUTER sCIENCE	dog	1.4186	820	0.8316	1259	Chris	620	925	0.8085
+6	545 m^2	1.119	Technology and Information Management	pig	0.9516	949	0.8693	884	Eriq	825	974	0.8589
+6	732 m^2	0.9917	Computational Media	pig	0.7225	897	1.0811	1064	Eriq	1033	897	0.9071
+8	1027 m^2	1.1067	Computer Science	fish	0.9382	941	1.0698	959	Tony	984	1118	1.0596
+7	1524 m^2	0.6681	Data Science	cat	0.6474	1115	0.9918	1110	Vani	1509	-205	0.926
+1	1006 m^2	0.6487	Electrical Engineering	reptile	0.9785	1128	0.8823	896	Vani	967	781	0.8645
+6	521 m^2	0.7237	Computational Media	pig	1.0825	555	1.0666	1090	Eriq	1195	989	0.9454
+7	1018 m^2	1.1099	Data Science	CAT	0.5707	909	0.9722	858	Chris	1084	59	1.0962
+4	1153 m^2	0.7802	Robotics Engineering	Bird	0.3178	510	0.4924	1009	Inan	1007	804	1.0897
+2	1168 m^2	1.0854	Games and Playable Media	chicken	1.1858	792	0.8172	469	Michael	692	43	0.549
+0	282 m^2	0.2272	Biotechnology	rabbit	0.5218	1113	0.5451	545	rEILLY	655	1332	0.9958
+7	822 m^2	1.3326	Data Science	cat	0.9215	1051	0.8782	861	Chris	836	57	0.8273
+1	843 m^2	0.7017	Electrical Engineering	reptile	0.8825	967	0.9511	1031	Vani	813	1220	1.0224
+0	296 m^2	0.317	Computer Engineering	rabbit	0.7444	1027	0.3254	380	Reilly	468	1113	1.0398
+1	869 m^2	1.3705	Electrical Engineering	Reptile	0.6945	1040	1.0371	953	Vani	1186	747	1.234
+0	-58 m^2	0.3636	Computer Engineering	rabbit	0.7068	869	0.4228	364	Reilly	-2	959	1.1606
+5	681 m^2	1.1439	Applied Mathematics	Fish	0.399	310	1.0479	884	Eriq	950	896	0.9437
+8	n/a	1.1876	Computer Engineering	dog	1.1041	1016	1.018	1339	Tony	1185	880	1.0011
+4	1026 m^2	0.513	Bioinformatics	bird	0.1802	820	0.5987	n/a	Inan	741	522	0.9237
+8	1117 m^2	0.901	Computer Science	ferret	1.1549	1143	0.8946	1239	Tony	1085	None	0.9641
+1	988 m^2	1.1452	Electrical Engineering	reptile	1.0335	761	1.0264	1164	Vani	830	1037	0.7941
+2	1007 m^2	0.6513	Games and Playable Media	rat	1.059	565	0.7688	175	Michael	819	435	0.0422
+4	902 m^2	0.9145	Bioinformatics	bird	0.2404	865	0.9731	670	Inan	1316	810	0.5099
+8	957 m^2	1.0121	Computer Science	dog	1.1209	715	0.7864	1072	Tony	537	1186	1.1768
+2	1020 m^2	0.6295	Games and Playable Media	chicken	1.0009	884	1.1399	437	Michael	1347	444	0.3467
+6	NULL	1.3836	TECHNOLOGY AND INFORMATION MANAGEMENT	pig	0.8361	840	1.0076	860	Eriq	564	1108	1.1601
+0	511 m^2	-0.1921	Biotechnology	rabbit	0.9281	1276	0.5047	495	Reilly	918	1086	1.1125
+0	360 m^2	0.3141	Biotechnology	rabbit	0.4909	1139	0.8663	349	Reilly	632	740	0.9523
+1	814 m^2	1.2573	Electrical Engineering	reptile	0.9244	669	0.9266	891	Vani	826	845	1.3429
+7	1124 m^2	0.8042	Data Science	cat	0.8182	841	0.9199	795	?	680	200	1.1063
+6	404 m^2	0.9331	Technology and Information Management	cat	0.9991	956	0.9776	1206	Eriq	1159	734	1.0067
+5	1181 m^2	1.324	Bioengineering	fish	0.4429	107	0.9687	348	Fabrice	732	943	0.9397
+4	1152 m^2	1.0769	Robotics Engineering	guinea pig	-0.074	636	0.8424	988	Lise	1371	1007	0.6365
+8	1100 m^2	1.2811	Computer Science	dog	1.2449	1021	0.8938	1116	Eriq	920	1079	0.8597
+0	352 m^2	0.2325	Natural Language Processing	rabbit	0.6155	877	0.1045	486	Reilly	219	853	1.0556
+1	986 m^2	1.137	Electrical Engineering	reptile	1.0047	954	0.9503	1279	Fabrice	1157	961	
+3	959 m^2	0.2489	Human Computer Interaction	hamster	0.8191	974	1.2297	1089	Andrew	991	799	0.9605
+5	1083 m^2	1.1083	Applied Mathematics	fish	0.8189	604	0.9427	908	Reilly	1138	800	0.94
+8	900 m^2	1.123	Computer Science	dog	1.189	912	1.041	926	Tony	1020	869	1.0387
+2	766 m^2	1.0982	Games and Playable Media	rat	0.9421	1157	0.9756	-10	lISE	892	423	0.4244
+0	294 m^2	-0.0335	Biotechnology	RABBIT	0.8732	1072	0.0228	236	Reilly	-77	1030	1.2241
+5	651 m^2	1.1599	Applied Mathematics	fish	0.5031	261	1.0658	761	Fabrice	1110	804	1.1032
+2	1001 m^2	0.6296	Games and Playable Media	rat	0.8165	984	0.5774	-13	Michael	826	424	0.0251
+0	341 m^2	0.1678	Natural Language Processing	rabbit	0.8164	1117	0.733	513	Reilly	403	653	0.9207
+8	855 m^2	1.065	Computer Science	dog	0.7238	1090	0.897	1169	Tony	1315	790	1.1534
+8	782 m^2	0.9499	Computer Science	dog	1.2879	1331	1.2299	1165	Sam	1283	960	0.8743
+8	669 m^2	1.3034	Computer Science	dog	0.9789	1001	0.8272	1196	Tony	988	974	0.926
+8	1081 m^2	1.3209	Computer Science	None	0.7328	1037	1.2914	1156	tONY	1309	770	0.8391
+3	1092 m^2	0.4496	HUMAN COMPUTER INTERACTION	reptile	0.6652	1026	1.1387	939	Andrew	886	652	0.9781
+4	898 m^2	1.0305	Bioinformatics	bird	0.2898	919	0.9313	1257	Inan	1404	478	0.8348
+3	916 m^2	0.457	Computer Game Design	hamster	0.7992	1222	1.2671	1116	Andrew	1164	954	0.893
+6	707 m^2	0.9168	Computational Media	pig	1.2228	749	1.1098	1112	Eriq	703	878	1.0228
+7	831 m^2	0.8544	Data Science	cat	0.9001	1119	1.121	1130	Chris	1156	-103	0.9192
+4	1382 m^2	1.0996	Bioinformatics	guinea pig	0.1922	777	0.8736	1110	Lise	976	873	0.7725
+8	1388 m^2	0.9988	Computer Science	dog	1.178	1001	1.0236	1074	Andrew	1229	1018	1.1577
+6	272 m^2	0.8027	Technology and Information Management	dog	1.0476	950	1.1991	1149	Andrew	705	882	0.8029
+7	1079 m^2	0.9382	Data Science	cat	0.53	1212	1.4982	957	Chris	686	188	1.1545
+3	1033 m^2	0.5835	Computer Game Design	ferret	0.8092	1035	1.0424	1238	Andrew	1031	n/a	0.7056
+8	945 m^2	0.9566	Computer Science	dog	1.2154	966	0.935	1016	Tony	1006	1204	1.226
+1	1277 m^2	1.3344	Electrical Engineering	reptile	1.0897	1145	0.9221	1093	Vani	498	1161	0.9156
+8	745 m^2	0.84	Computer Science	dog	1.0393	NULL	1.3199	956	Michael	879	1221	0.8991
+6	861 m^2	0.3928	Computational Media	pig	1.0537	1007	0.839	843	Vani	788	1063	0.9967
+1	1191 m^2	0.9552	Electrical Engineering	reptile	0.8857	1023	1.1338	1074	Vani	981	1082	1.1585
+3	1000 m^2	0.6452	Computer Game Design	hamster	1.0709	973	1.108	1063	Andrew	909	1007	0.8728
+8	1191 m^2	1.0035	Computer Science	dog	0.7753	882	1.0723	1126	Tony	1032	1087	0.7052
+2	1013 m^2	0.8894	Technology and Information Management	rat	0.9633	1017	1.0447	56	Michael	1074	527	0.3259
+2	1018 m^2	0.9756	Games and Playable Media	chicken	0.7667	1029	0.9763	140	Inan	940	306	0.4158
+7	697 m^2	0.5095	Data Science	cat	0.4828	920	1.0138	1076	Vani	985	-70	0.8196
+0	-252 m^2	-0.0303	Biotechnology	rabbit	0.9312	1142	0.3907	716	Reilly	68	1040	0.9659
+3	1048 m^2	0.6243	Statistics	hamster	0.7379	843	1.0186	1216	Andrew	874	1008	0.8311
+2	809 m^2	0.9322	Games and Playable Media	rat	1.1099	947	0.9915	455	Michael	817	439	0.2605
+4	1095 m^2	N/A	Bioinformatics	guinea pig	0.2708	641	0.9753	896	n/a	1026	537	0.6198
+3	893 m^2	n/a	Human Computer Interaction	ferret	0.9112	1129	0.7411	917	Andrew	505	1092	1.0693
+1	1182 m^2	1.0846	Electrical Engineering	reptile	0.8314	933	0.8355	1140	Vani	936	1063	1.1424
+5	1048 m^2	1.0465	Bioengineering	FISH	0.7066	496	1.0007	780	Fabrice	1122	711	1.0102
+2	952 m^2	1.0097	Games and Playable Media	rat	0.8097	751	0.9666	275	Michael	1063	628	0.1263
+7	1342 m^2	0.9558	Data Science	cat	0.4574	1136	1.0958	1061	Chris	1239	-179	1.0377
+6	782 m^2	1.1338	Computational Media	pig	0.9212	1042	0.8663	1098	Eriq	905	1054	1.0013
+6	808 m^2	1.4879	Computational Media	pig	1.2955	1218	1.2226	1048	Eriq	913	800	0.8347
+5	808 m^2	1.4218	Bioengineering	fish	0.4255	293	1.0261	689	Fabrice	935	1034	1.1433
+0	91 m^2	0.0649	Computer Engineering	rabbit	0.5999	870	0.2728	643	Reilly	382	1019	0.9834
+3	953 m^2	0.6571	Computer Game Design	ferret	0.8249	990	0.8995	989	Andrew	1057	1022	1.0952
+3	1218 m^2	0.5488	Statistics	ferret	0.8037	1214	1.1587	825	fabrice	745	1130	1.0861
+5	894 m^2	1.101	bIOENGINEERING	fish	0.3014	212	1.058	680	Eriq	950	707	0.7701
+5	1122 m^2	0.9323	Bioengineering	fish	0.39	238	0.6224	?	Fabrice	1256	1073	1.0868
+8	1052 m^2	1.1894	Computer Science	dog	0.987	1171	1.0647	940	Tony	1041	787	1.0907
+3	796 m^2	0.6436	statistics	ferret	0.7544	732	0.938	1079	Inan	554	1294	1.1739
+6	530 m^2	0.9272	Technology and Information Management	pig	1.1477	1036	1.0575	1023	Michael	1075	916	1.3762
+0	418 m^2	0.602	Biotechnology	ferret	0.5035	1339	0.282	204	Inan	673	1028	0.9841
+1	1063 m^2	0.9582	Electrical Engineering	reptile	0.8835	770	1.067	783	Vani	862	1084	None
+4	835 m^2	1.0384	Bioinformatics	bird	0.0464	434	0.9961	1333	Inan	1287	808	0.6779
+7	1053 m^2	1.0619	Data Science	cat	0.5433	946	0.7949	955	Chris	1001	153	1.1526
+7	904 m^2	0.5289	Data Science	cat	0.277	1102	0.7543	913	Chris	1057	98	1.1909
+4	863 m^2	0.8584	Bioinformatics	bird	0.4356	843	0.7464	1287	Inan	910	569	0.9806
+4	786 m^2	1.15	Robotics Engineering	guinea pig	None	829	1.0921	899	Lise	1120	830	0.8987
+8	1111 m^2	1.1356	computer science	dog	0.9034	1029	1.0727	895	Tony	962	807	1.0252
+0	362 m^2	0.0427	Natural Language Processing	rabbit	0.5315	1146	0.3731	36	Reilly	568	845	1.0891
+5	747 m^2	1.0396	Bioengineering	fish	0.5348	269	0.9706	727	Fabrice	1135	856	0.9029
+5	1112 m^2	1.0973	Bioengineering	fish	0.9886	333	0.9706	744	Fabrice	1034	985	0.9162
+3	1198 m^2	0.3962	Human Computer Interaction	ferret	0.7264	1127	1.1052	879	Andrew	891	1080	0.6397
+3	696 m^2	1.188	Human Computer Interaction	ferret	0.8881	1064	1.1689	1021	Andrew	551	995	0.9976
+8	1177 m^2	0.5347	Computer Science	dog	0.7142	1196	0.9809	824	Tony	794	1236	0.798
+2	1410 m^2	0.5513	Games and Playable Media	ferret	0.8628	1167	1.0218	267	Michael	1128	605	-0.0362
+1	1127 m^2	0.8364	Electrical Engineering	reptile	0.9376	1158	1.2006	969	Vani	1035	1160	0.9297
+2	1388 m^2	1.2033	Games and Playable Media	rat	0.7455	1237	0.8608	207	Michael	1002	397	0.2242
+8	995 m^2	1.168	Computer Science	dog	1.1129	1053	1.1319	1075	Sam	1071	863	1.1118
+1	1073 m^2	0.8941	eLECTRICAL eNGINEERING	reptile	1.2167	877	0.58	749	Vani	775	1157	1.137
+5	888 m^2	1.1457	Applied Mathematics	FISH	0.6498	481	1.4188	615	Fabrice	1013	939	0.8948
+6	580 m^2	1.1148	Technology and Information Management	pig	1.0376	617	1.0273	1100	Eriq	1030	1070	0.888
+7	1084 m^2	1.1376	Data Science	cat	0.7475	1028	1.0896	1124	Sam	917	213	0.9899
+4	1143 m^2	1.0429	Bioinformatics	hamster	0.1331	873	0.8671	1126	Lise	1374	816	0.4456
+8	1058 m^2	1.079	COMPUTER SCIENCE	dog	0.9983	1184	0.8292	953	Sam	799	1299	1.2272
+6	517 m^2	1.0381	Computational Media	pig	1.0456	1107	0.8915	908	Eriq	1310	1262	1.1294
+2	1083 m^2	1.0672	Games and Playable Media	chicken	1.0269	877	0.7703	154	Michael	716	279	0.4703
+7	709 m^2	0.6149	Data Science	cat	0.8872	996	0.8238	1126	Chris	1357	-182	0.8061
+7	853 m^2	0.9472	Data Science	cat	0.4885	713	1.0863	1213	Inan	1412	307	1.1775
+8	1347 m^2	0.6761	Computer Science	dog	0.9067	1004	0.8921	742	Sam	1041	1222	0.9134
+6	753 m^2	0.823	Computational Media	pig	1.1235	868	0.8138	768	Eriq	1410	1032	1.0862
+1	1069 m^2	1.1426	Electrical Engineering	reptile	0.9773	719	1.0217	1178	Vani	987	1102	0.9354
+0	169 m^2	-0.1252	Computer Engineering	rabbit	0.7562	1080	0.4426	301	Reilly	257	1028	0.9406
+4	820 m^2	0.7021	Bioinformatics	guinea pig	0.3214	506	0.588	1016	Inan	867	906	0.7871
+7	1215 m^2	0.6861	Data Science	cat	0.3397	751	0.8603	942	Chris	1509	261	1.1146
+6	630 m^2	1.1102	Computational Media	pig	1.119	882	1.1218	1230	Vani	1153	993	1.2087
+2	1028 m^2	0.9049	Games and Playable Media	chicken	1.0032	1048	1.0099	334	Michael	609	392	0.2144
+3	961 m^2	0.3684	Computer Game Design	hamster	1.0236	1045	0.892	958	Andrew	1356	675	1.156
+2	1307 m^2	0.8075	Games and Playable Media	RAT	1.0365	879	1.2503	NULL	Michael	1153	322	0.4243
+1	857 m^2	0.7456	Electrical Engineering	cat	1.0192	1386	1.0529	995	Chris	1011	932	1.0354
+6	670 m^2	1.2234	Technology and Information Management	pig	1.2816	989	1.1304	898	Eriq	1130	848	0.8722
+8	948 m^2	1.0586	None	dog	0.9134	1030	1.0123	1304	Sam	863	916	1.0818
+5	877 m^2	0.8727	Applied Mathematics	fish	0.5043	445	1.0974	799	N/A	1414	945	0.6574
+7	931 m^2	1.1869	Data Science	cat	0.1276	852	1.1089	835	Andrew	732	-109	0.9412
+6	927 m^2	0.8292	Technology And Information Management	pig	0.7355	1187	0.8657	1116	Eriq	1055	899	1.0574
+0	17 m^2	-0.3365	Computer Engineering	rabbit	0.616	1051	0.5754	427	Reilly	412	802	1.2437
+7	830 m^2	0.8204	Data Science	cat	0.6819	1198	0.7225	1307	Chris	1001	-54	0.9717
+1	1037 m^2	1.1962	Electrical Engineering	reptile	1.1797	1008	0.9367	1016	Eriq	1049	1006	1.4447
+3	1143 m^2	0.5085	Statistics	ferret	0.8004	879	0.9249	1201	Andrew	1138	1095	0.7142
+4	759 m^2	0.9131	Natural Language Processing	guinea pig	0.4142	974	0.7714	1050	LISE	1678	1010	0.5803
+8	867 m^2	0.9853	Computer Science	dog	0.9278	651	0.7691	1031	Sam	1239	1125	0.989
+1	1075 m^2	1.2251	Electrical Engineering	reptile	0.755	813	1.3077	1298	Vani	992	1065	1.0247
+7	1354 m^2	0.8967	Data Science	cat	0.6897	872	0.8763	1079	Chris	741	221	1.3976
+5	933 m^2	0.8428	Bioengineering	fish	0.6865	385	0.9294	662	Fabrice	933	1046	1.0816
+4	1136 m^2	0.5952	Bioinformatics	rabbit	0.1181	948	1.0	887	Michael	861	552	0.8304
+3	720 m^2	0.5452	Computer Game Design	hamster	0.957	942	0.732	1062	Andrew	1077	784	0.9437
+4	999 m^2	1.1458	Bioinformatics	guinea pig	0.2685	883	0.6554	1101	Inan	837	808	0.931
+7	992 m^2	0.7662	Data Science	cat	0.8313	1063	1.2037	969	Chris	1244	49	0.8954
+5	933 m^2	1.2205	Bioengineering	fish	0.6011	325	0.7481	371	Andrew	1390	962	1.3763
+6	466 m^2	0.8214	Computational Media	pig	0.8544	1020	0.8439	958	Eriq	957	791	1.0883
+6	586 m^2	1.204	Computational Media	pig	0.9802	857	0.9274	824	Sam	1160	794	0.6956
+0	225 m^2	-0.0942	Computer Engineering	rabbit	0.6575	818	-0.0497	438	Reilly	245	1320	0.8917
+3	1110 m^2	0.8155	Statistics	hamster	1.2813	929	0.9061	781	Eriq	881	1185	1.1341
+2	1065 m^2	0.9614	Games and Playable Media	rat	1.2139	1079	1.0511	138	Michael	1267	473	0.4673
+6	793 m^2	1.1444	Technology and Information Management	pig	1.0581	898	0.8471	1326	Eriq	837	1017	1.1373
+5	1018 m^2	1.0472	Bioengineering	reptile	0.9234	605	1.1237	595	Fabrice	878	696	0.8383
+6	359 m^2	0.8181	Games and Playable Media	bird	1.1691	1127	0.7604	924	Eriq	1006	860	
+6	n/a	0.7825	Technology and Information Management	pig	1.2977	654	0.776	1111	Eriq	836	899	0.8554
+8	1077 m^2	1.1237	Computer Science	reptile	0.957	1081	0.9238	996	Tony	813	1206	1.2329
+6	623 m^2	0.9144	Technology and Information Management	pig	1.0902	1121	1.3323	1043	eriq	807	1049	0.8549
+7	1240 m^2	0.9857	Data Science	cat	0.8	952	1.0509	1393	Chris	943	75	1.0323
+6	614 m^2	1.1637	Computational Media	pig	1.1946	1038	0.6582	727	Eriq	753	1305	0.5911
+5	1048 m^2	0.9594	Applied Mathematics	cat	0.5721	297	1.0939	562	Fabrice	1172	869	0.6793
+6	514 m^2	1.3538	Computational Media	rabbit	1.0725	992	0.9555	1195	Fabrice	709	910	1.1159
+1	1139 m^2	1.2577	Electrical Engineering	chicken	1.1241	818	1.0068	1034	N/A	981	807	0.8674
+7	1442 m^2	1.0829	Data Science	cat	0.5162	884	0.7771	1133	cHRIS	1374	307	0.854
+3	1223 m^2	0.3054	Computer Game Design	chicken	NULL	996	1.0538	1125	Sam	740	667	1.3369
+6	742 m^2	0.5733	Computational Media	pig	1.1524	873	0.9981	859	Eriq	1032	1035	0.8958
+1	973 m^2	0.9658	Electrical Engineering	reptile	1.0818	935	1.1755	741	Vani	962	941	0.7278
+1	800 m^2	0.8684	Electrical Engineering	REPTILE	1.042	834	0.7867	1122	Reilly	1264	1043	1.1711
+8	993 m^2	1.0587	Computer Science	dog	0.9882	899	1.0716	1004	Sam	984	1201	0.9423
+1	918 m^2	0.9343	Electrical Engineering	reptile	1.1746	1035	1.0696	1055	Vani	1256	1111	1.0109
+5	940 m^2	0.6316	Bioengineering	FISH	0.7221	277	1.044	640	Fabrice	729	879	1.3274
+0	437 m^2	0.152	Natural Language Processing	rabbit	0.5125	748	0.5304	327	Reilly	483	989	1.052
+1	889 m^2	1.3659	Electrical Engineering	reptile	1.135	850	1.3118	776	Vani	840	1272	1.1791
+8	1071 m^2	0.9228	Computer Science	dog	0.8411	906	0.8599	984	Lise	1049	1114	1.2561
+2	744 m^2	0.4579	Games and Playable Media	chicken	1.0276	846	1.12	402	Michael	1066	371	0.008
+0	43 m^2	-0.0128	Computer Engineering	rabbit	0.5709	1291	0.4478	250	Reilly	314	1073	0.5659
+7	786 m^2	0.3967	Data Science	cat	0.5685	1074	0.9513	980	Chris	742	278	0.9519
+3	1105 m^2	0.4199	Human Computer Interaction	pig	0.7074	868	1.0519	1010	Andrew	330	798	1.0154
+7	844 m^2	0.3718	Data Science	cat	0.802	890	0.8638	960	Chris	855	396	0.9499
+8	912 m^2	NULL	Computer Science	dog	0.8862	1128	0.9863	1160	Sam	866	1041	0.9524
+7	1197 m^2	0.6756	Data Science	cat	0.9968	1149	0.8151	1485	Chris	715	-163	1.3818
+1	1254 m^2	1.0929	Electrical Engineering	dog	0.7083	849	1.0346	941	Tony	991	962	1.2277
+4	1010 m^2	n/a	Robotics Engineering	rat	0.2038	819	0.9622	1228	Lise	1057	490	1.0767
+2	852 m^2	0.8756	Games and Playable Media	rabbit	1.2317	961	0.9144	384	Michael	1184	462	0.6408
+7	1139 m^2	0.5473	Data Science	cat	0.7671	1152	0.9855	1062	Chris	1023	-71	1.2639
+5	1216 m^2	1.2171	Data Science	fish	0.4263	375	0.9205	859	fabrice		870	0.8034
+5	1026 m^2	1.0454	Bioengineering	fish	0.5757	328	1.3419	967	Fabrice	422	788	1.0535
+7	1164 m^2	0.8139	Data Science	cat	0.5845	1077	1.1286	797	Chris	942	-66	1.0849
+5	1097 m^2	1.4405	BIOENGINEERING	dog	0.5276	363	1.1291	966		990	842	0.9134
+8	1147 m^2	1.0891	Computer Science	dog	1.3592	786	1.1276	1205	Sam	796	742	0.7704
+4	1044 m^2	1.4531	Bioinformatics	guinea pig	0.5097	868	0.7613	1263	Lise	964	808	0.4553
+6	853 m^2	0.8619	Games and Playable Media	dog	0.9405	1028	0.874	961	Eriq	881	998	0.8913
+1	858 m^2	1.0389	Electrical Engineering	reptile	1.0432	846	1.1037	830	Vani	1250	1245	1.0263
+5	844 m^2	1.0098	Applied Mathematics	reptile	0.6509	420	1.2222	1042	Fabrice	1174	903	1.0083
+5	933 m^2	1.1266	Applied Mathematics	fish	0.3798	330	0.5603	490	Fabrice	544	842	1.1056
+8	870 m^2	0.993	Computer Science	dog	1.2969	1006	1.148	1010	Tony	690	851	1.089
+5	1136 m^2	1.4074	Applied Mathematics	pig	0.3894	123	1.1415	749	Fabrice	1073	908	1.2344
+2	624 m^2	0.6251	Games and Playable Media	rat	1.152	1178	1.3351	220	Eriq	500	230	0.2378
+3	1126 m^2	0.6003	Human Computer Interaction	ferret	1.0569	1018	1.2224	1195	Andrew	872	932	1.2355
+1	1278 m^2	1.0605	Electrical Engineering	reptile	1.0728	845	0.7414	1030	Vani	1157	968	0.8777
+8	1109 m^2	0.8269	Computer Science	dog	1.1811	1163	1.1532	751	sAM	894	658	1.0696
+5	1028 m^2	1.7053	Applied Mathematics	fish	0.7578	641	1.1809	784	fABRICE	1189	818	0.9435
+6	707 m^2	0.9295	Technology and Information Management	pig	1.0577	722	1.0542	897	Eriq	956	945	0.855
+2	956 m^2	1.3829	Games and Playable Media	chicken	0.9071	1021	1.0774	397	Michael	904	332	0.3315
+5	994 m^2	0.9563	Applied Mathematics	fish	0.6346	498	1.1486	692	Fabrice	1283	690	1.0084
+5	979 m^2	0.6478	Bioengineering	fish	0.4686	135	0.9972	589	Fabrice	1009	1150	1.2943
+6	775 m^2	1.1123	Technology and Information Management	pig	0.7056	857	0.9832	1068	Eriq	579	674	1.1947
+2	992 m^2	0.9621	Games and Playable Media	chicken	1.321	780	1.4896	416	Michael	1167	337	0.4762
+2	1013 m^2	1.005	Computer Science	rat	0.7989	860	0.8152	199	Michael	495	499	0.3602
+0	435 m^2	0.2288	N/A	rabbit	0.8313	1028	0.5109	533	Reilly	557	1026	0.7759
+4	1390 m^2	0.7209	bIOINFORMATICS	guinea pig	0.3546	895	0.5946	821	Inan	558	792	0.8067
+5	845 m^2	0.8307	Applied Mathematics	fish	0.5332	272	0.7415	432	Fabrice	980	900	1.0397
+5	1228 m^2	1.0957	Data Science	fish	0.4507	473	0.7045	606	Fabrice	1144	1047	0.7907
+0	355 m^2	0.1452	Computer Engineering	rabbit	0.7897	1398	0.5917	638	Reilly	254	1528	0.6841
+3	963 m^2	0.3436	Human Computer Interaction	hamster	0.8511	871	1.214	1223	Andrew	1152	1030	1.1314
+2	1191 m^2	0.9069	Games and Playable Media	chicken	0.7776	859	1.1075	220	Michael	1165	530	0.5211
+4	986 m^2	1.3519	Robotics Engineering	guinea pig	0.0789	810	0.6993	847	Lise	1055	638	0.6827
+2	1066 m^2	1.0338	Games and Playable Media	rat	0.8474	1118	0.5442	158	Michael	1228	572	0.5336
+4	1048 m^2	1.1942	Robotics Engineering	bird	0.161	698	0.7873	979	Lise	985	889	0.6407
+3	966 m^2	0.3957	Human Computer Interaction	hamster	0.7535	1092	0.9256	1325	Andrew	1006	1070	1.1532
+4	1004 m^2	1.495	BIOINFORMATICS	guinea pig	0.2004	744	0.2218	1141	Lise	919	763	0.7407
+0	577 m^2	0.6832	Computer Engineering	rabbit	0.8036	698	0.3599	274	Reilly	224	989	0.5832
+5	1082 m^2	1.1419	Applied Mathematics	fish	0.9091	622	0.9156	643	Fabrice	918	796	1.1769
+3	835 m^2	0.7096	Computer Game Design	fish	0.7353	1314	1.1527	922	Andrew	1080	1167	1.0965
+0	310 m^2	0.0024	Biotechnology	rabbit	0.8203	829	0.0936	341	reilly	342	996	1.0984
+1	1396 m^2	1.2049	eLECTRICAL eNGINEERING	reptile	0.9075	995	0.9132	1004	Vani	1330	1009	0.9563
+8	943 m^2	1.0109	Computer Science	dog	0.8663	1135	0.998	1085	Sam	771	896	0.9429
+8	1193 m^2	1.1628	Computer Science	CAT	0.7295	971	1.0787	766	Fabrice	1171	1024	1.1555
+8	1284 m^2	1.1251	Computer Science	reptile	1.1825	825	1.1267	904	Sam	1386	958	0.714
+1	1147 m^2	0.9652	Electrical Engineering	chicken	0.9773	1080	1.0249	1165	Vani	407	1284	0.9694
+3	1203 m^2	0.5958	human computer interaction	ferret	0.8441	1068	0.9505	1157	Fabrice	915	1070	1.0902
+7	969 m^2	0.9435	Data Science	cat	0.5638	985	0.9168	1032	Chris	480	-35	0.9516
+0	50 m^2	-0.0357	Natural Language Processing	rabbit	0.9164	1106	0.2406	697	Reilly	244	910	1.2199
+8	1014 m^2	1.0793	Computer Science	dog	1.0051	1289	1.1328	1094	Tony	828	958	1.0066
+4	841 m^2	0.9951	Bioinformatics	guinea pig	0.4419	763	0.9531	1060	Lise	859	874	0.7574
+5	989 m^2	1.4137	Bioengineering	fish	0.6422	359	0.8778	741	Fabrice	1352	1014	0.7509
+1	732 m^2	1.2027	Electrical Engineering	reptile	0.6148	713	1.0307	969	Vani	1030	970	1.0022
+5	913 m^2	0.9453	Applied Mathematics	fish	0.3075	169	0.9093	552	Fabrice	988	817	0.9249
+5	1228 m^2	1.2227	Applied Mathematics	fish	0.4728	227	0.8627	833	Eriq	1060	658	0.7628
+4	1139 m^2	0.9526	Bioinformatics	bird	0.2436	988	0.8379	1159	lise	806	892	1.055
+3	1026 m^2	0.7429	Statistics	reptile	0.7118	1086	0.9719	1096	Andrew	972	993	0.8335
+4	1177 m^2	1.2599	Robotics Engineering	bird	0.4625	791	1.1126	972	Lise	799	625	0.7638
+0	93 m^2	0.4109	Computer Engineering	rabbit	0.7751	1018	0.5694	508	REILLY	392	992	0.9989
+5	1093 m^2	0.6145	Applied Mathematics	cat	0.6258	470	0.7346	692	Eriq	940	1074	0.8571
+6	814 m^2	1.1406	Technology and Information Management	pig	0.9834	n/a	0.8247	764	Eriq	926	918	0.6915
+3	899 m^2	0.9276	Human Computer Interaction	REPTILE	1.1103	1201	0.8709	935	Andrew	742	1087	0.8973
+7	929 m^2	0.9556	Data Science	cat	0.474	1164	1.042	1000	Chris	872	110	0.9891
+6	772 m^2	0.8325	Computational Media	pig	1.2981	1053	1.1384	1072	Eriq	1004	669	1.0791
+2	870 m^2	0.6671	gAMES AND pLAYABLE mEDIA	chicken	1.1711	979	0.9667	19	Michael	999	438	0.3144
+0	134 m^2	0.0995	Biotechnology	rabbit	0.6568	1030	0.4338	459	Reilly	280	577	0.9045
+6	554 m^2	0.9864	Technology and Information Management	pig	0.6979	1147	1.0359	942	Eriq	1140	1082	1.0277
+7	1023 m^2	1.0953	Data Science	cat	0.3182	906	0.6884	1130	Chris	603	239	0.8979
+8	887 m^2	0.936	Computer Science	dog	1.2837	909	0.6914	820	Tony	783	1066	1.016
+2	1066 m^2	1.0171	?	chicken	1.0746	1155	1.1741	NULL	mICHAEL	1074	583	0.3484
+3	693 m^2	0.4443	Human Computer Interaction	fish	0.8104	1007	0.8249	1199	Andrew	937	929	0.9521
+0	423 m^2	0.5076	Natural Language Processing	rabbit	0.5545	896	-0.0426	431	N/A	672	1307	0.8312
+7	937 m^2	0.8348	Data Science	fish	0.6424	1288	1.0021	927	Chris	759	147	1.198
+4	1212 m^2	0.4031	Robotics Engineering	bird	0.2705	824	0.8851	811	lise	993	988	0.7058
+1	758 m^2	1.1165	Electrical Engineering	reptile	1.0023	1023	0.9403	1032	Vani	1000	1115	0.6116
+8	1097 m^2	0.838	Computer Science	cat	1.3529	1391	1.1168	1106	Sam	1067	703	1.0435
+8	820 m^2	1.2087	COMPUTER GAME DESIGN	dog	1.2629	828	NULL	930	Tony	n/a	928	1.1415
+4	1177 m^2	0.9436	Bioinformatics	bird	0.3391	635	0.8472	854	Lise	1057	621	0.8868
+4	658 m^2	0.5884	Bioinformatics	guinea pig	0.2719	888	0.6541	1074	Inan	956	981	0.8011
+7	952 m^2	0.6043	Data Science	cat	0.1751	1341	0.8511	968	Chris	1362	171	0.7643
+4	1135 m^2	1.2032	Data Science	guinea pig	0.2763	632	0.8858	892	Inan	832	720	0.6455
+5	1081 m^2	1.1284	NULL	fish	0.6814	356	1.0889	854	Fabrice	1015	911	0.8003
+6	499 m^2	1.1098	Technology and Information Management	pig	0.9933	1154	1.1814	1077	Eriq	391	917	0.8553
+0	275 m^2	0.1779	Biotechnology	Rabbit	0.5121	840	0.0589	424	Fabrice	279	1136	0.7954
+2	983 m^2	1.1643	Games and Playable Media	chicken	0.7928	973	1.0932	314	Michael	701	284	0.3832
+6	605 m^2	1.405	Computational Media	pig	1.1269	991	0.6004	986	Eriq	887	689	1.0684
+4	873 m^2	0.7209	Robotics Engineering	bird	0.2133	901	0.8056	1132	Inan	1316	732	0.5921
+2	1243 m^2	0.5123	Games and Playable Media	dog	1.296	911	0.9507	318	Michael	917	462	0.3544
+2	1165 m^2	0.8058	Games and Playable Media	rat	0.855	868	0.9293	295	Michael	895	230	0.52
+4	933 m^2	0.3506	Bioinformatics	guinea pig	0.1322	423	0.7823	1413	Lise	931	1033	0.6748
+3	1081 m^2	0.4315	Human Computer Interaction	hamster	0.8861	1241	0.8537	1082	aNDREW	1136	884	0.8674
+2	1061 m^2	0.8605	Games and Playable Media	rat	0.8638	1099	1.1643	183	Michael	872	227	0.6173
+3	1317 m^2	0.579	Human Computer Interaction	hamster	0.9938	881	1.0471	625	Andrew	904	1088	0.896
+8	907 m^2	0.7631	Computer Science	dog	0.9422	952	0.824	924	Reilly	444	1093	0.9013
+5	1056 m^2	0.8432	Applied Mathematics	fish	0.7065	376	0.9366	540	Fabrice	796	720	1.0165
+1	1061 m^2	0.7257	Electrical Engineering	reptile	1.0624	1196	1.0004	1017	Vani	1122	956	1.3492
+5	979 m^2	1.0969	Bioengineering	fish	0.0561	351	0.8528	967	Fabrice	1153	790	0.6736
+6	803 m^2	0.9645	Computational Media	pig	0.9678	782	1.0655	1214	Eriq	703	1009	1.0439
+6	647 m^2	1.1479	Computational Media	PIG	1.1651	1096	0.736	1061	Eriq	1201	1069	0.8636
+2	1245 m^2	1.2592	Games and Playable Media	rat	0.8285	861	0.8662	72	Michael	953	680	0.3592
+0	260 m^2	-0.2637	Natural Language Processing	rabbit	0.9597	824	0.4432	570	Reilly	445	816	0.9858
+4	1063 m^2	0.6754	Robotics Engineering	Guinea Pig	0.0361	881	1.0893	990	Inan	578	790	1.1567
+2	1317 m^2	0.7747	Games and Playable Media	chicken	1.1979	858	1.0291	413	Michael	1006	59	0.2452
+6	N/A	1.2613	Computational Media	pig	0.9173	923	1.0375	1158	Eriq	989	1042	0.562
+8	1139 m^2		Computer Science	Dog	1.086	1079	0.8179	979	Sam	698	1002	0.8101
+6	467 m^2	0.6062	Technology and Information Management	pig	1.1685	959	0.7712	930	Eriq	652	825	0.8948
+6	841 m^2	0.7354	Technology and Information Management	pig	0.7612	880	0.628	924	Eriq	748	900	0.8813
+5	1482 m^2	1.306	Applied Mathematics	pig	0.8534	313	0.8635	651	Fabrice	1109	788	0.9601
+8	1043 m^2	0.9312	Computer Science	dog	0.7045	1104	0.8296	882	Tony	627	1245	0.7813
+6	535 m^2	1.0805	technology and information management	pig	1.1188	753	0.9396	1280	Eriq	593	1016	0.9444
+2	1002 m^2	0.6711	Games and Playable Media	chicken	1.0838	1286	1.2827	-64	Michael	1312	174	0.3546
+6	542 m^2	0.9131	Technology and Information Management	pig	1.2815	1052	0.9152	817	Tony	1135	851	1.1071
+1	1155 m^2	0.4793	Electrical Engineering	reptile	1.101	829	1.0395	1303	Vani	1038	1258	1.1048
+8	1087 m^2	1.1134	Computer Science	dog	0.9661	868	0.9054	818	Sam	972	1130	1.1063
+0	531 m^2	0.2542	Natural Language Processing	rabbit	0.4524	1163	0.3319	136	Reilly	744	875	1.1787
+7	774 m^2	1.0876	Data Science	cat	0.5819	1215	0.9747	853	Chris	1061	240	1.0283
+1	942 m^2	1.1165	Electrical Engineering	reptile	0.6264	671	0.9282	898	vANI	891	890	0.9846
+4	1001 m^2	1.1113	Bioinformatics	guinea pig	0.1415	972	0.7346	1014	Inan	560	587	1.1193
+5	1096 m^2	0.733	Applied Mathematics	fish	0.6048	452	1.12	494	Fabrice	1202	793	1.0081
+1	971 m^2	0.7002	Electrical Engineering	reptile	1.0135	977	1.3197	1218	Vani	1442	921	1.1166
+1	1116 m^2	1.2389	electrical engineering	reptile	0.9043	851	0.8323	1499	Vani	716	961	1.05
+0	215 m^2	-0.1229	Computer Engineering	rabbit	0.5215	1156	0.4937	487	Reilly	1020	814	1.3411
+1		0.7394	Electrical Engineering	reptile	0.9325	777	1.108	855	Vani	903	1202	1.0409
+2	929 m^2	1.0156	Games and Playable Media	rat	0.6009	1109	1.0057	149	Michael	922	544	0.5692
+8	904 m^2	1.3737	Computer Science	dog	0.7726	1126	0.9828	795	Michael	1080	990	0.9745
+8	728 m^2	0.9683	Computer Science	dog	1.0287	917	1.0224	1184	Eriq	976	656	1.0244
+2	952 m^2	0.6965	Games and Playable Media	chicken	0.8	1115	0.6198	235	Michael	1069	302	0.4521
+2	1087 m^2	0.8184	Games and Playable Media	rat	1.0912	733	1.2357	133	Michael	1074	235	0.3545
+1	810 m^2	0.8404	Electrical Engineering	reptile	0.8955	927	0.9769	1143	Vani	874	1021	0.9453
+3	1089 m^2	0.5579	Statistics	ferret	0.9128	1274	0.8206	947	Andrew	1039	1218	0.8741
+8	960 m^2	0.9825	cOMPUTER sCIENCE	dog	0.9527	1141	0.9884	1275	Sam	778	1036	0.8242
+1	939 m^2	1.0591	Electrical Engineering	reptile	1.0693	900	0.9297	897	Vani	1195	931	1.3829
+8	963 m^2	0.8705	Bioinformatics	dog	0.9643	1265	0.9449	?	Tony	1230	753	0.6298
+6	636 m^2	0.5325	Technology and Information Management	pig	1.1464	784	1.123	1017	Tony	994	752	0.8674
+6	922 m^2	1.0136	Technology and Information Management	pig	0.7828	1062	0.8076	1288	Eriq	605	914	0.8229
+5	854 m^2	0.82	Applied Mathematics	fish	0.4046	?	0.9072	624	Fabrice	1224	1182	0.5368
+1	887 m^2	0.991	Electrical Engineering	reptile	1.0866	779	0.8889	966	Vani	1214	748	1.0021
+7	972 m^2	0.5669	Data Science	cat	0.5	1085	0.9995	677	Vani	1047	-85	1.1855
+0	171 m^2	0.3411	Biotechnology	rabbit	0.7414	1070	0.6209	260	Reilly	338	942	0.8633
+3	1264 m^2	0.2691	?	ferret	0.8502	893	1.0488	732	Eriq	1201	924	0.8959
+5	758 m^2	0.9409	Applied Mathematics	fish	1.0587	600	0.9135	981	Fabrice	1005	773	0.842
+5	764 m^2	1.3626	Bioengineering	FISH	0.5216	29	1.0851	1040	Fabrice	1029	816	0.8787
+1	1245 m^2	1.1227	Electrical Engineering	hamster	0.7549	673	1.0495	1094	Vani	900	918	0.8213
+7	994 m^2	0.8349	Data Science	cat	0.7755	994	0.9394	1196	Chris	1004	126	1.2175
+5	804 m^2	1.1797	Bioengineering	fish	0.7194	348	0.9219	417	Fabrice	1045	1108	0.8894
+0	74 m^2	0.135	Natural Language Processing	rabbit	0.6424	1378	0.5334	339	Reilly	-46	1110	1.0346
+3	1092 m^2	0.2769	cOMPUTER gAME dESIGN	ferret	0.8511	1027	0.6998	1040	Andrew	1526	1111	1.0234
+8	819 m^2	1.2443	Computer Science	dog	1.0447	1142	1.0912	1234	TONY	743	947	1.0007
+2	1243 m^2	0.7326	Games and Playable Media	guinea pig	1.0202	1098	0.8238	148	Michael	1051	516	0.2383
+0	344 m^2	0.4496	Statistics	fish	0.8562	999	0.366	106	Reilly	539	1284	0.9259
+1	1253 m^2	0.8667	Electrical Engineering	cat	0.9541	895	0.3638	?	Vani	1099	812	0.9182
+4	1129 m^2	0.8898	Robotics Engineering	reptile	0.3942	565	0.8523	1153	Lise	1144	438	1.1288
+4	1125 m^2	?	Robotics Engineering	guinea pig	0.4311	887	0.6017	855	Inan	1241	506	0.6155
+0	76 m^2	0.1743	Computer Engineering	rabbit	0.5678	1048	0.5246	400	Reilly	213	1040	0.9847
+1	940 m^2	0.9285	Electrical Engineering	reptile	0.8283	838	1.0461	1169	Vani	950	832	1.0994
+7	1173 m^2	0.7317	Data Science	cat	0.6201	1200	1.063	862	Chris	1083	-258	1.1755
+3	851 m^2	0.4468	Computer Game Design	None	0.8394	1041	0.6053	1088	Andrew	636	868	1.101
+1	1186 m^2	0.9188	Electrical Engineering	reptile	1.0626	977	1.0927	1137	Vani	1202	1038	1.1076
+2	1235 m^2	0.9402	Games and Playable Media	chicken	0.9512	1063	0.7176	43	Tony	872	281	0.2735
+6	740 m^2	1.1548	Technology and Information Management	pig	0.9032	1430	1.0335	1049	Reilly	527	692	1.1786
+3	784 m^2	0.7725	Human Computer Interaction	FERRET	0.7851	848	0.5512	888	Eriq	1127	1115	1.0547
+2	1243 m^2	0.7503	Electrical Engineering	rat	0.9219	888	?	149	Eriq	883	547	0.6933
+3	856 m^2	0.4374	Statistics	ferret	0.6289	903	1.2429	1260	Andrew	1000	935	0.7558
+8	1127 m^2	1.1606	Computer Science	dog	0.9539	940	0.7235	1013	Sam	1283	961	0.9672
+5	648 m^2	0.6099	Applied Mathematics	fish	0.7353	546	0.8789	789	Fabrice	1089	1045	1.0968
+4	753 m^2	1.0949	Bioinformatics	bird	0.2426	646	0.9304	762	Inan	530	1147	1.0512
+2	741 m^2	1.1066	GAMES AND PLAYABLE MEDIA	chicken	0.8194	919	1.029	89	Michael		422	0.4407
+1	956 m^2	0.9828	Electrical Engineering	reptile	1.0984	572	0.667	998	Vani	1443	803	1.1578
+5	497 m^2	1.0501	Applied Mathematics	fish	0.7327	365	1.1525	603	Fabrice	846	872	1.1409
+0	290 m^2	0.1909	Computer Engineering	rabbit	0.7739	969	0.6017	241	Reilly	277	984	1.064
+8	932 m^2	0.7739	Computer Science	dog	0.9134	907	1.1433	995	Sam	918	833	0.9055
+1	1107 m^2	0.983	Electrical Engineering	reptile	1.1532	920	0.8973	915	Vani	1093	1209	1.0355
+5	920 m^2	1.0576	Bioengineering	fish	0.3385	543	1.3661	720	Fabrice	1295	555	1.1764
+6	769 m^2	0.8743	Computational Media	pig	1.0656	1404	1.1924	1015	Inan	687	997	0.8522
+7	1256 m^2	1.1587	Data Science	cat	0.4133	868	0.9532	883	Chris		-112	1.2274
+7	895 m^2	0.8191	Data Science	cat	0.6814	903	1.076	1258	Chris	1086	170	0.8693
+5	800 m^2	0.5194	Applied Mathematics	fish	0.6157	240	1.059	698	Fabrice	1449	754	1.2272
+8	868 m^2	0.7678	Computer Science	hamster	1.0264	961	0.7525	1063	Tony	678	963	1.024
+6	621 m^2	1.0783	Computational Media	pig	0.8906	1064	0.619	716	Eriq	1019	1071	
+0	375 m^2	0.2326	Natural Language Processing	rabbit	0.6168	1070	0.0726	435	Reilly	546	1002	1.0576
+7	1291 m^2	0.7797	Data Science	cat	0.6327	1145	0.8788	1271	Chris	1287	54	0.7855
+7	1222 m^2	0.9614	Data Science	cat	1.0757	1104	1.0807	997	Lise	945	223	0.7435
+3	n/a	0.7545	Computer Game Design	ferret	0.9657	1142	0.628	965	Andrew	1246	690	None
+3	1154 m^2	0.5026	Statistics	hamster	0.9849	965	0.6258	1017	Andrew	1303	877	0.9969
+4	1284 m^2	1.0552	Bioinformatics	guinea pig	0.1292	811	0.7874	1066	Inan	1023	649	0.8049
+4	872 m^2	1.2874	Robotics Engineering	bird	0.363	750	0.8002	911	Inan	701	729	0.8468
+7	786 m^2	1.0702	Data Science	cat	0.7037	1096	1.0026	823	Andrew	860	67	0.9634
+7	1274 m^2	1.0525	Data Science	cat	0.371	1120	1.1305	1103	Eriq	1018	-18	1.0204
+1	1044 m^2	1.1153	Electrical Engineering	reptile	0.9463	1007	1.0023	1035	Chris	1050	1024	1.0973
+2	1152 m^2	0.8386	Games and Playable Media	hamster	0.9114	883	0.59	-9	Michael	451	57	0.3245
+8	1323 m^2	0.8509	Computer Science	dog	1.2635	1079	0.7747	816	Lise	1172	1251	0.9591
+5	873 m^2	0.8962	Applied Mathematics	fish	N/A	420	0.9624	640	Fabrice	1126	1128	1.1344
+5	1032 m^2	1.0961	Bioengineering	fish	0.7954	345	0.9069	529	Fabrice	985	750	0.9956
+1	1272 m^2	1.1548	Electrical Engineering	reptile	0.9492	817	1.2677	928	Vani	1067	759	0.7099
+1	1234 m^2	0.7704	Electrical Engineering	dog	0.7803	556	0.8195	1325	Vani	1265	944	1.1381
+4	708 m^2	1.099	Robotics Engineering	guinea pig	0.2956	778	1.4208	994	Inan	953	944	0.9713
+5	820 m^2	0.8358	Bioengineering	fish	0.5311	297	1.188	755	Fabrice	940	961	0.8747
+4	855 m^2	0.9432	Robotics Engineering	bird	0.047	733	0.4954	1276	Inan	889	614	0.9193
+3	1148 m^2	0.6117	Statistics	chicken	0.9508	1265	1.1284	1016	Andrew	1368	861	0.6807
+6	854 m^2	1.1781	Computational Media	pig	1.0316	1008	0.8662	1072	Eriq	649	679	0.9036
+0	33 m^2	0.5235	Natural Language Processing	rabbit	0.7028	1004	0.5482	351	Reilly	607	1062	1.0634
+7	747 m^2	1.0771	Data Science	cat	0.4793	1371	1.1617	805	cHRIS	850	216	1.0284
+1	851 m^2	0.847	Electrical Engineering	reptile	0.9581	714	0.9423	1204	Vani	1168	975	1.0372
+2	996 m^2	0.67	Games and Playable Media	rat	0.6744	995	0.8133	321	mICHAEL	1164	856	0.3679
+1	789 m^2	1.0457	Electrical Engineering	reptile	0.9684	840	0.9795	1178	Andrew	None	988	1.1245
+3	960 m^2	0.2958	Statistics	ferret	1.095	1112	1.0864	858	Andrew	922	961	1.0432
